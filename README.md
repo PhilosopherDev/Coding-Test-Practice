@@ -29,16 +29,16 @@
       - #### 로또의 최고 순위와 최저 순위 :pencil2: [풀이](https://philosopherprogrammer.com/44) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%A1%9C%EB%98%90%EC%9D%98%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84)
       - #### 모의고사 :pencil2: [풀이](https://philosopherprogrammer.com/47) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
       - #### 문자열 내림차순으로 배치하기 :pencil2: [풀이](https://philosopherprogrammer.com/68) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)
-      - #### 부족한 금액 계산하기
+      - #### 부족한 금액 계산하기 :pencil2: [풀이](https://philosopherprogrammer.com/43) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%B6%80%EC%A1%B1%ED%95%9C%EA%B8%88%EC%95%A1%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0)
       - #### 서울에서 김서방 찾기 :pencil2: [풀이](https://philosopherprogrammer.com/73) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0)
       - #### 숫자 문자열과 영단어 :pencil2: [풀이](https://philosopherprogrammer.com/45) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4)
       - #### 실패율 :pencil2: [풀이](https://philosopherprogrammer.com/55) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8)
       - #### 약수의 개수와 덧셈 :pencil2: [풀이](https://philosopherprogrammer.com/79) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%95%BD%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98%EC%99%80%EB%8D%A7%EC%85%88)
       - #### 없는 숫자 더하기 :pencil2: [풀이](https://philosopherprogrammer.com/52) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0)
-      - #### 완주하지 못한 선수 <!-- :pencil2: [풀이]() :computer: [코드]() -->
-      - #### 음양 더하기 <!-- :pencil2: [풀이]() :computer: [코드]() -->
+      - #### 완주하지 못한 선수 :pencil2: [풀이](https://philosopherprogrammer.com/7) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98)
+      - #### 음양 더하기 :pencil2: [풀이](https://philosopherprogrammer.com/8) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%9D%8C%EC%96%91%EB%8D%94%ED%95%98%EA%B8%B0)
       - #### 최소 직사각형 :pencil2: [풀이](https://philosopherprogrammer.com/80) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
-      - #### 폰켓몬 <!-- :pencil2: [풀이]() :computer: [코드]() -->
+      - #### 폰켓몬 :pencil2: [풀이](https://philosopherprogrammer.com/9) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
 
     - ### Level2
 
