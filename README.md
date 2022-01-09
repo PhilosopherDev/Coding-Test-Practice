@@ -42,16 +42,16 @@
 
     - ### Level2
 
-      - #### 124 나라의 숫자 <!-- :pencil2: [풀이]() :computer: [코드]() -->
+      - #### 124 나라의 숫자 :pencil2: [풀이](https://philosopherprogrammer.com/39) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/124%EB%82%98%EB%9D%BC%EC%9D%98%EC%88%AB%EC%9E%90)
       - #### 가장 큰 수 :pencil2: [풀이](https://philosopherprogrammer.com/53) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98)
       - #### 구명보트 :pencil2: [풀이](https://philosopherprogrammer.com/70) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8)
       - #### 기능개발 :pencil2: [풀이](https://philosopherprogrammer.com/15) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)
       - #### 다리를 지나는 트럭 :pencil2: [풀이](https://philosopherprogrammer.com/50) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD)
-      - #### 문자열 압축 <!-- :pencil2: [풀이]() :computer: [코드]() -->
+      - #### 문자열 압축 :pencil2: [풀이](https://philosopherprogrammer.com/40) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95)
       - #### 소수 찾기 :pencil2: [풀이](https://philosopherprogrammer.com/48) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0)
-      - #### 오픈 채팅방 <!-- :pencil2: [풀이]() :computer: [코드]() -->
+      - #### 오픈 채팅방 :pencil2: [풀이](https://philosopherprogrammer.com/41) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)
       <!-- - #### 위장 :pencil2: [풀이]() :computer: [코드]() -->
-      - #### 짝지어 제거하기 <!-- :pencil2: [풀이]() :computer: [코드]() -->
+      - #### 짝지어 제거하기 :pencil2: [풀이](https://philosopherprogrammer.com/37) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%A7%9D%EC%A7%80%EC%96%B4%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
       - #### 카펫 :pencil2: [풀이](https://philosopherprogrammer.com/46) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%B9%B4%ED%8E%AB)
       - #### 큰 수 만들기 :pencil2: [풀이](https://philosopherprogrammer.com/69) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0)
       - #### 타겟 넘버 :pencil2: [풀이](https://philosopherprogrammer.com/38) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84)
