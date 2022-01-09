@@ -67,7 +67,7 @@
 
       - #### 1 Two Sum :pencil2: [풀이](https://philosopherprogrammer.com/17) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/1)
       - #### 9 Palindrome Number :pencil2: [풀이](https://philosopherprogrammer.com/20) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/9)
-      - #### 14 Longest Common Prefix :pencil2: [풀이](https://philosopherprogrammer.com/22) <!-- :computer: [코드]() -->
+      - #### 14 Longest Common Prefix :pencil2: [풀이](https://philosopherprogrammer.com/22) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/14)
       - #### 20 Valid Parentheses :pencil2: [풀이](https://philosopherprogrammer.com/14) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/20)
       - #### 21 Merge Two Sorted Lists :pencil2: [풀이](https://philosopherprogrammer.com/28) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/21)
       - #### 53 Maximum Subarray :pencil2: [풀이](https://philosopherprogrammer.com/57) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/53)
