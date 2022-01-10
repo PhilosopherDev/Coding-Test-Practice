@@ -50,7 +50,7 @@
       - #### 문자열 압축 :pencil2: [풀이](https://philosopherprogrammer.com/40) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95)
       - #### 소수 찾기 :pencil2: [풀이](https://philosopherprogrammer.com/48) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0)
       - #### 오픈 채팅방 :pencil2: [풀이](https://philosopherprogrammer.com/41) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)
-      <!-- - #### 위장 :pencil2: [풀이]() :computer: [코드]() -->
+      - #### 위장 :pencil2: [풀이](https://philosopherprogrammer.com/86) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%9C%84%EC%9E%A5)
       - #### 짝지어 제거하기 :pencil2: [풀이](https://philosopherprogrammer.com/37) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%A7%9D%EC%A7%80%EC%96%B4%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
       - #### 카펫 :pencil2: [풀이](https://philosopherprogrammer.com/46) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%B9%B4%ED%8E%AB)
       - #### 큰 수 만들기 :pencil2: [풀이](https://philosopherprogrammer.com/69) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0)
