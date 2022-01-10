@@ -84,6 +84,7 @@
       - #### 202 Happy Number :pencil2: [풀이](https://philosopherprogrammer.com/34) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/202)
       - #### 217 Contains Duplicate :pencil2: [풀이](https://philosopherprogrammer.com/56) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/217)
       - #### 350 Intersection of Two Arrays II :pencil2: [풀이](https://philosopherprogrammer.com/71) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/350)
+      - #### 387 First Unique Character in a String :pencil2: [풀이](https://philosopherprogrammer.com/82) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/387)
       - #### 566 Reshape the Matrix :pencil2: [풀이](https://philosopherprogrammer.com/81) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/566)
 
     - ### Medium
