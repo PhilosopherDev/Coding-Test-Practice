@@ -83,6 +83,7 @@
       - #### 169 Mafority Element :pencil2: [풀이](https://philosopherprogrammer.com/29) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/169)
       - #### 202 Happy Number :pencil2: [풀이](https://philosopherprogrammer.com/34) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/202)
       - #### 217 Contains Duplicate :pencil2: [풀이](https://philosopherprogrammer.com/56) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/217)
+      - #### 242 Valid Anagram :pencil2: [풀이](https://philosopherprogrammer.com/84) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/242)
       - #### 350 Intersection of Two Arrays II :pencil2: [풀이](https://philosopherprogrammer.com/71) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/350)
       - #### 383 Ransom Note :pencil2: [풀이](https://philosopherprogrammer.com/83) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/383)
       - #### 387 First Unique Character in a String :pencil2: [풀이](https://philosopherprogrammer.com/82) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/387)
