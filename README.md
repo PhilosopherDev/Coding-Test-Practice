@@ -94,6 +94,7 @@
       - #### 2 Add Two Numbers :pencil2: [풀이](https://philosopherprogrammer.com/18) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/2)
       - #### 7 Reverse Integer :pencil2: [풀이](https://philosopherprogrammer.com/19) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/7)
       - #### 11 Container with Most Water :pencil2: [풀이](https://philosopherprogrammer.com/21) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/11)
+      - #### 36 Valid Sudoku :pencil2: [풀이](https://philosopherprogrammer.com/85) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/36)
       - #### 102 Binary Tree Level Order Traversal :pencil2: [풀이](https://philosopherprogrammer.com/26) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/102)
       - #### 107 Binary Tree Level Order Traversal II :pencil2: [풀이](https://philosopherprogrammer.com/27) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/107)
       - #### 718 Maximum Length of Repeated Subarray :pencil2: [풀이](https://philosopherprogrammer.com/35) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/718)
