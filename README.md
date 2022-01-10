@@ -13,11 +13,11 @@
   - [BOJ](#boj)
 - [Data Structure](#data-structure)
 
-- ## Coding Test Platform <!-- :pencil2: [풀이]() :computer: [코드]() -->
+- ## Coding Test Platform
 
   - ## Programmers
 
-    - ### Level1
+    - ### Level1 <!-- :pencil2: [풀이]() :computer: [코드]() -->
 
       - #### 2016년 :pencil2: [풀이](https://philosopherprogrammer.com/67) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/2016%EB%85%84)
       - #### 가운데 글자 가져오기 :pencil2: [풀이](https://philosopherprogrammer.com/74) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EA%B0%80%EC%9A%B4%EB%8D%B0%EA%B8%80%EC%9E%90%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
@@ -40,7 +40,7 @@
       - #### 최소 직사각형 :pencil2: [풀이](https://philosopherprogrammer.com/80) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
       - #### 폰켓몬 :pencil2: [풀이](https://philosopherprogrammer.com/9) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
 
-    - ### Level2
+    - ### Level2 <!-- :pencil2: [풀이]() :computer: [코드]() -->
 
       - #### 124 나라의 숫자 :pencil2: [풀이](https://philosopherprogrammer.com/39) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/124%EB%82%98%EB%9D%BC%EC%9D%98%EC%88%AB%EC%9E%90)
       - #### 가장 큰 수 :pencil2: [풀이](https://philosopherprogrammer.com/53) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98)
@@ -63,7 +63,7 @@
 
   - ## Leetcode
 
-    - ### Easy
+    - ### Easy <!-- :pencil2: [풀이]() :computer: [코드]() -->
 
       - #### 1 Two Sum :pencil2: [풀이](https://philosopherprogrammer.com/17) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/1)
       - #### 9 Palindrome Number :pencil2: [풀이](https://philosopherprogrammer.com/20) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/9)
@@ -84,10 +84,11 @@
       - #### 202 Happy Number :pencil2: [풀이](https://philosopherprogrammer.com/34) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/202)
       - #### 217 Contains Duplicate :pencil2: [풀이](https://philosopherprogrammer.com/56) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/217)
       - #### 350 Intersection of Two Arrays II :pencil2: [풀이](https://philosopherprogrammer.com/71) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/350)
+      - #### 383 Ransom Note :pencil2: [풀이](https://philosopherprogrammer.com/83) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/383)
       - #### 387 First Unique Character in a String :pencil2: [풀이](https://philosopherprogrammer.com/82) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/387)
       - #### 566 Reshape the Matrix :pencil2: [풀이](https://philosopherprogrammer.com/81) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/566)
 
-    - ### Medium
+    - ### Medium <!-- :pencil2: [풀이]() :computer: [코드]() -->
 
       - #### 2 Add Two Numbers :pencil2: [풀이](https://philosopherprogrammer.com/18) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/2)
       - #### 7 Reverse Integer :pencil2: [풀이](https://philosopherprogrammer.com/19) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/7)
@@ -96,7 +97,7 @@
       - #### 107 Binary Tree Level Order Traversal II :pencil2: [풀이](https://philosopherprogrammer.com/27) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/107)
       - #### 718 Maximum Length of Repeated Subarray :pencil2: [풀이](https://philosopherprogrammer.com/35) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/718)
 
-    - ### Hard
+    - ### Hard <!-- :pencil2: [풀이]() :computer: [코드]() -->
 
   - ## BOJ
 
