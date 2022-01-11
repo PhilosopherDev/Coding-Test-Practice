@@ -12,7 +12,7 @@
     - [Hard](#hard)
   - [BOJ](#boj)
 
-<!-- - [Types of Coding Problem](#types-of-coding-problem)
+<!-- - [Related Topics of Problem](#related-topics-of-problem)
 
   - [해시](#해시)
   - [스택](#스택)
@@ -269,7 +269,7 @@
 
   - ## BOJ
 
-<!-- - ## Types of Coding Problem
+<!-- - ## Related Topics of Problem
 
   - ## 해시
   - ## 스택
