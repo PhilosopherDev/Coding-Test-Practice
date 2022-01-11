@@ -48,7 +48,7 @@
 
   - ## Programmers
 
-    - ### Level1
+    - ### :bulb: Level1
 
       - #### 2016년
         - :pencil2: [풀이](https://philosopherprogrammer.com/67)
@@ -111,7 +111,7 @@
         - :pencil2: [풀이](https://philosopherprogrammer.com/9)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
 
-    - ### Level2
+    - ### :bulb: Level2
 
       - #### 124 나라의 숫자
         - :pencil2: [풀이](https://philosopherprogrammer.com/39)
@@ -159,14 +159,14 @@
         - :pencil2: [풀이](https://philosopherprogrammer.com/54)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/H-Index)
 
-    - ### Level3
+    - ### :bulb: Level3
       - #### 베스트 앨범
         - :pencil2: [풀이](https://philosopherprogrammer.com/51)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)
 
   - ## Leetcode
 
-    - ### Easy
+    - ### :bulb: Easy
 
       - #### 1 Two Sum
         - :pencil2: [풀이](https://philosopherprogrammer.com/17)
@@ -238,7 +238,7 @@
         - :pencil2: [풀이](https://philosopherprogrammer.com/81)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/566)
 
-    - ### Medium
+    - ### :bulb: Medium
 
       - #### 2 Add Two Numbers
         - :pencil2: [풀이](https://philosopherprogrammer.com/18)
@@ -262,7 +262,7 @@
         - :pencil2: [풀이](https://philosopherprogrammer.com/35)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/718)
 
-    - ### Hard
+    - ### :bulb: Hard
 
   - ## BOJ
 
