@@ -227,7 +227,7 @@
       - #### 155 Min Stack
         - :pencil2: [풀이](https://philosopherprogrammer.com/16)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/155)
-      - #### 169 Mafority Element
+      - #### 169 Majority Element
         - :pencil2: [풀이](https://philosopherprogrammer.com/29)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/169)
       - #### 202 Happy Number
