@@ -90,8 +90,8 @@ function generatePlatformProblems() {
         difficulties[diff] = Object.keys(solvedProblemModel).filter((key) => solvedProblemModel[key].difficulty === diff).sort((a, b) => solvedProblemModel[a].name.localeCompare(solvedProblemModel[b].name)).map((key) => {            
             if (!(solvedProblemModel[key].url && solvedProblemModel[key].url.blog && solvedProblemModel[key].url.github)) return "- " + solvedProblemModel[key].name;
             
-            return "- " + solvedProblemModel[key].name + "\n             - :pencil2: " + "[풀이]" + "(" + solvedProblemModel[key].url.blog + ")" + "\n             - :computer: " + "[코드]" + "(" + solvedProblemModel[key].url.github + ")"; 
-        }).join("\n       ");
+            return "- " + solvedProblemModel[key].name + "\n" + "             - :pencil2: " + "[풀이]" + "(" + solvedProblemModel[key].url.blog + ")" + "\n" + "             - :computer: " + "[코드]" + "(" + solvedProblemModel[key].url.github + ")"; 
+        }).join("\n         ");
     });
 
     return `- ## Sort by Coding Test Platform
