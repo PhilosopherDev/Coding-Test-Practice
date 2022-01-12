@@ -362,7 +362,6 @@
 
   - ## DFS
 
-    - [타겟 넘버](#타겟-넘버)
     - [94 Binary Tree Inorder Traversal](#94-Binary-Tree-Inorder-Traversal)
     - [144 Binary Tree Preorder Traversal](#144-Binary-Tree-Preorder-Traversal)
     - [145 Binary Tree Postorder Traversal](#145-Binary-Tree-Postorder-Traversal)

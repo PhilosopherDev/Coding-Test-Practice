@@ -62,7 +62,7 @@ const solvedProblem = {
         "platform": PLATFORM.PROGRAMMERS,
         "difficulty": DIFFICULTY[PLATFORM.PROGRAMMERS].LEVEL2,
         "language": [LANGUAGE.JAVASCRIPT],
-        "topic": [TOPIC.DFS, TOPIC.BFS],
+        "topic": [TOPIC.BFS],
         "url": {            
             "blog": "https://philosopherprogrammer.com/38",
             "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84"
