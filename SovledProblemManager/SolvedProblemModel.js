@@ -1,7 +1,6 @@
-const fs = require('fs');
 const { PLATFORM, DIFFICULTY, TOPIC, LANGUAGE } = require('./SolvedProblemTypes');
 
-const solvedProblem = {
+const solvedProblemModel = {
     "_0viyqfp": {
         "name": "위장",
         "platform": PLATFORM.PROGRAMMERS,
@@ -262,8 +261,8 @@ const solvedProblem = {
         "language": [LANGUAGE.JAVASCRIPT],
         "topic": [],
         "url": {            
-            "blog": "https://philosopherprogrammer.com/",
-            "github": ""
+            "blog": "https://philosopherprogrammer.com/9",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC"
         }        
     },
     "_t2qsumx": {
@@ -778,53 +777,4 @@ const solvedProblem = {
     },
  */
 
-function relatedToTopicGenerator() {
-    const topics = {
-        [TOPIC.DATA_STRUCTURE.ARRAY]: '',
-        [TOPIC.DATA_STRUCTURE.LINKED_LIST]: '',
-        [TOPIC.DATA_STRUCTURE.HASH]: '',
-        [TOPIC.DATA_STRUCTURE.STACK]: '',
-        [TOPIC.DATA_STRUCTURE.QUEUE]: '',
-        [TOPIC.SORTING]: '',
-        [TOPIC.BRUTEFORCE]: '',
-        [TOPIC.BFS]: '',
-        [TOPIC.DFS]: '',
-        [TOPIC.GREEDY]: '',
-        [TOPIC.BINARY_SEARCH]: '',
-    } 
-
-    Object.keys(topics).forEach((topic) => {
-        topics[topic] = Object.keys(solvedProblem).filter((key) => solvedProblem[key].topic.indexOf(topic) > -1).map((key) => {
-            return `- [${solvedProblem[key].name}](#${solvedProblem[key].name.split(" ").join("-")})\n`
-        }).join("        ");
-    });
-
-    return `
- - ## 자료구조
-    - ## 배열
-        ${topics[TOPIC.DATA_STRUCTURE.ARRAY]}  
-    - ## 연결 리스트
-        ${topics[TOPIC.DATA_STRUCTURE.LINKED_LIST]}
-    - ## 해시
-        ${topics[TOPIC.DATA_STRUCTURE.HASH]}
-    - ## 스택
-        ${topics[TOPIC.DATA_STRUCTURE.STACK]}
-    - ## 큐
-        ${topics[TOPIC.DATA_STRUCTURE.QUEUE]}
- - ## 알고리즘
-    - ## 정렬
-        ${topics[TOPIC.SORTING]}
-    - ## 완전 탐색
-        ${topics[TOPIC.BRUTEFORCE]}
-    - ## DFS
-        ${topics[TOPIC.DFS]}
-    - ## BFS
-        ${topics[TOPIC.BFS]}
-    - ## Greedy
-        ${topics[TOPIC.GREEDY]}
-    - ## Binary Search
-        ${topics[TOPIC.BINARY_SEARCH]}
-    `;
-}
-
-fs.writeFileSync('dist/RelatedToTopic.md', relatedToTopicGenerator());
+module.exports = { solvedProblemModel };
