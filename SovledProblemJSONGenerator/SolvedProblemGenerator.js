@@ -684,7 +684,85 @@ const solvedProblem = {
             "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/566"
         }        
     },
+    "_djo7pdb": { 
+        "name": "2 Add Two Numbers",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].MEDIUM,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.LINKED_LIST, TOPIC.MATH, TOPIC.RECURSION],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/18",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/2"
+        }        
+    },
+    "_e0zag9b": { 
+        "name": "7 Reverse Integer",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].MEDIUM,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.MATH],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/19",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/7"
+        }        
+    },
+    "_7uwsxnt": { 
+        "name": "11 Container with Most Water",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].MEDIUM,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.ARRAY, TOPIC.TWO_POINTERS, TOPIC.GREEDY],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/21",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/11"
+        }        
+    },
+    "_labx0go": { 
+        "name": "36 Valid Sudoku",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].MEDIUM,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.ARRAY, TOPIC.DATA_STRUCTURE.HASH, TOPIC.MATRIX],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/85",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/36"
+        }        
+    },
+    "_orkq2f6": { 
+        "name": "102 Binary Tree Level Order Traversal",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].MEDIUM,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.TREE, TOPIC.BFS, TOPIC.DATA_STRUCTURE.BINARY_TREE],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/26",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/102"
+        }        
+    },
+    "_7h5ye5q": { 
+        "name": "107 Binary Tree Level Order Traversal II",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].MEDIUM,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.TREE, TOPIC.BFS, TOPIC.DATA_STRUCTURE.BINARY_TREE],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/27",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/107"
+        }        
+    },
+    "_enejm8t": { 
+        "name": "718 Maximum Length of Repeated Subarray",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].MEDIUM,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.ARRAY, TOPIC.BINARY_SEARCH, TOPIC.DYNAMIC_PROGRAMMING],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/35",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/718"
+        }        
+    },
 }
+
 
 /**
     "_id": { 

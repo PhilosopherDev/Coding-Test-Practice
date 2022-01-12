@@ -48,7 +48,8 @@ const TOPIC = {
         QUEUE: "queue",
         HASH: "hash",
         STRING: "string",
-        TREE: "tree"
+        TREE: "tree",
+        BINARY_TREE: "binary_tree"
     },
     SORTING: "sorting",
     BRUTEFORCE: "bruteforce",
