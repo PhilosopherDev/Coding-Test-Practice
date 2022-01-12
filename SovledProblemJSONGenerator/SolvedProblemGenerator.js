@@ -1,20 +1,6 @@
 const fs = require('fs');
 const { PLATFORM, DIFFICULTY, TOPIC, LANGUAGE } = require('./Types');
 
-/**
-    "_id": { 
-        "name": "",
-        "platform": PLATFORM,
-        "difficulty": DIFFICULTY,        
-        "language": [LANGUAGE.JAVASCRIPT],
-        "topic": [],
-        "url": {
-            "blog": "",
-            "github": ""
-        }        
-    },
- */
-
 const solvedProblem = {
     "_0viyqfp": {
         "name": "위장",
@@ -434,6 +420,284 @@ const solvedProblem = {
             "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94"
         }        
     },
+    "_pll9wr4": { 
+        "name": "1 Two Sum",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.ARRAY, TOPIC.DATA_STRUCTURE.HASH],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/17",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/1"
+        }        
+    },
+    "_g8srr4o": { 
+        "name": "9 Palindrome Number",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.MATH],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/20",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/9"
+        }        
+    },
+    "_56dhoek": { 
+        "name": "14 Longest Common Prefix",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.STRING],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/22",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/14"
+        }        
+    },
+    "_w8iyalr": { 
+        "name": "20 Valid Parentheses",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.STRING, TOPIC.DATA_STRUCTURE.STACK],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/14",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/20"
+        }        
+    },
+    "_2m67d4h": { 
+        "name": "21 Merge Two Sorted Lists",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/28",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/21"
+        }        
+    },
+    "_9bj4hop": { 
+        "name": "53 Maximum Subarray",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.LINKED_LIST, TOPIC.RECURSION],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/57",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/53"
+        }        
+    },
+    "_ptf5gts": { 
+        "name": "70 Climbing Stairs",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.MATH, TOPIC.DYNAMIC_PROGRAMMING, TOPIC.MEMOIZATION],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/30",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/70"
+        }        
+    },
+    "_nfea6ul": { 
+        "name": "88 Merge Sorted Array",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.TWO_POINTERS, TOPIC.DATA_STRUCTURE.ARRAY, TOPIC.SORTING],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/58",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/88"
+        }        
+    },
+    "_1v40272": { 
+        "name": "94 Binary Tree Inorder Traversal",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.STACK, TOPIC.DATA_STRUCTURE.TREE, TOPIC.DFS],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/24",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/94"
+        }        
+    },
+    "_35jmctp": { 
+        "name": "118 Pascals Triangle",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.ARRAY, TOPIC.DYNAMIC_PROGRAMMING],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/36",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/118"
+        }        
+    },
+    "_brav39k": { 
+        "name": "121 Best Time to Buy and Sell Stock",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.ARRAY, TOPIC.DYNAMIC_PROGRAMMING],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/72",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/121"
+        }        
+    },
+    "_u5avgy7": { 
+        "name": "136 Single Number",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.ARRAY, TOPIC.BIT_MANIPULATION],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/32",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/136"
+        }        
+    },
+    "_jh6x11b": { 
+        "name": "141 Linked List Cycle",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.HASH, TOPIC.DATA_STRUCTURE.LINKED_LIST, TOPIC.TWO_POINTERS],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/87",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/141"
+        }        
+    },
+    "_x40oyse": { 
+        "name": "144 Binary Tree Preorder Traversal",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.STACK, TOPIC.DATA_STRUCTURE.TREE, TOPIC.DFS],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/23",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/144"
+        }        
+    },
+    "_1dchodw": { 
+        "name": "145 Binary Tree Postorder Traversal",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.STACK, TOPIC.DATA_STRUCTURE.TREE, TOPIC.DFS],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/25",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/145"
+        }        
+    },
+    "_ssa1qfl": { 
+        "name": "155 Min Stack",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.STACK, TOPIC.DESIGN],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/16",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/155"
+        }        
+    },
+    "_5wdiax0": { 
+        "name": "169 Majority Element",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.ARRAY, TOPIC.DATA_STRUCTURE.HASH, TOPIC.SORTING, TOPIC.COUNTING, TOPIC.DVIDE_AND_CONQUER],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/29",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/169"
+        }        
+    },
+    "_j9tdd3m": { 
+        "name": "202 Happy Number",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.HASH, TOPIC.MATH, TOPIC.TWO_POINTERS],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/34",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/202"
+        }        
+    },
+    "_p5m41w7": { 
+        "name": "217 Contains Duplicate",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.ARRAY, TOPIC.DATA_STRUCTURE.HASH, TOPIC.SORTING],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/56",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/217"
+        }        
+    },
+    "_ipqsu0d": { 
+        "name": "242 Valid Anagram",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.HASH, TOPIC.DATA_STRUCTURE.STRING, TOPIC.SORTING],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/84",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/242"
+        }        
+    },
+    "_bjg1eor": { 
+        "name": "350 Intersection of Two Arrays II",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.ARRAY, TOPIC.DATA_STRUCTURE.HASH, TOPIC.TWO_POINTERS, TOPIC.BINARY_SEARCH, TOPIC.SORTING],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/71",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/350"
+        }        
+    },
+    "_35npo4q": { 
+        "name": "383 Ransom Note",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.HASH, TOPIC.DATA_STRUCTURE.STRING, TOPIC.COUNTING],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/83",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/383"
+        }        
+    },
+    "_ae3gy8c": { 
+        "name": "387 First Unique Character in a String",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.HASH, TOPIC.DATA_STRUCTURE.STRING, TOPIC.DATA_STRUCTURE.QUEUE, TOPIC.COUNTING],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/82",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/387"
+        }        
+    },
+    "_9js8ek2": { 
+        "name": "566 Reshape the Matrix",
+        "platform": PLATFORM.LEETCODE,
+        "difficulty": DIFFICULTY[PLATFORM.LEETCODE].EASY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [TOPIC.DATA_STRUCTURE.ARRAY, TOPIC.MATRIX, TOPIC.SIMULATION],
+        "url": {
+            "blog": "https://philosopherprogrammer.com/81",
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/566"
+        }        
+    },
 }
+
+/**
+    "_id": { 
+        "name": "",
+        "platform": PLATFORM,
+        "difficulty": DIFFICULTY,        
+        "language": [LANGUAGE.JAVASCRIPT],
+        "topic": [],
+        "url": {
+            "blog": "",
+            "github": ""
+        }        
+    },
+ */
 
 fs.writeFileSync('dist/SolvedProblem.json', JSON.stringify(solvedProblem));

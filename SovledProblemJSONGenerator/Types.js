@@ -47,15 +47,28 @@ const TOPIC = {
         STACK: "stack",
         QUEUE: "queue",
         HASH: "hash",
-        STRING: "string"
+        STRING: "string",
+        TREE: "tree"
     },
     SORTING: "sorting",
     BRUTEFORCE: "bruteforce",
     DFS: "dfs",
     BFS: "bfs",
     GREEDY: "greedy",
-    BST: "bst",
-    IMPLEMENT: "implement"
+    BINARY_SEARCH: "binary_search",
+
+    IMPLEMENT: "implement",
+    MATH: "math",
+    RECURSION: "recursion",
+    DYNAMIC_PROGRAMMING: "dynamic_programming",
+    MEMOIZATION: "memoization",
+    TWO_POINTERS: "two_pointers",
+    BIT_MANIPULATION: "bit_manipulation",
+    DESIGN: "design",
+    DVIDE_AND_CONQUER: "divide_and_conquer",
+    COUNTING: "counting",
+    MATRIX: "matrix",
+    SIMULATION: "simulation"
 }
 
 const LANGUAGE = {
