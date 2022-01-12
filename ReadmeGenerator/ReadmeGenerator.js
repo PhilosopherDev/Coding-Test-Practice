@@ -90,7 +90,7 @@ function generatePlatformProblems() {
         difficulties[diff] = Object.keys(solvedProblemModel).filter((key) => solvedProblemModel[key].difficulty === diff).sort((a, b) => solvedProblemModel[a].name.localeCompare(solvedProblemModel[b].name)).map((key) => {            
             if (!(solvedProblemModel[key].url && solvedProblemModel[key].url.blog && solvedProblemModel[key].url.github)) return "- " + solvedProblemModel[key].name;
             
-            return "- " + solvedProblemModel[key].name + "\n" + "             - :pencil2: " + "[풀이]" + "(" + solvedProblemModel[key].url.blog + ")" + "\n" + "             - :computer: " + "[코드]" + "(" + solvedProblemModel[key].url.github + ")"; 
+            return "- #### " + solvedProblemModel[key].name + "\n" + "             - :pencil2: " + "[풀이]" + "(" + solvedProblemModel[key].url.blog + ")" + "\n" + "             - :computer: " + "[코드]" + "(" + solvedProblemModel[key].url.github + ")"; 
         }).join("\n         ");
     });
 
@@ -98,27 +98,27 @@ function generatePlatformProblems() {
 
     - ## Programmers
   
-      - ### :bulb: Level1
+      - ### Level1
         ${difficulties[DIFFICULTY[PLATFORM.PROGRAMMERS].LEVEL1]}
-      - ### :bulb: Level2
+      - ### Level2
         ${difficulties[DIFFICULTY[PLATFORM.PROGRAMMERS].LEVEL2]}
-      - ### :bulb: Level3
+      - ### Level3
         ${difficulties[DIFFICULTY[PLATFORM.PROGRAMMERS].LEVEL3]}
 
     - ## Leetcode
 
-      - ### :bulb: Easy
+      - ### Easy
         ${difficulties[DIFFICULTY[PLATFORM.LEETCODE].EASY]}
-      - ### :bulb: Medium
+      - ### Medium
         ${difficulties[DIFFICULTY[PLATFORM.LEETCODE].MEDIUM]}
-      - ### :bulb: Hard
+      - ### Hard
         ${difficulties[DIFFICULTY[PLATFORM.LEETCODE].HARD]}
 
     - ## BOJ
 
-      - ### :bulb: Bronze
-      - ### :bulb: Silver
-      - ### :bulb: Gold
+      - ### Bronze
+      - ### Silver
+      - ### Gold
     `
 }
 
@@ -147,28 +147,28 @@ function generatorRelatedToTopicProblems() {
  - ## Sort by Related Topic
 
  - ## 자료구조
-    - ## :gem: 배열
+    - ## 배열
         ${topics[TOPIC.DATA_STRUCTURE.ARRAY]}  
-    - ## :gem: 연결 리스트
+    - ## 연결 리스트
         ${topics[TOPIC.DATA_STRUCTURE.LINKED_LIST]}
-    - ## :gem: 해시
+    - ## 해시
         ${topics[TOPIC.DATA_STRUCTURE.HASH]}
-    - ## :gem: 스택
+    - ## 스택
         ${topics[TOPIC.DATA_STRUCTURE.STACK]}
-    - ## :gem: 큐
+    - ## 큐
         ${topics[TOPIC.DATA_STRUCTURE.QUEUE]}
  - ## 알고리즘
-    - ## :gem: 정렬
+    - ## 정렬
         ${topics[TOPIC.SORTING]}
-    - ## :gem: 완전 탐색
+    - ## 완전 탐색
         ${topics[TOPIC.BRUTEFORCE]}
-    - ## :gem: DFS
+    - ## DFS
         ${topics[TOPIC.DFS]}
-    - ## :gem: BFS
+    - ## BFS
         ${topics[TOPIC.BFS]}
-    - ## :gem: Greedy
+    - ## Greedy
         ${topics[TOPIC.GREEDY]}
-    - ## :gem: Binary Search
+    - ## Binary Search
         ${topics[TOPIC.BINARY_SEARCH]}
     `;
 }
