@@ -372,7 +372,7 @@ const solvedProblemModel = {
         "topic": [TOPIC.DATA_STRUCTURE.ARRAY],
         "url": {            
             "blog": "https://philosopherprogrammer.com/78",
-            "github": "(https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%82%98%EB%88%84%EC%96%B4%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%EC%88%AB%EC%9E%90%EB%B0%B0%EC%97%B4"
+            "github": "https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%82%98%EB%88%84%EC%96%B4%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%EC%88%AB%EC%9E%90%EB%B0%B0%EC%97%B4"
         }        
     },
     "_41bjb67": {
