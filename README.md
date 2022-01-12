@@ -31,7 +31,7 @@
 
   - ## Programmers
 
-    - ### :bulb: Level1
+    - ### Level1
       - 2016년
         - :pencil2: [풀이](https://philosopherprogrammer.com/67)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/2016%EB%85%84)
@@ -94,7 +94,7 @@
         - :pencil2: [풀이](https://philosopherprogrammer.com/9)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
       - K번째수
-    - ### :bulb: Level2
+    - ### Level2
       - 124 나라의 숫자
         - :pencil2: [풀이](https://philosopherprogrammer.com/39)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/124%EB%82%98%EB%9D%BC%EC%9D%98%EC%88%AB%EC%9E%90)
@@ -140,14 +140,14 @@
       - H-Index
         - :pencil2: [풀이](https://philosopherprogrammer.com/54)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/H-Index)
-    - ### :bulb: Level3
+    - ### Level3
       - 베스트앨범
         - :pencil2: [풀이](https://philosopherprogrammer.com/51)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)
 
   - ## Leetcode
 
-    - ### :bulb: Easy
+    - ### Easy
       - 1 Two Sum
         - :pencil2: [풀이](https://philosopherprogrammer.com/17)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/1)
@@ -220,7 +220,7 @@
       - 94 Binary Tree Inorder Traversal
         - :pencil2: [풀이](https://philosopherprogrammer.com/24)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/94)
-    - ### :bulb: Medium
+    - ### Medium
       - 102 Binary Tree Level Order Traversal
         - :pencil2: [풀이](https://philosopherprogrammer.com/26)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/102)
@@ -242,19 +242,19 @@
       - 718 Maximum Length of Repeated Subarray
         - :pencil2: [풀이](https://philosopherprogrammer.com/35)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/718)
-    - ### :bulb: Hard
+    - ### Hard
 
   - ## BOJ
 
-    - ### :bulb: Bronze
-    - ### :bulb: Silver
-    - ### :bulb: Gold
+    - ### Bronze
+    - ### Silver
+    - ### Gold
 
 - ## Sort by Related Topic
 
 - ## 자료구조
 
-  - ## :gem: 배열
+  - ## 배열
 
     - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
     - [음양 더하기](#음양-더하기)
@@ -272,13 +272,13 @@
     - [36 Valid Sudoku](#36-Valid-Sudoku)
     - [718 Maximum Length of Repeated Subarray](#718-Maximum-Length-of-Repeated-Subarray)
 
-  - ## :gem: 연결 리스트
+  - ## 연결 리스트
 
     - [53 Maximum Subarray](#53-Maximum-Subarray)
     - [141 Linked List Cycle](#141-Linked-List-Cycle)
     - [2 Add Two Numbers](#2-Add-Two-Numbers)
 
-  - ## :gem: 해시
+  - ## 해시
 
     - [위장](#위장)
     - [오픈채팅방](#오픈채팅방)
@@ -295,7 +295,7 @@
     - [387 First Unique Character in a String](#387-First-Unique-Character-in-a-String)
     - [36 Valid Sudoku](#36-Valid-Sudoku)
 
-  - ## :gem: 스택
+  - ## 스택
 
     - [기능개발](#기능개발)
     - [짝지어 제거하기](#짝지어-제거하기)
@@ -305,7 +305,7 @@
     - [145 Binary Tree Postorder Traversal](#145-Binary-Tree-Postorder-Traversal)
     - [155 Min Stack](#155-Min-Stack)
 
-  - ## :gem: 큐
+  - ## 큐
     - [기능개발](#기능개발)
     - [프린터](#프린터)
     - [다리를 지나는 트럭](#다리를-지나는-트럭)
@@ -313,7 +313,7 @@
 
 - ## 알고리즘
 
-  - ## :gem: 정렬
+  - ## 정렬
 
     - [가장 큰 수](#가장-큰-수)
     - [H-Index](#H-Index)
@@ -326,32 +326,32 @@
     - [242 Valid Anagram](#242-Valid-Anagram)
     - [350 Intersection of Two Arrays II](#350-Intersection-of-Two-Arrays-II)
 
-  - ## :gem: 완전 탐색
+  - ## 완전 탐색
 
     - [소수 찾기](#소수-찾기)
     - [카펫](#카펫)
     - [모의고사](#모의고사)
     - [두 개 뽑아서 더하기](#두-개-뽑아서-더하기)
 
-  - ## :gem: DFS
+  - ## DFS
 
     - [94 Binary Tree Inorder Traversal](#94-Binary-Tree-Inorder-Traversal)
     - [144 Binary Tree Preorder Traversal](#144-Binary-Tree-Preorder-Traversal)
     - [145 Binary Tree Postorder Traversal](#145-Binary-Tree-Postorder-Traversal)
 
-  - ## :gem: BFS
+  - ## BFS
 
     - [타겟 넘버](#타겟-넘버)
     - [102 Binary Tree Level Order Traversal](#102-Binary-Tree-Level-Order-Traversal)
     - [107 Binary Tree Level Order Traversal II](#107-Binary-Tree-Level-Order-Traversal-II)
 
-  - ## :gem: Greedy
+  - ## Greedy
 
     - [큰 수 만들기](#큰-수-만들기)
     - [구명보트](#구명보트)
     - [체육복](#체육복)
     - [11 Container with Most Water](#11-Container-with-Most-Water)
 
-  - ## :gem: Binary Search
+  - ## Binary Search
     - [350 Intersection of Two Arrays II](#350-Intersection-of-Two-Arrays-II)
     - [718 Maximum Length of Repeated Subarray](#718-Maximum-Length-of-Repeated-Subarray)
