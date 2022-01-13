@@ -166,9 +166,9 @@ function generatorRelatedToTopicProblems() {
         ${topics[TOPIC.DFS]}
     - ## BFS
         ${topics[TOPIC.BFS]}
-    - ## Greedy
+    - ## 탐욕법
         ${topics[TOPIC.GREEDY]}
-    - ## Binary Search
+    - ## 이분 탐색
         ${topics[TOPIC.BINARY_SEARCH]}
     `;
 }
