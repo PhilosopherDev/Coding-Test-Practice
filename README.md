@@ -86,14 +86,16 @@
       - #### 음양 더하기
         - :pencil2: [풀이](https://philosopherprogrammer.com/8)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%9D%8C%EC%96%91%EB%8D%94%ED%95%98%EA%B8%B0)
-      - 체육복
+      - #### 체육복
+        - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
       - #### 최소 직사각형
         - :pencil2: [풀이](https://philosopherprogrammer.com/80)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
       - #### 폰켓몬
         - :pencil2: [풀이](https://philosopherprogrammer.com/9)
         - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
-      - K번째수
+      - #### K번째수
+        - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/K%EB%B2%88%EC%A8%B0%EC%88%98)
     - ### Level2
       - #### 124 나라의 숫자
         - :pencil2: [풀이](https://philosopherprogrammer.com/39)
