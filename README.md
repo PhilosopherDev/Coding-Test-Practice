@@ -345,13 +345,13 @@
     - [102 Binary Tree Level Order Traversal](#102-Binary-Tree-Level-Order-Traversal)
     - [107 Binary Tree Level Order Traversal II](#107-Binary-Tree-Level-Order-Traversal-II)
 
-  - ## Greedy
+  - ## 탐욕법
 
     - [큰 수 만들기](#큰-수-만들기)
     - [구명보트](#구명보트)
     - [체육복](#체육복)
     - [11 Container with Most Water](#11-Container-with-Most-Water)
 
-  - ## Binary Search
+  - ## 이분 탐색
     - [350 Intersection of Two Arrays II](#350-Intersection-of-Two-Arrays-II)
     - [718 Maximum Length of Repeated Subarray](#718-Maximum-Length-of-Repeated-Subarray)
