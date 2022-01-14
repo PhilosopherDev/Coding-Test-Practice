@@ -8,7 +8,6 @@
       - [Leetcode](#leetcode)
         - [Easy](#easy)
         - [Medium](#medium)
-        - [Hard](#hard)
       - [BOJ](#boj)
         - [Bronze](#bronze)
         - [Silver](#silver)
@@ -246,8 +245,6 @@
          - #### 718 Maximum Length of Repeated Subarray
              - :pencil2: [풀이](https://philosopherprogrammer.com/35)
              - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/718)
-      - ### Hard
-        
 
     - ## BOJ
 
