@@ -2,16 +2,16 @@
  - # Overview
     - [Sort by Coding Test Platform](#sort-by-coding-test-platform)    
       - [Programmers](#programmers)
-        - [Level1](#level1)
-        - [Level2](#level2)
-        - [Level3](#level3)
+        - [Level1](#level1-22)
+        - [Level2](#level2-15)
+        - [Level3](#level3-1)
       - [Leetcode](#leetcode)
-        - [Easy](#easy)
-        - [Medium](#medium)
+        - [Easy](#easy-24)
+        - [Medium](#medium-7)
       - [BOJ](#boj)
-        - [Bronze](#bronze)
-        - [Silver](#silver)
-        - [Gold](#gold)
+        - [Bronze](#bronze-20)
+        - [Silver](#silver-23)
+        - [Gold](#gold-1)
     
     - [Sort by Related Topic](#sort-by-related-topic)
       - [자료구조](#자료구조)
@@ -32,7 +32,7 @@
 
     - ## Programmers
   
-      - ### Level1
+      - ### Level1 (22)
         - #### 2016년
              - :pencil2: [풀이](https://philosopherprogrammer.com/67)
              - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/2016%EB%85%84)
@@ -97,7 +97,7 @@
              - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
          - #### K번째수
              - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/K%EB%B2%88%EC%A8%B0%EC%88%98)
-      - ### Level2
+      - ### Level2 (15)
         - #### 124 나라의 숫자
              - :pencil2: [풀이](https://philosopherprogrammer.com/39)
              - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/124%EB%82%98%EB%9D%BC%EC%9D%98%EC%88%AB%EC%9E%90)
@@ -143,14 +143,14 @@
          - #### H-Index
              - :pencil2: [풀이](https://philosopherprogrammer.com/54)
              - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/H-Index)
-      - ### Level3
+      - ### Level3 (1)
         - #### 베스트앨범
              - :pencil2: [풀이](https://philosopherprogrammer.com/51)
              - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)
 
     - ## Leetcode
 
-      - ### Easy
+      - ### Easy (24)
         - #### 1 Two Sum
              - :pencil2: [풀이](https://philosopherprogrammer.com/17)
              - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/1)
@@ -223,7 +223,7 @@
          - #### 94 Binary Tree Inorder Traversal
              - :pencil2: [풀이](https://philosopherprogrammer.com/24)
              - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/94)
-      - ### Medium
+      - ### Medium (7)
         - #### 102 Binary Tree Level Order Traversal
              - :pencil2: [풀이](https://philosopherprogrammer.com/26)
              - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/102)
@@ -248,7 +248,7 @@
 
     - ## BOJ
 
-      - ### Bronze
+      - ### Bronze (14)
         - #### 1000 A+B
              - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/5/1000)
          - #### 1001 A-B
@@ -279,7 +279,7 @@
              - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/3040)
         - #### 9093 단어 뒤집기
              - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/1/9093)
-      - ### Silver
+      - ### Silver (21)
         - #### 1158 요세푸스 문제
              - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/5/1158)
          - #### 7785 회사에 있는 사람
@@ -322,7 +322,7 @@
              - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/1/1927)
          - #### 2178 미로 탐색
              - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/1/2178)
-      - ### Gold
+      - ### Gold (1)
         
         - #### 17298 오큰수
              - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/3_Gold/4/17298)
