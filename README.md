@@ -9,8 +9,8 @@
         - [Easy](#easy-24)
         - [Medium](#medium-7)
       - [BOJ](#boj)
-        - [Bronze](#bronze-20)
-        - [Silver](#silver-23)
+        - [Bronze](#bronze-14)
+        - [Silver](#silver-21)
         - [Gold](#gold-1)
     
     - [Sort by Related Topic](#sort-by-related-topic)
