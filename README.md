@@ -10,6 +10,9 @@
         - [Medium](#medium)
         - [Hard](#hard)
       - [BOJ](#boj)
+        - [Bronze](#bronze)
+        - [Silver](#silver)
+        - [Gold](#gold)
     
     - [Sort by Related Topic](#sort-by-related-topic)
       - [자료구조](#자료구조)
