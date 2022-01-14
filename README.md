@@ -2,31 +2,31 @@
  - # Overview
     - [Sort by Coding Test Platform](#sort-by-coding-test-platform)    
       - [Programmers](#programmers)
-        - [Level1](#level1-22)
-        - [Level2](#level2-15)
-        - [Level3](#level3-1)
+        - [Level1 (22)](#level1-22)
+        - [Level2 (15)](#level2-15)
+        - [Level3 (1)](#level3-1)
       - [Leetcode](#leetcode)
-        - [Easy](#easy-24)
-        - [Medium](#medium-7)
+        - [Easy (24)](#easy-24)
+        - [Medium (7)](#medium-7)
       - [BOJ](#boj)
-        - [Bronze](#bronze-14)
-        - [Silver](#silver-21)
-        - [Gold](#gold-1)
+        - [Bronze (14)](#bronze-14)
+        - [Silver (21)](#silver-21)
+        - [Gold (1)](#gold-1)
     
     - [Sort by Related Topic](#sort-by-related-topic)
       - [자료구조](#자료구조)
-        - [배열](#배열)
-        - [연결 리스트](#연결-리스트)
-        - [해시](#해시)
-        - [스택](#스택)
-        - [큐](#큐)
+        - [배열 (15)](#배열-15)
+        - [연결 리스트 (4)](#연결-리스트-4)
+        - [해시 (16)](#해시-16)
+        - [스택 (13)](#스택-13)
+        - [큐 (8)](#큐-8)
       - [알고리즘](#알고리즘)
-        - [정렬](#정렬)
-        - [완전 탐색](#완전-탐색)
-        - [DFS](#DFS)
-        - [BFS](#BFS)
-        - [탐욕법](#탐욕법)
-        - [이분 탐색](#이분-탐색)
+        - [정렬 (14)](#정렬-14)
+        - [완전 탐색 (8)](#완전-탐색-8)
+        - [DFS (4)](#DFS-4)
+        - [BFS (5)](#BFS-5)
+        - [탐욕법 (6)](#탐욕법-6)
+        - [이분 탐색 (2)](#이분-탐색-2)
     
 - ## Sort by Coding Test Platform
 
@@ -334,7 +334,7 @@
  - ## Sort by Related Topic
 
  - ## 자료구조
-    - ## 배열
+    - ## 배열 (15)
         - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
         - [음양 더하기](#음양-더하기)
         - [나누어 떨어지는 숫자 배열](#나누어-떨어지는-숫자-배열)
@@ -351,13 +351,13 @@
         - [36 Valid Sudoku](#36-Valid-Sudoku)
         - [718 Maximum Length of Repeated Subarray](#718-Maximum-Length-of-Repeated-Subarray)
   
-    - ## 연결 리스트
+    - ## 연결 리스트 (4)
         - [53 Maximum Subarray](#53-Maximum-Subarray)
         - [141 Linked List Cycle](#141-Linked-List-Cycle)
         - [2 Add Two Numbers](#2-Add-Two-Numbers)
         - [1406 에디터](#1406-에디터)
 
-    - ## 해시
+    - ## 해시 (16)
         - [위장](#위장)
         - [오픈채팅방](#오픈채팅방)
         - [완주하지 못한 선수](#완주하지-못한-선수)
@@ -375,7 +375,7 @@
         - [7785 회사에 있는 사람](#7785-회사에-있는-사람)
         - [1302 베스트셀러](#1302-베스트셀러)
 
-    - ## 스택
+    - ## 스택 (13)
         - [기능개발](#기능개발)
         - [짝지어 제거하기](#짝지어-제거하기)
         - [20 Valid Parentheses](#20-Valid-Parentheses)
@@ -390,7 +390,7 @@
         - [17413 단어 뒤집기 2](#17413-단어-뒤집기-2)
         - [17298 오큰수](#17298-오큰수)
 
-    - ## 큐
+    - ## 큐 (8)
         - [기능개발](#기능개발)
         - [프린터](#프린터)
         - [다리를 지나는 트럭](#다리를-지나는-트럭)
@@ -401,7 +401,7 @@
         - [11866 요세푸스 문제 0](#11866-요세푸스-문제-0)
 
  - ## 알고리즘
-    - ## 정렬
+    - ## 정렬 (14)
         - [가장 큰 수](#가장-큰-수)
         - [H-Index](#H-Index)
         - [K번째수](#K번째수)
@@ -417,7 +417,7 @@
         - [1449 수리공 항승](#1449-수리공-항승)
         - [1931 회의실 배정](#1931-회의실-배정)
 
-    - ## 완전 탐색
+    - ## 완전 탐색 (8)
         - [소수 찾기](#소수-찾기)
         - [카펫](#카펫)
         - [모의고사](#모의고사)
@@ -427,20 +427,20 @@
         - [10448 유레카 이론](#10448-유레카-이론)
         - [3085 사탕 게임](#3085-사탕-게임)
 
-    - ## DFS
+    - ## DFS (4)
         - [94 Binary Tree Inorder Traversal](#94-Binary-Tree-Inorder-Traversal)
         - [144 Binary Tree Preorder Traversal](#144-Binary-Tree-Preorder-Traversal)
         - [145 Binary Tree Postorder Traversal](#145-Binary-Tree-Postorder-Traversal)
         - [11724 연결 요소의 개수](#11724-연결-요소의-개수)
 
-    - ## BFS
+    - ## BFS (5)
         - [타겟 넘버](#타겟-넘버)
         - [102 Binary Tree Level Order Traversal](#102-Binary-Tree-Level-Order-Traversal)
         - [107 Binary Tree Level Order Traversal II](#107-Binary-Tree-Level-Order-Traversal-II)
         - [11724 연결 요소의 개수](#11724-연결-요소의-개수)
         - [2178 미로 탐색](#2178-미로-탐색)
 
-    - ## 탐욕법
+    - ## 탐욕법 (6)
         - [큰 수 만들기](#큰-수-만들기)
         - [구명보트](#구명보트)
         - [체육복](#체육복)
@@ -448,7 +448,7 @@
         - [1449 수리공 항승](#1449-수리공-항승)
         - [1931 회의실 배정](#1931-회의실-배정)
 
-    - ## 이분 탐색
+    - ## 이분 탐색 (2)
         - [350 Intersection of Two Arrays II](#350-Intersection-of-Two-Arrays-II)
         - [718 Maximum Length of Repeated Subarray](#718-Maximum-Length-of-Repeated-Subarray)
 
