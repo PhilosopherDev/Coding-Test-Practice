@@ -1,14 +1,14 @@
-# Coding Test Practice
+# Coding Test Practice (105)
  - # Overview
     - [Sort by Coding Test Platform](#sort-by-coding-test-platform)    
-      - [Programmers](#programmers)
+      - [Programmers (38)](#programmers-38)
         - [Level1 (22)](#level1-22)
         - [Level2 (15)](#level2-15)
         - [Level3 (1)](#level3-1)
-      - [Leetcode](#leetcode)
+      - [Leetcode (31)](#leetcode-31)
         - [Easy (24)](#easy-24)
         - [Medium (7)](#medium-7)
-      - [BOJ](#boj)
+      - [BOJ (36)](#boj-36)
         - [Bronze (14)](#bronze-14)
         - [Silver (21)](#silver-21)
         - [Gold (1)](#gold-1)
@@ -30,7 +30,7 @@
     
 - ## Sort by Coding Test Platform
 
-    - ## Programmers
+    - ## Programmers (38)
   
       - ### Level1 (22)
         - #### 2016년
@@ -148,7 +148,7 @@
              - :pencil2: [풀이](https://philosopherprogrammer.com/51)
              - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)
 
-    - ## Leetcode
+    - ## Leetcode (31)
 
       - ### Easy (24)
         - #### 1 Two Sum
@@ -246,7 +246,7 @@
              - :pencil2: [풀이](https://philosopherprogrammer.com/35)
              - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/718)
 
-    - ## BOJ
+    - ## BOJ (36)
 
       - ### Bronze (14)
         - #### 1000 A+B
