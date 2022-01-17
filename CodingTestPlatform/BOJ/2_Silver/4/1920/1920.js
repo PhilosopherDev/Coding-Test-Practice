@@ -4,7 +4,7 @@
  * console.log 조심해서 사용하자. 엄청 자원 잡아먹어서 시간 초과 난다.
  */
 
-// /** 배열, 시간 초과 */
+// /** 배열, 시간 초과 => console.log 위치 떄문*/
 // function solution(input) {
 //     const n = input[1].split(" "), M = parseInt(input[2]), m = input[3].split(" ");
 
@@ -14,7 +14,7 @@
 // }
 
 
-// /** Set, 시간 초과 */
+// /** Set, 시간 초과 => console.log 위치 떄문 */
 // function solution(input) {
 //     const n = new Set(input[1].split(" ")), M = parseInt(input[2]), m = input[3].split(" ");
 
@@ -23,7 +23,7 @@
 //     }
 // }
 
-/** Hash, 시간 초과 */
+/** Hash, 시간 초과 => console.log 위치 떄문 */
 // function solution(input) {
 //     const N = parseInt(input[0]), n = input[1].split(" "), M = parseInt(input[2]), m = input[3].split(" ");
 //     const nHash = {};
@@ -46,6 +46,20 @@
 
 //         n.match(reg) ? console.log(1) : console.log(0);
 //     }
+// }
+
+/** Regexp, console.log 줄여도 시간 초과 */
+// function solution(input) {
+//     const n = input[1], M = parseInt(input[2]), m = input[3].split(" ");
+//     let result = [];
+
+//     for (let i = 0; i < M; i++) {
+//         const reg = new RegExp(m[i], 'i');
+
+//         n.match(reg) ? result.push(1) : result.push(0);
+//     }
+
+//     return result.join('\n');
 // }
 
 /** Hash, 성공*/
