@@ -1,4 +1,4 @@
-# Coding Test Practice (105)
+# Coding Test Practice (107)
  - # Overview
     - [Sort by Coding Test Platform](#sort-by-coding-test-platform)    
       - [Programmers (38)](#programmers-38)
@@ -8,9 +8,9 @@
       - [Leetcode (31)](#leetcode-31)
         - [Easy (24)](#easy-24)
         - [Medium (7)](#medium-7)
-      - [BOJ (36)](#boj-36)
+      - [BOJ (38)](#boj-38)
         - [Bronze (14)](#bronze-14)
-        - [Silver (21)](#silver-21)
+        - [Silver (23)](#silver-23)
         - [Gold (1)](#gold-1)
     
     - [Sort by Related Topic](#sort-by-related-topic)
@@ -22,11 +22,11 @@
         - [큐 (8)](#큐-8)
       - [알고리즘](#알고리즘)
         - [정렬 (14)](#정렬-14)
-        - [완전 탐색 (8)](#완전-탐색-8)
+        - [완전 탐색 (9)](#완전-탐색-9)
         - [DFS (4)](#DFS-4)
         - [BFS (5)](#BFS-5)
         - [탐욕법 (6)](#탐욕법-6)
-        - [이분 탐색 (2)](#이분-탐색-2)
+        - [이분 탐색 (3)](#이분-탐색-3)
     
 - ## Sort by Coding Test Platform
 
@@ -246,7 +246,7 @@
              - :pencil2: [풀이](https://philosopherprogrammer.com/35)
              - :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/718)
 
-    - ## BOJ (36)
+    - ## BOJ (38)
 
       - ### Bronze (14)
         - #### 1000 A+B
@@ -279,9 +279,11 @@
              - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/3040)
         - #### 9093 단어 뒤집기
              - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/1/9093)
-      - ### Silver (21)
+      - ### Silver (23)
         - #### 1158 요세푸스 문제
              - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/5/1158)
+         - #### 4673 셀프 넘버
+             - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/5/4673)
          - #### 7785 회사에 있는 사람
              - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/5/7758)
         - #### 10828 스택
@@ -294,6 +296,8 @@
              - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/11866)
          - #### 1302 베스트셀러
              - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/1302)
+         - #### 1920 수 찾기
+             - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/1920)
          - #### 2164 카드2
              - :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/2164)
          - #### 9012 괄호
@@ -417,7 +421,7 @@
         - [1449 수리공 항승](#1449-수리공-항승)
         - [1931 회의실 배정](#1931-회의실-배정)
 
-    - ## 완전 탐색 (8)
+    - ## 완전 탐색 (9)
         - [소수 찾기](#소수-찾기)
         - [카펫](#카펫)
         - [모의고사](#모의고사)
@@ -426,6 +430,7 @@
         - [3040 백설 공주와 일곱 난쟁이](#3040-백설-공주와-일곱-난쟁이)
         - [10448 유레카 이론](#10448-유레카-이론)
         - [3085 사탕 게임](#3085-사탕-게임)
+        - [4673 셀프 넘버](#4673-셀프-넘버)
 
     - ## DFS (4)
         - [94 Binary Tree Inorder Traversal](#94-Binary-Tree-Inorder-Traversal)
@@ -448,8 +453,9 @@
         - [1449 수리공 항승](#1449-수리공-항승)
         - [1931 회의실 배정](#1931-회의실-배정)
 
-    - ## 이분 탐색 (2)
+    - ## 이분 탐색 (3)
         - [350 Intersection of Two Arrays II](#350-Intersection-of-Two-Arrays-II)
         - [718 Maximum Length of Repeated Subarray](#718-Maximum-Length-of-Repeated-Subarray)
+        - [1920 수 찾기](#1920-수-찾기)
 
     
