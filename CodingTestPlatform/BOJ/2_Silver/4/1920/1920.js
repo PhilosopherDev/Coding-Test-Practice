@@ -77,14 +77,27 @@
 //     return result.join('\n');
 // }
 
-/** BST */
-// function solution(input) {
-//     const N = parseInt(input[0]), n = input[1].split(" ").map((num) => parseInt(num)).sort((a, b) => a - b), M = parseInt(input[2]), m = input[3].split(" ");
+/** Binary Search, 성공! */
+function solution(input) {
+    const N = parseInt(input[0]), n = input[1].split(" ").map((num) => parseInt(num)).sort((a, b) => a - b), M = parseInt(input[2]), m = input[3].split(" ").map((char) => parseInt(char));
+    let result = [];
 
+    const binarySearch = (arr, start, end, val) => {
+        if (start > end) return false;
+        
+        const mid = Math.ceil((start + end) / 2);
+        if (arr[mid] === val) {
+            return true;
+        } else if (val < arr[mid]) {
+            return binarySearch(arr, start, mid - 1, val);
+        } else {
+            return binarySearch(arr, mid + 1, end, val);
+        }
+    }
 
-//     const binarySearch = (arr, start, end) => {
-
-//     }
-// }
+    m.forEach((num) => binarySearch(n, 0, n.length - 1, num) ? result.push(1) : result.push(0));
+    // console.log(result.join('\n'));
+    return result.join('\n');
+}
 
 module.exports = solution;
