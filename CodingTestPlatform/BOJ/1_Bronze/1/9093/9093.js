@@ -1,5 +1,6 @@
 /**
  * 단어 뒤집기
+ * Bronze1
  * https://www.acmicpc.net/problem/9093
  */
 

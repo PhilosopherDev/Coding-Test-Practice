@@ -1,5 +1,6 @@
 /**
- * 일곱 난쟁이
+ * 일곱 난쟁이 - 3040 백설 공주와 일곱 난쟁이 와 동일
+ * Bronze2
  * https://www.acmicpc.net/problem/2309
  */
 

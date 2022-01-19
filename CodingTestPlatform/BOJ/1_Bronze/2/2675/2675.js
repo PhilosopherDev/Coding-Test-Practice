@@ -1,5 +1,6 @@
 /**
  * 문자열 반복
+ * Bronze2
  * https://www.acmicpc.net/problem/2675
  */
 
