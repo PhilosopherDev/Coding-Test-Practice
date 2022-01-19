@@ -3,7 +3,7 @@
  * https://www.acmicpc.net/problem/10828
  */
 
- class Node {
+class Node {
     constructor(val) {
         this.val = val;
         this.next = null;
@@ -32,7 +32,7 @@ class Stack {
 
     pop() {
         if (this._top === null) return -1;
-        
+
         const temp = this._top;
         this._top = this._top.next;
         
