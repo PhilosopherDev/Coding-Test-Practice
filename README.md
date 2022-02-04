@@ -1,12 +1,12 @@
-# Coding Test Practice (108)
+# Coding Test Practice (109)
 
 - # Overview
   - [Sort by Coding Test Platform](#sort-by-coding-test-platform)
 
-    - [Programmers (38)](#programmers-38)
+    - [Programmers (39)](#programmers-39)
       - [Level3 (1)](#level3-1)
       - [Level2 (15)](#level2-15)
-      - [Level1 (22)](#level1-22)
+      - [Level1 (23)](#level1-23)
     - [BOJ (39)](#boj-39)
       - [Gold (1)](#gold-1)
       - [Silver (24)](#silver-24)
@@ -30,7 +30,7 @@
       - [이분 탐색 (3)](#이분-탐색-3)
 - ## Sort by Coding Test Platform
 
-  - ## Programmers (38)
+  - ## Programmers (39)
 
     - ### Level3 (1)
       - #### 베스트앨범
@@ -82,7 +82,7 @@
       - #### H-Index
         - :pencil2: [Blog](https://philosopherprogrammer.com/54)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/H-Index)
-    - ### Level1 (22)
+    - ### Level1 (23)
       - #### 2016년
         - :pencil2: [Blog](https://philosopherprogrammer.com/67)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/2016%EB%85%84)
@@ -98,6 +98,8 @@
       - #### 나머지가 1이 되는 수 찾기
         - :pencil2: [Blog](https://philosopherprogrammer.com/75)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%801%EC%9D%B4%EB%90%98%EB%8A%94%EC%88%98%EC%B0%BE%EA%B8%B0)
+      - #### 다트 게임
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84)
       - #### 두 개 뽑아서 더하기
         - :pencil2: [Blog](https://philosopherprogrammer.com/59)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%91%90%EA%B0%9C%EB%BD%91%EC%95%84%EC%84%9C%EB%8D%94%ED%95%98%EA%B8%B0)
