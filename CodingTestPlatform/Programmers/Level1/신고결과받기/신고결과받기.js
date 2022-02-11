@@ -1,3 +1,8 @@
+/**
+ * 신고결과받기.js
+ * https://programmers.co.kr/learn/courses/30/lessons/92334
+ */
+
 function solution(id_list, report, k) {
     const id_report = id_list.reduce((obj, id) => {
         obj[id] = { setList: new Set([]), reported: 0 }
