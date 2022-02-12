@@ -53,12 +53,14 @@
         - :pencil2: [Blog](https://philosopherprogrammer.com/50)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD)
       - #### 문자열 압축
+        - :bulb: Kakao 기출
         - :pencil2: [Blog](https://philosopherprogrammer.com/40)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95)
       - #### 소수 찾기
         - :pencil2: [Blog](https://philosopherprogrammer.com/48)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0)
       - #### 오픈채팅방
+        - :bulb: Kakao 기출
         - :pencil2: [Blog](https://philosopherprogrammer.com/41)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)
       - #### 위장
@@ -99,6 +101,7 @@
         - :pencil2: [Blog](https://philosopherprogrammer.com/75)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%801%EC%9D%B4%EB%90%98%EB%8A%94%EC%88%98%EC%B0%BE%EA%B8%B0)
       - #### 다트 게임
+        - :bulb: Kakao 기출
         - :pencil2: [Blog](https://philosopherprogrammer.tistory.com/93)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84)
       - #### 두 개 뽑아서 더하기
@@ -123,12 +126,15 @@
         - :pencil2: [Blog](https://philosopherprogrammer.com/73)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0)
       - #### 숫자 문자열과 영단어
+        - :bulb: Kakao 기출
         - :pencil2: [Blog](https://philosopherprogrammer.com/45)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4)
       - #### 신고 결과 받기
+        - :bulb: Kakao 기출
         - :pencil2: [Blog](https://philosopherprogrammer.tistory.com/92)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0)
       - #### 실패율
+        - :bulb: Kakao 기출
         - :pencil2: [Blog](https://philosopherprogrammer.com/55)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8)
       - #### 약수의 개수와 덧셈
