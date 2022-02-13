@@ -19,4 +19,9 @@ function solution2(n, arr1, arr2) {
     return Array(n).fill(null).map((num, idx) => (arr1[idx] | arr2[idx]).toString(2).padStart(n, 0).replace(/1/g, '#').replace(/0/g, ' '));
 }
 
+/** Array 만큼 공간 절약 */
+function solution3(n, arr1, arr2) {
+    return arr1.map((arr1Item, idx) => (arr1Item | arr2[idx]).toString(2).padStart(n, 0).replace(/1/g, '#').replace(/0/g, ' '));
+}
+
 module.exports = solution;
