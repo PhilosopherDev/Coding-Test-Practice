@@ -1,12 +1,12 @@
-# Coding Test Practice (110)
+# Coding Test Practice (111)
 
 - # Overview
   - [Sort by Coding Test Platform](#sort-by-coding-test-platform)
 
-    - [Programmers (40)](#programmers-40)
+    - [Programmers (41)](#programmers-41)
       - [Level3 (1)](#level3-1)
       - [Level2 (15)](#level2-15)
-      - [Level1 (24)](#level1-24)
+      - [Level1 (25)](#level1-25)
     - [BOJ (39)](#boj-39)
       - [Gold (1)](#gold-1)
       - [Silver (24)](#silver-24)
@@ -30,7 +30,7 @@
       - [이분 탐색 (3)](#이분-탐색-3)
 - ## Sort by Coding Test Platform
 
-  - ## Programmers (40)
+  - ## Programmers (41)
 
     - ### Level3 (1)
       - #### 베스트 앨범
@@ -84,7 +84,7 @@
       - #### H-Index
         - :pencil2: [Blog](https://philosopherprogrammer.com/54)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/H-Index)
-    - ### Level1 (24)
+    - ### Level1 (25)
       - #### 2016년
         - :pencil2: [Blog](https://philosopherprogrammer.com/67)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/2016%EB%85%84)
@@ -122,6 +122,10 @@
       - #### 부족한 금액 계산하기
         - :pencil2: [Blog](https://philosopherprogrammer.com/43)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%B6%80%EC%A1%B1%ED%95%9C%EA%B8%88%EC%95%A1%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0)
+      - #### 비밀 지도
+        - :bulb: Kakao 기출
+        - :pencil2: [Blog](https://philosopherprogrammer.tistory.com/94)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)
       - #### 서울에서 김서방 찾기
         - :pencil2: [Blog](https://philosopherprogrammer.com/73)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0)
