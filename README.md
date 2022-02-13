@@ -1,12 +1,12 @@
-# Coding Test Practice (109)
+# Coding Test Practice (110)
 
 - # Overview
   - [Sort by Coding Test Platform](#sort-by-coding-test-platform)
 
-    - [Programmers (39)](#programmers-39)
+    - [Programmers (40)](#programmers-40)
       - [Level3 (1)](#level3-1)
       - [Level2 (15)](#level2-15)
-      - [Level1 (23)](#level1-23)
+      - [Level1 (24)](#level1-24)
     - [BOJ (39)](#boj-39)
       - [Gold (1)](#gold-1)
       - [Silver (24)](#silver-24)
@@ -30,10 +30,10 @@
       - [이분 탐색 (3)](#이분-탐색-3)
 - ## Sort by Coding Test Platform
 
-  - ## Programmers (39)
+  - ## Programmers (40)
 
     - ### Level3 (1)
-      - #### 베스트앨범
+      - #### 베스트 앨범
         - :pencil2: [Blog](https://philosopherprogrammer.com/51)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)
     - ### Level2 (15)
@@ -53,12 +53,14 @@
         - :pencil2: [Blog](https://philosopherprogrammer.com/50)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD)
       - #### 문자열 압축
+        - :bulb: Kakao 기출
         - :pencil2: [Blog](https://philosopherprogrammer.com/40)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95)
       - #### 소수 찾기
         - :pencil2: [Blog](https://philosopherprogrammer.com/48)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0)
       - #### 오픈채팅방
+        - :bulb: Kakao 기출
         - :pencil2: [Blog](https://philosopherprogrammer.com/41)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)
       - #### 위장
@@ -82,7 +84,7 @@
       - #### H-Index
         - :pencil2: [Blog](https://philosopherprogrammer.com/54)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/H-Index)
-    - ### Level1 (23)
+    - ### Level1 (24)
       - #### 2016년
         - :pencil2: [Blog](https://philosopherprogrammer.com/67)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/2016%EB%85%84)
@@ -99,6 +101,8 @@
         - :pencil2: [Blog](https://philosopherprogrammer.com/75)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%801%EC%9D%B4%EB%90%98%EB%8A%94%EC%88%98%EC%B0%BE%EA%B8%B0)
       - #### 다트 게임
+        - :bulb: Kakao 기출
+        - :pencil2: [Blog](https://philosopherprogrammer.tistory.com/93)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84)
       - #### 두 개 뽑아서 더하기
         - :pencil2: [Blog](https://philosopherprogrammer.com/59)
@@ -122,9 +126,15 @@
         - :pencil2: [Blog](https://philosopherprogrammer.com/73)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0)
       - #### 숫자 문자열과 영단어
+        - :bulb: Kakao 기출
         - :pencil2: [Blog](https://philosopherprogrammer.com/45)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4)
+      - #### 신고 결과 받기
+        - :bulb: Kakao 기출
+        - :pencil2: [Blog](https://philosopherprogrammer.tistory.com/92)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0)
       - #### 실패율
+        - :bulb: Kakao 기출
         - :pencil2: [Blog](https://philosopherprogrammer.com/55)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8)
       - #### 약수의 개수와 덧셈
@@ -148,194 +158,196 @@
         - :pencil2: [Blog](https://philosopherprogrammer.com/9)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
       - #### K번째수
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/K%EB%B2%88%EC%A8%B0%EC%88%98)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/K%EB%B2%88%EC%A7%B8%EC%88%98)
 
   - ## BOJ (39)
 
     - ### Gold (1)
 
-      - #### 17298 오큰수
+      - #### 오큰수
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/3_Gold/4/17298)
 
     - ### Silver (24)
-      - #### 1158 요세푸스 문제
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/5/1158)
-      - #### 4673 셀프 넘버
+      - #### 셀프 넘버
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/5/4673)
-      - #### 7785 회사에 있는 사람
+      - #### 요세푸스 문제
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/5/1158)
+      - #### 회사에 있는 사람
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/5/7785)
-      - #### 10773 제로
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/10773)
-      - #### 10828 스택
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/10828)
-      - #### 10845 큐
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/10845)
-      - #### 10866 덱
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/10866)
-      - #### 11866 요세푸스 문제 0
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/11866)
-      - #### 1302 베스트셀러
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/1302)
-      - #### 1920 수 찾기
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/1920)
-      - #### 2164 카드2
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/2164)
-      - #### 9012 괄호
+      - #### 괄호
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/9012)
-      - #### 11659 구간 합 구하기 4
+      - #### 덱
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/10866)
+      - #### 베스트셀러
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/1302)
+      - #### 수 찾기
+        - :pencil2: [Blog](https://philosopherprogrammer.com/90)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/1920)
+      - #### 스택
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/10828)
+      - #### 요세푸스 문제 0
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/11866)
+      - #### 제로
+        - :pencil2: [Blog](https://philosopherprogrammer.com/89)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/10773)
+      - #### 카드2
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/2164)
+      - #### 큐
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/10845)
+      - #### 구간 합 구하기 4
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/11659)
-      - #### 1406 에디터
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/1406)
-      - #### 1449 수리공 항승
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/1449)
-      - #### 17413 단어 뒤집기 2
+      - #### 단어 뒤집기 2
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/17413)
-      - #### 1874 스택 수열
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/1874)
-      - #### 3085 사탕 게임
+      - #### 사탕 게임
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/3085)
-      - #### 11279 최대 힙
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/2/11279)
-      - #### 11724 연결 요소의 개수
+      - #### 수리공 항승
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/1449)
+      - #### 스택 수열
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/1874)
+      - #### 에디터
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/1406)
+      - #### 연결 요소의 개수
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/2/11724)
-      - #### 1931 회의실 배정
+      - #### 최대 힙
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/2/11279)
+      - #### 회의실 배정
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/2/1931)
-      - #### 11286 절대값 힙
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/1/11286)
-      - #### 1927 최소 힙
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/1/1927)
-      - #### 2178 미로 탐색
+      - #### 미로 탐색
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/1/2178)
+      - #### 절대값 힙
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/1/11286)
+      - #### 최소 힙
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/1/1927)
     - ### Bronze (14)
 
-      - #### 1000 A+B
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/5/1000)
-      - #### 1001 A-B
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/5/1001)
-      - #### 10699 오늘 날짜
+      - #### 오늘 날짜
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/5/10699)
-      - #### 10718 We love kriii
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/5/10718)
-      - #### 2557 Hello World
+      - #### A-B
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/5/1001)
+      - #### A+B
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/5/1000)
+      - #### Hello World
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/5/2557)
-      - #### 3046 R2
-
+      - #### R2
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/5/3046)
+      - #### We love kriii
 
-      - #### 10448 유레카 이론
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/10448)
-      - #### 10808 알파벳 개수
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/10808)
-      - #### 10809 알파벳 찾기
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/10809)
-      - #### 15552 빠른 A+B
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/15552)
-      - #### 2309 일곱 난쟁이
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/2309)
-      - #### 2675 문자열 반복
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/5/10718)
+
+      - #### 문자열 반복
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/2675)
-      - #### 3040 백설 공주와 일곱 난쟁이
+      - #### 백설 공주와 일곱 난쟁이
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/3040)
-      - #### 9093 단어 뒤집기
+      - #### 빠른 A+B
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/15552)
+      - #### 알파벳 개수
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/10808)
+      - #### 알파벳 찾기
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/10809)
+      - #### 유레카 이론
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/10448)
+      - #### 일곱 난쟁이
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/2309)
+      - #### 단어 뒤집기
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/1/9093)
 
   - ## Leetcode (31)
 
     - ### Medium (7)
-      - #### 102 Binary Tree Level Order Traversal
-        - :pencil2: [Blog](https://philosopherprogrammer.com/26)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/102)
-      - #### 107 Binary Tree Level Order Traversal II
-        - :pencil2: [Blog](https://philosopherprogrammer.com/27)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/107)
-      - #### 11 Container with Most Water
-        - :pencil2: [Blog](https://philosopherprogrammer.com/21)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/11)
-      - #### 2 Add Two Numbers
+      - #### Add Two Numbers
         - :pencil2: [Blog](https://philosopherprogrammer.com/18)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/2)
-      - #### 36 Valid Sudoku
-        - :pencil2: [Blog](https://philosopherprogrammer.com/85)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/36)
-      - #### 7 Reverse Integer
-        - :pencil2: [Blog](https://philosopherprogrammer.com/19)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/7)
-      - #### 718 Maximum Length of Repeated Subarray
+      - #### Binary Tree Level Order Traversal
+        - :pencil2: [Blog](https://philosopherprogrammer.com/26)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/102)
+      - #### Binary Tree Level Order Traversal II
+        - :pencil2: [Blog](https://philosopherprogrammer.com/27)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/107)
+      - #### Container with Most Water
+        - :pencil2: [Blog](https://philosopherprogrammer.com/21)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/11)
+      - #### Maximum Length of Repeated Subarray
         - :pencil2: [Blog](https://philosopherprogrammer.com/35)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/718)
+      - #### Reverse Integer
+        - :pencil2: [Blog](https://philosopherprogrammer.com/19)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/7)
+      - #### Valid Sudoku
+        - :pencil2: [Blog](https://philosopherprogrammer.com/85)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/36)
     - ### Easy (24)
-      - #### 1 Two Sum
-        - :pencil2: [Blog](https://philosopherprogrammer.com/17)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/1)
-      - #### 118 Pascals Triangle
-        - :pencil2: [Blog](https://philosopherprogrammer.com/36)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/118)
-      - #### 121 Best Time to Buy and Sell Stock
+      - #### Best Time to Buy and Sell Stock
         - :pencil2: [Blog](https://philosopherprogrammer.com/72)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/121)
-      - #### 136 Single Number
-        - :pencil2: [Blog](https://philosopherprogrammer.com/32)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/136)
-      - #### 14 Longest Common Prefix
-        - :pencil2: [Blog](https://philosopherprogrammer.com/22)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/14)
-      - #### 141 Linked List Cycle
-        - :pencil2: [Blog](https://philosopherprogrammer.com/87)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/141)
-      - #### 144 Binary Tree Preorder Traversal
-        - :pencil2: [Blog](https://philosopherprogrammer.com/23)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/144)
-      - #### 145 Binary Tree Postorder Traversal
-        - :pencil2: [Blog](https://philosopherprogrammer.com/25)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/145)
-      - #### 155 Min Stack
-        - :pencil2: [Blog](https://philosopherprogrammer.com/16)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/155)
-      - #### 169 Majority Element
-        - :pencil2: [Blog](https://philosopherprogrammer.com/29)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/169)
-      - #### 20 Valid Parentheses
-        - :pencil2: [Blog](https://philosopherprogrammer.com/14)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/20)
-      - #### 202 Happy Number
-        - :pencil2: [Blog](https://philosopherprogrammer.com/34)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/202)
-      - #### 21 Merge Two Sorted Lists
-        - :pencil2: [Blog](https://philosopherprogrammer.com/28)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/21)
-      - #### 217 Contains Duplicate
-        - :pencil2: [Blog](https://philosopherprogrammer.com/56)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/217)
-      - #### 242 Valid Anagram
-        - :pencil2: [Blog](https://philosopherprogrammer.com/84)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/242)
-      - #### 350 Intersection of Two Arrays II
-        - :pencil2: [Blog](https://philosopherprogrammer.com/71)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/350)
-      - #### 383 Ransom Note
-        - :pencil2: [Blog](https://philosopherprogrammer.com/83)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/383)
-      - #### 387 First Unique Character in a String
-        - :pencil2: [Blog](https://philosopherprogrammer.com/82)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/387)
-      - #### 53 Maximum Subarray
-        - :pencil2: [Blog](https://philosopherprogrammer.com/57)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/53)
-      - #### 566 Reshape the Matrix
-        - :pencil2: [Blog](https://philosopherprogrammer.com/81)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/566)
-      - #### 70 Climbing Stairs
-        - :pencil2: [Blog](https://philosopherprogrammer.com/30)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/70)
-      - #### 88 Merge Sorted Array
-        - :pencil2: [Blog](https://philosopherprogrammer.com/58)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/88)
-      - #### 9 Palindrome Number
-        - :pencil2: [Blog](https://philosopherprogrammer.com/20)
-        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/9)
-      - #### 94 Binary Tree Inorder Traversal
+      - #### Binary Tree Inorder Traversal
         - :pencil2: [Blog](https://philosopherprogrammer.com/24)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/94)
+      - #### Binary Tree Postorder Traversal
+        - :pencil2: [Blog](https://philosopherprogrammer.com/25)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/145)
+      - #### Binary Tree Preorder Traversal
+        - :pencil2: [Blog](https://philosopherprogrammer.com/23)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/144)
+      - #### Climbing Stairs
+        - :pencil2: [Blog](https://philosopherprogrammer.com/30)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/70)
+      - #### Contains Duplicate
+        - :pencil2: [Blog](https://philosopherprogrammer.com/56)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/217)
+      - #### First Unique Character in a String
+        - :pencil2: [Blog](https://philosopherprogrammer.com/82)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/387)
+      - #### Happy Number
+        - :pencil2: [Blog](https://philosopherprogrammer.com/34)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/202)
+      - #### Intersection of Two Arrays II
+        - :pencil2: [Blog](https://philosopherprogrammer.com/71)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/350)
+      - #### Linked List Cycle
+        - :pencil2: [Blog](https://philosopherprogrammer.com/87)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/141)
+      - #### Longest Common Prefix
+        - :pencil2: [Blog](https://philosopherprogrammer.com/22)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/14)
+      - #### Majority Element
+        - :pencil2: [Blog](https://philosopherprogrammer.com/29)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/169)
+      - #### Maximum Subarray
+        - :pencil2: [Blog](https://philosopherprogrammer.com/57)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/53)
+      - #### Merge Sorted Array
+        - :pencil2: [Blog](https://philosopherprogrammer.com/58)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/88)
+      - #### Merge Two Sorted Lists
+        - :pencil2: [Blog](https://philosopherprogrammer.com/28)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/21)
+      - #### Min Stack
+        - :pencil2: [Blog](https://philosopherprogrammer.com/16)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/155)
+      - #### Palindrome Number
+        - :pencil2: [Blog](https://philosopherprogrammer.com/20)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/9)
+      - #### Pascals Triangle
+        - :pencil2: [Blog](https://philosopherprogrammer.com/36)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/118)
+      - #### Ransom Note
+        - :pencil2: [Blog](https://philosopherprogrammer.com/83)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/383)
+      - #### Reshape the Matrix
+        - :pencil2: [Blog](https://philosopherprogrammer.com/81)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/566)
+      - #### Single Number
+        - :pencil2: [Blog](https://philosopherprogrammer.com/32)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/136)
+      - #### Two Sum
+        - :pencil2: [Blog](https://philosopherprogrammer.com/17)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/1)
+      - #### Valid Anagram
+        - :pencil2: [Blog](https://philosopherprogrammer.com/84)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/242)
+      - #### Valid Parentheses
+        - :pencil2: [Blog](https://philosopherprogrammer.com/14)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/20)
 
 - ## Sort by Related Topic
 
@@ -344,64 +356,64 @@
     - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
     - [음양 더하기](#음양-더하기)
     - [나누어 떨어지는 숫자 배열](#나누어-떨어지는-숫자-배열)
-    - [1 Two Sum](#1-Two-Sum)
-    - [88 Merge Sorted Array](#88-Merge-Sorted-Array)
-    - [118 Pascals Triangle](#118-Pascals-Triangle)
-    - [121 Best Time to Buy and Sell Stock](#121-Best-Time-to-Buy-and-Sell-Stock)
-    - [136 Single Number](#136-Single-Number)
-    - [169 Majority Element](#169-Majority-Element)
-    - [217 Contains Duplicate](#217-Contains-Duplicate)
-    - [350 Intersection of Two Arrays II](#350-Intersection-of-Two-Arrays-II)
-    - [566 Reshape the Matrix](#566-Reshape-the-Matrix)
-    - [11 Container with Most Water](#11-Container-with-Most-Water)
-    - [36 Valid Sudoku](#36-Valid-Sudoku)
-    - [718 Maximum Length of Repeated Subarray](#718-Maximum-Length-of-Repeated-Subarray)
+    - [Two Sum](#Two-Sum)
+    - [Merge Sorted Array](#Merge-Sorted-Array)
+    - [Pascals Triangle](#Pascals-Triangle)
+    - [Best Time to Buy and Sell Stock](#Best-Time-to-Buy-and-Sell-Stock)
+    - [Single Number](#Single-Number)
+    - [Majority Element](#Majority-Element)
+    - [Contains Duplicate](#Contains-Duplicate)
+    - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
+    - [Reshape the Matrix](#Reshape-the-Matrix)
+    - [Container with Most Water](#Container-with-Most-Water)
+    - [Valid Sudoku](#Valid-Sudoku)
+    - [Maximum Length of Repeated Subarray](#Maximum-Length-of-Repeated-Subarray)
   - ## 연결 리스트 (4)
-    - [53 Maximum Subarray](#53-Maximum-Subarray)
-    - [141 Linked List Cycle](#141-Linked-List-Cycle)
-    - [2 Add Two Numbers](#2-Add-Two-Numbers)
-    - [1406 에디터](#1406-에디터)
+    - [Maximum Subarray](#Maximum-Subarray)
+    - [Linked List Cycle](#Linked-List-Cycle)
+    - [Add Two Numbers](#Add-Two-Numbers)
+    - [에디터](#에디터)
   - ## 해시 (16)
     - [위장](#위장)
     - [오픈채팅방](#오픈채팅방)
     - [완주하지 못한 선수](#완주하지-못한-선수)
-    - [베스트앨범](#베스트앨범)
-    - [1 Two Sum](#1-Two-Sum)
-    - [141 Linked List Cycle](#141-Linked-List-Cycle)
-    - [169 Majority Element](#169-Majority-Element)
-    - [202 Happy Number](#202-Happy-Number)
-    - [217 Contains Duplicate](#217-Contains-Duplicate)
-    - [242 Valid Anagram](#242-Valid-Anagram)
-    - [350 Intersection of Two Arrays II](#350-Intersection-of-Two-Arrays-II)
-    - [383 Ransom Note](#383-Ransom-Note)
-    - [387 First Unique Character in a String](#387-First-Unique-Character-in-a-String)
-    - [36 Valid Sudoku](#36-Valid-Sudoku)
-    - [7785 회사에 있는 사람](#7785-회사에-있는-사람)
-    - [1302 베스트셀러](#1302-베스트셀러)
+    - [베스트 앨범](#베스트-앨범)
+    - [Two Sum](#Two-Sum)
+    - [Linked List Cycle](#Linked-List-Cycle)
+    - [Majority Element](#Majority-Element)
+    - [Happy Number](#Happy-Number)
+    - [Contains Duplicate](#Contains-Duplicate)
+    - [Valid Anagram](#Valid-Anagram)
+    - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
+    - [Ransom Note](#Ransom-Note)
+    - [First Unique Character in a String](#First-Unique-Character-in-a-String)
+    - [Valid Sudoku](#Valid-Sudoku)
+    - [회사에 있는 사람](#회사에-있는-사람)
+    - [베스트셀러](#베스트셀러)
   - ## 스택 (14)
     - [기능개발](#기능개발)
     - [짝지어 제거하기](#짝지어-제거하기)
-    - [20 Valid Parentheses](#20-Valid-Parentheses)
-    - [94 Binary Tree Inorder Traversal](#94-Binary-Tree-Inorder-Traversal)
-    - [144 Binary Tree Preorder Traversal](#144-Binary-Tree-Preorder-Traversal)
-    - [145 Binary Tree Postorder Traversal](#145-Binary-Tree-Postorder-Traversal)
-    - [155 Min Stack](#155-Min-Stack)
-    - [9012 괄호](#9012-괄호)
-    - [10828 스택](#10828-스택)
-    - [1406 에디터](#1406-에디터)
-    - [1874 스택 수열](#1874-스택-수열)
-    - [17413 단어 뒤집기 2](#17413-단어-뒤집기-2)
-    - [17298 오큰수](#17298-오큰수)
-    - [10773 제로](#10773-제로)
+    - [Valid Parentheses](#Valid-Parentheses)
+    - [Binary Tree Inorder Traversal](#Binary-Tree-Inorder-Traversal)
+    - [Binary Tree Preorder Traversal](#Binary-Tree-Preorder-Traversal)
+    - [Binary Tree Postorder Traversal](#Binary-Tree-Postorder-Traversal)
+    - [Min Stack](#Min-Stack)
+    - [괄호](#괄호)
+    - [스택](#스택)
+    - [에디터](#에디터)
+    - [스택 수열](#스택-수열)
+    - [단어 뒤집기 2](#단어-뒤집기-2)
+    - [오큰수](#오큰수)
+    - [제로](#제로)
   - ## 큐 (8)
     - [기능개발](#기능개발)
     - [프린터](#프린터)
     - [다리를 지나는 트럭](#다리를-지나는-트럭)
-    - [387 First Unique Character in a String](#387-First-Unique-Character-in-a-String)
-    - [1158 요세푸스 문제](#1158-요세푸스-문제)
-    - [2164 카드2](#2164-카드2)
-    - [10845 큐](#10845-큐)
-    - [11866 요세푸스 문제 0](#11866-요세푸스-문제-0)
+    - [First Unique Character in a String](#First-Unique-Character-in-a-String)
+    - [요세푸스 문제](#요세푸스-문제)
+    - [카드2](#카드2)
+    - [큐](#큐)
+    - [요세푸스 문제 0](#요세푸스-문제-0)
 - ## 알고리즘
   - ## 정렬 (14)
     - [가장 큰 수](#가장-큰-수)
@@ -409,42 +421,42 @@
     - [K번째수](#K번째수)
     - [최소 직사각형](#최소-직사각형)
     - [문자열 내림차순으로 배치하기](#문자열-내림차순으로-배치하기)
-    - [88 Merge Sorted Array](#88-Merge-Sorted-Array)
-    - [169 Majority Element](#169-Majority-Element)
-    - [217 Contains Duplicate](#217-Contains-Duplicate)
-    - [242 Valid Anagram](#242-Valid-Anagram)
-    - [350 Intersection of Two Arrays II](#350-Intersection-of-Two-Arrays-II)
-    - [2309 일곱 난쟁이](#2309-일곱-난쟁이)
-    - [1302 베스트셀러](#1302-베스트셀러)
-    - [1449 수리공 항승](#1449-수리공-항승)
-    - [1931 회의실 배정](#1931-회의실-배정)
+    - [Merge Sorted Array](#Merge-Sorted-Array)
+    - [Majority Element](#Majority-Element)
+    - [Contains Duplicate](#Contains-Duplicate)
+    - [Valid Anagram](#Valid-Anagram)
+    - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
+    - [일곱 난쟁이](#일곱-난쟁이)
+    - [베스트셀러](#베스트셀러)
+    - [수리공 항승](#수리공-항승)
+    - [회의실 배정](#회의실-배정)
   - ## 완전 탐색 (9)
     - [소수 찾기](#소수-찾기)
     - [카펫](#카펫)
     - [모의고사](#모의고사)
     - [두 개 뽑아서 더하기](#두-개-뽑아서-더하기)
-    - [2309 일곱 난쟁이](#2309-일곱-난쟁이)
-    - [3040 백설 공주와 일곱 난쟁이](#3040-백설-공주와-일곱-난쟁이)
-    - [10448 유레카 이론](#10448-유레카-이론)
-    - [3085 사탕 게임](#3085-사탕-게임)
-    - [4673 셀프 넘버](#4673-셀프-넘버)
+    - [일곱 난쟁이](#일곱-난쟁이)
+    - [백설 공주와 일곱 난쟁이](#백설-공주와-일곱-난쟁이)
+    - [유레카 이론](#유레카-이론)
+    - [사탕 게임](#사탕-게임)
+    - [셀프 넘버](#셀프-넘버)
   - ## DFS/BFS (8)
-    - [94 Binary Tree Inorder Traversal](#94-Binary-Tree-Inorder-Traversal)
-    - [144 Binary Tree Preorder Traversal](#144-Binary-Tree-Preorder-Traversal)
-    - [145 Binary Tree Postorder Traversal](#145-Binary-Tree-Postorder-Traversal)
-    - [11724 연결 요소의 개수](#11724-연결-요소의-개수)
+    - [Binary Tree Inorder Traversal](#Binary-Tree-Inorder-Traversal)
+    - [Binary Tree Preorder Traversal](#Binary-Tree-Preorder-Traversal)
+    - [Binary Tree Postorder Traversal](#Binary-Tree-Postorder-Traversal)
+    - [연결 요소의 개수](#연결-요소의-개수)
     - [타겟 넘버](#타겟-넘버)
-    - [102 Binary Tree Level Order Traversal](#102-Binary-Tree-Level-Order-Traversal)
-    - [107 Binary Tree Level Order Traversal II](#107-Binary-Tree-Level-Order-Traversal-II)
-    - [2178 미로 탐색](#2178-미로-탐색)
+    - [Binary Tree Level Order Traversal](#Binary-Tree-Level-Order-Traversal)
+    - [Binary Tree Level Order Traversal II](#Binary-Tree-Level-Order-Traversal-II)
+    - [미로 탐색](#미로-탐색)
   - ## 탐욕법 (6)
     - [큰 수 만들기](#큰-수-만들기)
     - [구명보트](#구명보트)
     - [체육복](#체육복)
-    - [11 Container with Most Water](#11-Container-with-Most-Water)
-    - [1449 수리공 항승](#1449-수리공-항승)
-    - [1931 회의실 배정](#1931-회의실-배정)
+    - [Container with Most Water](#Container-with-Most-Water)
+    - [수리공 항승](#수리공-항승)
+    - [회의실 배정](#회의실-배정)
   - ## 이분 탐색 (3)
-    - [350 Intersection of Two Arrays II](#350-Intersection-of-Two-Arrays-II)
-    - [718 Maximum Length of Repeated Subarray](#718-Maximum-Length-of-Repeated-Subarray)
-    - [1920 수 찾기](#1920-수-찾기)
+    - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
+    - [Maximum Length of Repeated Subarray](#Maximum-Length-of-Repeated-Subarray)
+    - [수 찾기](#수-찾기)
