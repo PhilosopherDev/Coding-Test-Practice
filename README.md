@@ -1,11 +1,11 @@
-# Coding Test Practice (111)
+# Coding Test Practice (112)
 
 - # Overview
   - [Sort by Coding Test Platform](#sort-by-coding-test-platform)
 
-    - [Programmers (41)](#programmers-41)
+    - [Programmers (42)](#programmers-42)
       - [Level3 (1)](#level3-1)
-      - [Level2 (15)](#level2-15)
+      - [Level2 (16)](#level2-16)
       - [Level1 (25)](#level1-25)
     - [BOJ (39)](#boj-39)
       - [Gold (1)](#gold-1)
@@ -30,7 +30,7 @@
       - [그래프 (2)](#그래프-2)
     - [알고리즘](#알고리즘)
       - [정렬 (14)](#정렬-14)
-      - [완전 탐색 (9)](#완전-탐색-9)
+      - [완전 탐색 (10)](#완전-탐색-10)
       - [DFS/BFS (8)](#dfsbfs-8)
       - [탐욕법 (6)](#탐욕법-6)
       - [이분 탐색 (3)](#이분-탐색-3)
@@ -49,13 +49,13 @@
       - [누적 합 (1)](#누적-합-1)
 - ## Sort by Coding Test Platform
 
-  - ## Programmers (41)
+  - ## Programmers (42)
 
     - ### Level3 (1)
       - #### 베스트 앨범
         - :pencil2: [Blog](https://philosopherprogrammer.com/51)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)
-    - ### Level2 (15)
+    - ### Level2 (16)
       - #### 124 나라의 숫자
         - :pencil2: [Blog](https://philosopherprogrammer.com/39)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/124%EB%82%98%EB%9D%BC%EC%9D%98%EC%88%AB%EC%9E%90)
@@ -71,6 +71,10 @@
       - #### 다리를 지나는 트럭
         - :pencil2: [Blog](https://philosopherprogrammer.com/50)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD)
+      - #### 메뉴 리뉴얼
+        - :bulb: Kakao 기출
+        - :pencil2: [Blog](https://philosopherprogrammer.tistory.com/95)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC)
       - #### 문자열 압축
         - :bulb: Kakao 기출
         - :pencil2: [Blog](https://philosopherprogrammer.com/40)
@@ -487,7 +491,7 @@
     - [베스트셀러](#베스트셀러)
     - [수리공 항승](#수리공-항승)
     - [회의실 배정](#회의실-배정)
-  - ## 완전 탐색 (9)
+  - ## 완전 탐색 (10)
     - [소수 찾기](#소수-찾기)
     - [카펫](#카펫)
     - [모의고사](#모의고사)
@@ -497,6 +501,7 @@
     - [유레카 이론](#유레카-이론)
     - [사탕 게임](#사탕-게임)
     - [셀프 넘버](#셀프-넘버)
+    - [메뉴 리뉴얼](#메뉴-리뉴얼)
   - ## DFS/BFS (8)
     - [Binary Tree Inorder Traversal](#Binary-Tree-Inorder-Traversal)
     - [Binary Tree Preorder Traversal](#Binary-Tree-Preorder-Traversal)
