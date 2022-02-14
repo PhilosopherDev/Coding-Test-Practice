@@ -73,7 +73,7 @@
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD)
       - #### 메뉴 리뉴얼
         - :bulb: Kakao 기출
-        - :pencil2: [Blog](https://philosopherprogrammer.tistory.com/95)
+        - :pencil2: [Blog](https://philosopherprogrammer.com/95)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC)
       - #### 문자열 압축
         - :bulb: Kakao 기출
@@ -125,7 +125,7 @@
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%801%EC%9D%B4%EB%90%98%EB%8A%94%EC%88%98%EC%B0%BE%EA%B8%B0)
       - #### 다트 게임
         - :bulb: Kakao 기출
-        - :pencil2: [Blog](https://philosopherprogrammer.tistory.com/93)
+        - :pencil2: [Blog](https://philosopherprogrammer.com/93)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84)
       - #### 두 개 뽑아서 더하기
         - :pencil2: [Blog](https://philosopherprogrammer.com/59)
@@ -147,7 +147,7 @@
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%B6%80%EC%A1%B1%ED%95%9C%EA%B8%88%EC%95%A1%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0)
       - #### 비밀 지도
         - :bulb: Kakao 기출
-        - :pencil2: [Blog](https://philosopherprogrammer.tistory.com/94)
+        - :pencil2: [Blog](https://philosopherprogrammer.com/94)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)
       - #### 서울에서 김서방 찾기
         - :pencil2: [Blog](https://philosopherprogrammer.com/73)
@@ -158,7 +158,7 @@
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4)
       - #### 신고 결과 받기
         - :bulb: Kakao 기출
-        - :pencil2: [Blog](https://philosopherprogrammer.tistory.com/92)
+        - :pencil2: [Blog](https://philosopherprogrammer.com/92)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0)
       - #### 실패율
         - :bulb: Kakao 기출
