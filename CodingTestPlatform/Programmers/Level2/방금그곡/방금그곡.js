@@ -4,46 +4,32 @@
  */
 
 function solution(m, musicinfos) {
-    let maxTime = 0;
-
-    const resultIdx = musicinfos.map((info) => {
+    const resultArr = musicinfos.map((info) => {
         const [start, end, name, scale] = info.split(",");
         const time = calcTime(start, end);
-        const scaleArr = [...scale.match(/([A-G]#?)/g)];
+        const scaleArr = replaceStr(scale).split("");
 
         const sRepeat = Math.floor(time / (scaleArr.length));
         const sRemainder = time % (scaleArr.length);
+        const repeatedScale = scaleArr.join("").repeat(sRepeat) + scaleArr.slice(0, sRemainder).join("")
 
-        return { time, repeatedScale: scale.repeat(sRepeat) + scaleArr.slice(0, sRemainder).join("") };
-    }).reduce((acc, { time, repeatedScale }, index) => {
-        const mArr = [...m.match(/([A-G]#?)/g)];
-        const scaleArr = [...repeatedScale.match(/([A-G]#?)/g)];
-
-        if (scaleArr.reduce((idxArr, scale, idx) => {
-            if (scale === mArr[0]) idxArr.push(idx);
-            return idxArr;
-        }, []).some((startIdx) => mArr.every((m, idx) => m === scaleArr[startIdx + idx]))) {
-            acc.push({ time, index });
-            maxTime = Math.max(maxTime, time);
-        }
-
-        return acc;
-    }, []).filter((item) => item.time === maxTime).sort((a, b) => a.index - b.index)[0];
+        return [time, repeatedScale, name];
+    }).filter((item) => item[1].indexOf(replaceStr(m)) > -1).sort((a, b) => b[0] - a[0]);
     
-    if (!resultIdx) return "(None)";
-    return musicinfos[resultIdx.index].split(",")[2];
+    if (!resultArr.length) return "(None)";
+    
+    return resultArr[0][2];
 }
 
 function calcTime(start, end) {
     const [sHour, sMinute] = start.split(":").map((item) => parseInt(item));
     const [eHour, eMinute] = end.split(":").map((item) => parseInt(item));
-    if (eHour < sHour) eHour += 24;
-    if (eMinute < sMinute) {
-        eMinute += 60;
-        eHour -= 1;
-    }
 
     return (eHour - sHour) * 60 + (eMinute - sMinute);
+}
+
+function replaceStr(str) {
+    return str.replace(/C#/g, "c").replace(/D#/g, "d").replace(/F#/g, "f").replace(/G#/g, "g").replace(/A#/g, "a");
 }
 
 module.exports = solution;
