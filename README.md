@@ -1,11 +1,11 @@
-# Coding Test Practice (112)
+# Coding Test Practice (113)
 
 - # Overview
   - [Sort by Coding Test Platform](#sort-by-coding-test-platform)
 
-    - [Programmers (42)](#programmers-42)
+    - [Programmers (43)](#programmers-43)
       - [Level3 (1)](#level3-1)
-      - [Level2 (16)](#level2-16)
+      - [Level2 (17)](#level2-17)
       - [Level1 (25)](#level1-25)
     - [BOJ (39)](#boj-39)
       - [Gold (1)](#gold-1)
@@ -22,7 +22,7 @@
       - [해시 (16)](#해시-16)
       - [스택 (14)](#스택-14)
       - [큐 (8)](#큐-8)
-      - [문자열 (15)](#문자열-15)
+      - [문자열 (16)](#문자열-16)
       - [트리 (5)](#트리-5)
       - [이진 트리 (2)](#이진-트리-2)
       - [덱 (1)](#덱-1)
@@ -34,7 +34,7 @@
       - [DFS/BFS (8)](#dfsbfs-8)
       - [탐욕법 (6)](#탐욕법-6)
       - [이분 탐색 (3)](#이분-탐색-3)
-      - [구현 (26)](#구현-26)
+      - [구현 (27)](#구현-27)
       - [수학 (11)](#수학-11)
       - [재귀 (2)](#재귀-2)
       - [동적계획법 (4)](#동적계획법-4)
@@ -49,14 +49,14 @@
       - [누적 합 (1)](#누적-합-1)
 - ## Sort by Coding Test Platform
 
-  - ## Programmers (42)
+  - ## Programmers (43)
 
     - ### Level3 (1)
       - #### 베스트 앨범
         - :gem: Javascript, Python
         - :pencil2: [Blog](https://philosopherprogrammer.com/51)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)
-    - ### Level2 (16)
+    - ### Level2 (17)
       - #### 124 나라의 숫자
         - :gem: Javascript
         - :pencil2: [Blog](https://philosopherprogrammer.com/39)
@@ -87,6 +87,11 @@
         - :bulb: Kakao 기출
         - :pencil2: [Blog](https://philosopherprogrammer.com/40)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95)
+      - #### 방금그곡
+        - :gem: Javascript
+        - :bulb: Kakao 기출
+        - :pencil2: [Blog](https://philosopherprogrammer.tistory.com/96)
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1)
       - #### 소수 찾기
         - :gem: Javascript
         - :pencil2: [Blog](https://philosopherprogrammer.com/48)
@@ -553,7 +558,7 @@
     - [카드2](#카드2)
     - [큐](#큐)
     - [요세푸스 문제 0](#요세푸스-문제-0)
-  - ## 문자열 (15)
+  - ## 문자열 (16)
     - [문자열 압축](#문자열-압축)
     - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
     - [가운데 글자 가져오기](#가운데-글자-가져오기)
@@ -569,6 +574,7 @@
     - [괄호](#괄호)
     - [단어 뒤집기 2](#단어-뒤집기-2)
     - [다트 게임](#다트-게임)
+    - [방금그곡](#방금그곡)
   - ## 트리 (5)
     - [Binary Tree Inorder Traversal](#Binary-Tree-Inorder-Traversal)
     - [Binary Tree Preorder Traversal](#Binary-Tree-Preorder-Traversal)
@@ -634,7 +640,7 @@
     - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
     - [Maximum Length of Repeated Subarray](#Maximum-Length-of-Repeated-Subarray)
     - [수 찾기](#수-찾기)
-  - ## 구현 (26)
+  - ## 구현 (27)
     - [124 나라의 숫자](#124-나라의-숫자)
     - [로또의 최고 순위와 최저 순위](#로또의-최고-순위와-최저-순위)
     - [없는 숫자 더하기](#없는-숫자-더하기)
@@ -661,6 +667,7 @@
     - [셀프 넘버](#셀프-넘버)
     - [제로](#제로)
     - [신고 결과 받기](#신고-결과-받기)
+    - [방금그곡](#방금그곡)
   - ## 수학 (11)
     - [Palindrome Number](#Palindrome-Number)
     - [Climbing Stairs](#Climbing-Stairs)
