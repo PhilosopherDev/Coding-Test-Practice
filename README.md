@@ -1,6 +1,7 @@
-# Coding Test Practice (113)
+# Coding Test Practice (114)
 
 - # Overview
+
   - [Sort by Coding Test Platform](#sort-by-coding-test-platform)
 
     - [Programmers (43)](#programmers-43)
@@ -14,6 +15,11 @@
     - [Leetcode (31)](#leetcode-31)
       - [Medium (7)](#medium-7)
       - [Easy (24)](#easy-24)
+
+  - [Sort by Education Platform](#sort-by-education-platform)
+
+    - [Inflearn (1)](#inflearn-1)
+      - [자바스크립트 알고리즘 문제풀이 (1)](#자바스크립트-알고리즘-문제풀이-1)
 
   - [Sort by Related Topic](#sort-by-related-topic)
     - [자료구조](#자료구조)
@@ -36,7 +42,7 @@
       - [이분 탐색 (3)](#이분-탐색-3)
       - [구현 (27)](#구현-27)
       - [수학 (11)](#수학-11)
-      - [재귀 (2)](#재귀-2)
+      - [재귀 (3)](#재귀-3)
       - [동적계획법 (4)](#동적계획법-4)
       - [메모이제이션 (1)](#메모이제이션-1)
       - [Two Pointers (5)](#two-pointers-5)
@@ -47,6 +53,7 @@
       - [Matrix (2)](#matrix-2)
       - [시뮬레이션 (1)](#시뮬레이션-1)
       - [누적 합 (1)](#누적-합-1)
+
 - ## Sort by Coding Test Platform
 
   - ## Programmers (43)
@@ -493,6 +500,15 @@
         - :pencil2: [Blog](https://philosopherprogrammer.com/14)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/20)
 
+- ## Sort by Education Platform
+
+  - ## Inflearn (1)
+
+    - ### 자바스크립트 알고리즘 문제풀이 (1)
+      - #### 재귀 함수
+        - :gem: Javascript
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/EducationPlatform/Inflearn/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/8_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_DFS/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98)
+
 - ## Sort by Related Topic
 
 - ## 자료구조
@@ -680,9 +696,10 @@
     - [유레카 이론](#유레카-이론)
     - [빠른 A+B](#빠른-A+B)
     - [셀프 넘버](#셀프-넘버)
-  - ## 재귀 (2)
+  - ## 재귀 (3)
     - [Maximum Subarray](#Maximum-Subarray)
     - [Add Two Numbers](#Add-Two-Numbers)
+    - [재귀 함수](#재귀-함수)
   - ## 동적계획법 (4)
     - [Climbing Stairs](#Climbing-Stairs)
     - [Pascals Triangle](#Pascals-Triangle)
