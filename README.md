@@ -1,4 +1,4 @@
-# Coding Test Practice (118)
+# Coding Test Practice (119)
  - # Overview
     - [Coding Test Platform](#coding-test-platform)    
       - [Programmers (47)](#programmers-47)
@@ -20,8 +20,8 @@
         - [Easy (24)](#easy-24)
 
     - [Education Platform](#education-platform)
-      - [Inflearn (1)](#inflearn-1)
-        - [Javascript algorithm problem solving (1)](#javascript-algorithm-problem-solving-1)
+      - [Inflearn (2)](#inflearn-2)
+        - [Javascript algorithm problem solving (2)](#javascript-algorithm-problem-solving-2)
 
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
@@ -43,12 +43,12 @@
         - [Math (11)](#math-11)
         - [Bruteforce (10)](#bruteforce-10)
         - [Greedy (6)](#greedy-6)
+        - [DFS (5)](#dfs-5)
         - [BFS (5)](#bfs-5)
         - [Two pointers (5)](#two-pointers-5)
-        - [DFS (4)](#dfs-4)
+        - [Recursion (4)](#recursion-4)
         - [Dynamic programming (4)](#dynamic-programming-4)
         - [Binary search (3)](#binary-search-3)
-        - [Recursion (3)](#recursion-3)
         - [Counting (3)](#counting-3)
         - [Bit manipulation (2)](#bit-manipulation-2)
         - [Matrix (2)](#matrix-2)
@@ -527,8 +527,11 @@
     
 - ## Education Platform
 
-    - ## Inflearn (1)
-      - ## Javascript algorithm problem solving (1)
+    - ## Inflearn (2)
+      - ## Javascript algorithm problem solving (2)
+        - #### 이진수 출력
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/EducationPlatform/Inflearn/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/8_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_DFS/%EC%9D%B4%EC%A7%84%EC%88%98%EC%B6%9C%EB%A0%A5)
         - #### 재귀 함수
              - :gem: Javascript
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/EducationPlatform/Inflearn/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/8_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_DFS/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98)
@@ -730,6 +733,13 @@
         - [수리공 항승](#수리공-항승)
         - [회의실 배정](#회의실-배정)
 
+      - ## DFS (5)
+        - [Binary Tree Inorder Traversal](#Binary-Tree-Inorder-Traversal)
+        - [Binary Tree Preorder Traversal](#Binary-Tree-Preorder-Traversal)
+        - [Binary Tree Postorder Traversal](#Binary-Tree-Postorder-Traversal)
+        - [연결 요소의 개수](#연결-요소의-개수)
+        - [이진수 출력](#이진수-출력)
+
       - ## BFS (5)
         - [타겟 넘버](#타겟-넘버)
         - [Binary Tree Level Order Traversal](#Binary-Tree-Level-Order-Traversal)
@@ -744,11 +754,11 @@
         - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
         - [Container with Most Water](#Container-with-Most-Water)
 
-      - ## DFS (4)
-        - [Binary Tree Inorder Traversal](#Binary-Tree-Inorder-Traversal)
-        - [Binary Tree Preorder Traversal](#Binary-Tree-Preorder-Traversal)
-        - [Binary Tree Postorder Traversal](#Binary-Tree-Postorder-Traversal)
-        - [연결 요소의 개수](#연결-요소의-개수)
+      - ## Recursion (4)
+        - [Maximum Subarray](#Maximum-Subarray)
+        - [Add Two Numbers](#Add-Two-Numbers)
+        - [재귀 함수](#재귀-함수)
+        - [이진수 출력](#이진수-출력)
 
       - ## Dynamic programming (4)
         - [Climbing Stairs](#Climbing-Stairs)
@@ -760,11 +770,6 @@
         - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
         - [Maximum Length of Repeated Subarray](#Maximum-Length-of-Repeated-Subarray)
         - [수 찾기](#수-찾기)
-
-      - ## Recursion (3)
-        - [Maximum Subarray](#Maximum-Subarray)
-        - [Add Two Numbers](#Add-Two-Numbers)
-        - [재귀 함수](#재귀-함수)
 
       - ## Counting (3)
         - [Majority Element](#Majority-Element)
