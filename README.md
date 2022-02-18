@@ -1,13 +1,13 @@
-# Coding Test Practice (114)
+# Coding Test Practice (118)
 
 - # Overview
 
-  - [Sort by Coding Test Platform](#sort-by-coding-test-platform)
+  - [Coding Test Platform](#coding-test-platform)
 
-    - [Programmers (43)](#programmers-43)
+    - [Programmers (47)](#programmers-47)
       - [Level3 (1)](#level3-1)
-      - [Level2 (17)](#level2-17)
-      - [Level1 (25)](#level1-25)
+      - [Level2 (20)](#level2-20)
+      - [Level1 (26)](#level1-26)
     - [BOJ (39)](#boj-39)
       - [Gold (1)](#gold-1)
       - [Silver (24)](#silver-24)
@@ -16,21 +16,22 @@
       - [Medium (7)](#medium-7)
       - [Easy (24)](#easy-24)
 
-  - [Sort by Education Platform](#sort-by-education-platform)
+  - [Education Platform](#education-platform)
 
     - [Inflearn (1)](#inflearn-1)
       - [자바스크립트 알고리즘 문제풀이 (1)](#자바스크립트-알고리즘-문제풀이-1)
 
-  - [Sort by Related Topic](#sort-by-related-topic)
+  - [Related Topic](#related-topic)
     - [자료구조](#자료구조)
       - [배열 (15)](#배열-15)
       - [연결 리스트 (4)](#연결-리스트-4)
-      - [해시 (16)](#해시-16)
+      - [해시 (17)](#해시-17)
       - [스택 (14)](#스택-14)
-      - [큐 (8)](#큐-8)
+      - [큐 (9)](#큐-9)
       - [문자열 (16)](#문자열-16)
       - [트리 (5)](#트리-5)
       - [이진 트리 (2)](#이진-트리-2)
+      - [힙 (1)](#힙-1)
       - [덱 (1)](#덱-1)
       - [우선순위 큐 (3)](#우선순위-큐-3)
       - [그래프 (2)](#그래프-2)
@@ -40,7 +41,7 @@
       - [DFS/BFS (8)](#dfsbfs-8)
       - [탐욕법 (6)](#탐욕법-6)
       - [이분 탐색 (3)](#이분-탐색-3)
-      - [구현 (27)](#구현-27)
+      - [구현 (28)](#구현-28)
       - [수학 (11)](#수학-11)
       - [재귀 (3)](#재귀-3)
       - [동적계획법 (4)](#동적계획법-4)
@@ -54,16 +55,16 @@
       - [시뮬레이션 (1)](#시뮬레이션-1)
       - [누적 합 (1)](#누적-합-1)
 
-- ## Sort by Coding Test Platform
+- ## Coding Test Platform
 
-  - ## Programmers (43)
+  - ## Programmers (47)
 
     - ### Level3 (1)
       - #### 베스트 앨범
         - :gem: Javascript, Python
         - :pencil2: [Blog](https://philosopherprogrammer.com/51)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)
-    - ### Level2 (17)
+    - ### Level2 (20)
       - #### 124 나라의 숫자
         - :gem: Javascript
         - :pencil2: [Blog](https://philosopherprogrammer.com/39)
@@ -84,6 +85,9 @@
         - :gem: Javascript
         - :pencil2: [Blog](https://philosopherprogrammer.com/50)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD)
+      - #### 더 맵게
+        - :gem: Python
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%8D%94%EB%A7%B5%EA%B2%8C)
       - #### 메뉴 리뉴얼
         - :gem: Javascript
         - :bulb: Kakao 기출
@@ -112,6 +116,12 @@
         - :gem: Javascript
         - :pencil2: [Blog](https://philosopherprogrammer.com/86)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%9C%84%EC%9E%A5)
+      - #### 전화번호 목록
+        - :gem: Python
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D)
+      - #### 주식가격
+        - :gem: Python
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9)
       - #### 짝지어 제거하기
         - :gem: Javascript
         - :pencil2: [Blog](https://philosopherprogrammer.com/37)
@@ -136,7 +146,7 @@
         - :gem: Javascript
         - :pencil2: [Blog](https://philosopherprogrammer.com/54)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/H-Index)
-    - ### Level1 (25)
+    - ### Level1 (26)
       - #### 2016년
         - :gem: Javascript
         - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -182,6 +192,9 @@
         - :gem: Javascript
         - :pencil2: [Blog](https://philosopherprogrammer.com/68)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)
+      - #### 문자열을 정수로 바꾸기
+        - :gem: Javascript
+        - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%EC%A0%95%EC%88%98%EB%A1%9C%EB%B0%94%EA%BE%B8%EA%B8%B0)
       - #### 부족한 금액 계산하기
         - :gem: Javascript
         - :pencil2: [Blog](https://philosopherprogrammer.com/43)
@@ -500,7 +513,7 @@
         - :pencil2: [Blog](https://philosopherprogrammer.com/14)
         - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/20)
 
-- ## Sort by Education Platform
+- ## Education Platform
 
   - ## Inflearn (1)
 
@@ -509,7 +522,7 @@
         - :gem: Javascript
         - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/EducationPlatform/Inflearn/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/8_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_DFS/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98)
 
-- ## Sort by Related Topic
+- ## Related Topic
 
 - ## 자료구조
   - ## 배열 (15)
@@ -533,7 +546,7 @@
     - [Linked List Cycle](#Linked-List-Cycle)
     - [Add Two Numbers](#Add-Two-Numbers)
     - [에디터](#에디터)
-  - ## 해시 (16)
+  - ## 해시 (17)
     - [위장](#위장)
     - [오픈채팅방](#오픈채팅방)
     - [완주하지 못한 선수](#완주하지-못한-선수)
@@ -550,6 +563,7 @@
     - [Valid Sudoku](#Valid-Sudoku)
     - [회사에 있는 사람](#회사에-있는-사람)
     - [베스트셀러](#베스트셀러)
+    - [전화번호 목록](#전화번호-목록)
   - ## 스택 (14)
     - [기능개발](#기능개발)
     - [짝지어 제거하기](#짝지어-제거하기)
@@ -565,7 +579,7 @@
     - [단어 뒤집기 2](#단어-뒤집기-2)
     - [오큰수](#오큰수)
     - [제로](#제로)
-  - ## 큐 (8)
+  - ## 큐 (9)
     - [기능개발](#기능개발)
     - [프린터](#프린터)
     - [다리를 지나는 트럭](#다리를-지나는-트럭)
@@ -574,6 +588,7 @@
     - [카드2](#카드2)
     - [큐](#큐)
     - [요세푸스 문제 0](#요세푸스-문제-0)
+    - [주식가격](#주식가격)
   - ## 문자열 (16)
     - [문자열 압축](#문자열-압축)
     - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
@@ -600,6 +615,8 @@
   - ## 이진 트리 (2)
     - [Binary Tree Level Order Traversal](#Binary-Tree-Level-Order-Traversal)
     - [Binary Tree Level Order Traversal II](#Binary-Tree-Level-Order-Traversal-II)
+  - ## 힙 (1)
+    - [더 맵게](#더-맵게)
   - ## 덱 (1)
     - [덱](#덱)
   - ## 우선순위 큐 (3)
@@ -656,7 +673,7 @@
     - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
     - [Maximum Length of Repeated Subarray](#Maximum-Length-of-Repeated-Subarray)
     - [수 찾기](#수-찾기)
-  - ## 구현 (27)
+  - ## 구현 (28)
     - [124 나라의 숫자](#124-나라의-숫자)
     - [로또의 최고 순위와 최저 순위](#로또의-최고-순위와-최저-순위)
     - [없는 숫자 더하기](#없는-숫자-더하기)
@@ -684,6 +701,7 @@
     - [제로](#제로)
     - [신고 결과 받기](#신고-결과-받기)
     - [방금그곡](#방금그곡)
+    - [문자열을 정수로 바꾸기](#문자열을-정수로-바꾸기)
   - ## 수학 (11)
     - [Palindrome Number](#Palindrome-Number)
     - [Climbing Stairs](#Climbing-Stairs)
