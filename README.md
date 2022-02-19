@@ -1,10 +1,10 @@
-# Coding Test Practice (119)
+# Coding Test Practice (120)
  - # Overview
     - [Coding Test Platform](#coding-test-platform)    
-      - [Programmers (47)](#programmers-47)
+      - [Programmers (48)](#programmers-48)
         - [Level3 (1)](#level3-1)
         - [Level2 (20)](#level2-20)
-        - [Level1 (26)](#level1-26)
+        - [Level1 (27)](#level1-27)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -28,7 +28,7 @@
         - [Hash (17)](#hash-17)
         - [String (16)](#string-16)
         - [Array (15)](#array-15)
-        - [Stack (14)](#stack-14)
+        - [Stack (15)](#stack-15)
         - [Queue (9)](#queue-9)
         - [Tree (5)](#tree-5)
         - [Linked list (4)](#linked-list-4)
@@ -60,7 +60,7 @@
     
 - ## Coding Test Platform
 
-    - ## Programmers (47)
+    - ## Programmers (48)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -150,7 +150,7 @@
              - :pencil2: [Blog](https://philosopherprogrammer.com/54)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/H-Index)
 
-      - ## Level1 (26)
+      - ## Level1 (27)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -250,6 +250,10 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/80)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
+        - #### 크레인 인형뽑기 게임
+             - :gem: Javascript
+             - :pencil2: [Blog](https://philosopherprogrammer.tistory.com/97)
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84)
         - #### 폰켓몬
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/9)
@@ -594,7 +598,7 @@
         - [Valid Sudoku](#Valid-Sudoku)
         - [Maximum Length of Repeated Subarray](#Maximum-Length-of-Repeated-Subarray)
 
-      - ## Stack (14)
+      - ## Stack (15)
         - [기능개발](#기능개발)
         - [짝지어 제거하기](#짝지어-제거하기)
         - [Valid Parentheses](#Valid-Parentheses)
@@ -609,6 +613,7 @@
         - [단어 뒤집기 2](#단어-뒤집기-2)
         - [오큰수](#오큰수)
         - [제로](#제로)
+        - [크레인 인형뽑기 게임](#크레인-인형뽑기-게임)
 
       - ## Queue (9)
         - [기능개발](#기능개발)
