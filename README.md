@@ -1,10 +1,10 @@
-# Coding Test Practice (120)
+# Coding Test Practice (121)
  - # Overview
     - [Coding Test Platform](#coding-test-platform)    
-      - [Programmers (48)](#programmers-48)
+      - [Programmers (49)](#programmers-49)
         - [Level3 (1)](#level3-1)
         - [Level2 (20)](#level2-20)
-        - [Level1 (27)](#level1-27)
+        - [Level1 (28)](#level1-28)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -33,8 +33,8 @@
         - [Tree (5)](#tree-5)
         - [Linked list (4)](#linked-list-4)
         - [Priority queue (3)](#priority-queue-3)
+        - [Graph (3)](#graph-3)
         - [Binary tree (2)](#binary-tree-2)
-        - [Graph (2)](#graph-2)
         - [Deque (1)](#deque-1)
         - [Heap (1)](#heap-1)
       - [Algorithm](#algorithm)
@@ -42,9 +42,9 @@
         - [Sorting (14)](#sorting-14)
         - [Math (11)](#math-11)
         - [Bruteforce (10)](#bruteforce-10)
+        - [BFS (6)](#bfs-6)
         - [Greedy (6)](#greedy-6)
         - [DFS (5)](#dfs-5)
-        - [BFS (5)](#bfs-5)
         - [Two pointers (5)](#two-pointers-5)
         - [Recursion (4)](#recursion-4)
         - [Dynamic programming (4)](#dynamic-programming-4)
@@ -60,7 +60,7 @@
     
 - ## Coding Test Platform
 
-    - ## Programmers (48)
+    - ## Programmers (49)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -150,7 +150,7 @@
              - :pencil2: [Blog](https://philosopherprogrammer.com/54)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/H-Index)
 
-      - ## Level1 (27)
+      - ## Level1 (28)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -252,8 +252,14 @@
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
         - #### 크레인 인형뽑기 게임
              - :gem: Javascript
+             - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.tistory.com/97)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84)
+        - #### 키패드 누르기
+             - :gem: Javascript
+             - :bulb: Kakao 기출
+             - :pencil2: [Blog](https://philosopherprogrammer.com/98)
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0)
         - #### 폰켓몬
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/9)
@@ -644,13 +650,14 @@
         - [최소 힙](#최소-힙)
         - [절대값 힙](#절대값-힙)
 
+      - ## Graph (3)
+        - [연결 요소의 개수](#연결-요소의-개수)
+        - [미로 탐색](#미로-탐색)
+        - [키패드 누르기](#키패드-누르기)
+
       - ## Binary tree (2)
         - [Binary Tree Level Order Traversal](#Binary-Tree-Level-Order-Traversal)
         - [Binary Tree Level Order Traversal II](#Binary-Tree-Level-Order-Traversal-II)
-
-      - ## Graph (2)
-        - [연결 요소의 개수](#연결-요소의-개수)
-        - [미로 탐색](#미로-탐색)
 
       - ## Deque (1)
         - [덱](#덱)
@@ -730,6 +737,14 @@
         - [셀프 넘버](#셀프-넘버)
         - [메뉴 리뉴얼](#메뉴-리뉴얼)
 
+      - ## BFS (6)
+        - [타겟 넘버](#타겟-넘버)
+        - [Binary Tree Level Order Traversal](#Binary-Tree-Level-Order-Traversal)
+        - [Binary Tree Level Order Traversal II](#Binary-Tree-Level-Order-Traversal-II)
+        - [연결 요소의 개수](#연결-요소의-개수)
+        - [미로 탐색](#미로-탐색)
+        - [키패드 누르기](#키패드-누르기)
+
       - ## Greedy (6)
         - [큰 수 만들기](#큰-수-만들기)
         - [구명보트](#구명보트)
@@ -744,13 +759,6 @@
         - [Binary Tree Postorder Traversal](#Binary-Tree-Postorder-Traversal)
         - [연결 요소의 개수](#연결-요소의-개수)
         - [이진수 출력](#이진수-출력)
-
-      - ## BFS (5)
-        - [타겟 넘버](#타겟-넘버)
-        - [Binary Tree Level Order Traversal](#Binary-Tree-Level-Order-Traversal)
-        - [Binary Tree Level Order Traversal II](#Binary-Tree-Level-Order-Traversal-II)
-        - [연결 요소의 개수](#연결-요소의-개수)
-        - [미로 탐색](#미로-탐색)
 
       - ## Two pointers (5)
         - [Merge Sorted Array](#Merge-Sorted-Array)
