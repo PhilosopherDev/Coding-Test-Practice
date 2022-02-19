@@ -1,10 +1,10 @@
-# Coding Test Practice (121)
+# Coding Test Practice (122)
  - # Overview
     - [Coding Test Platform](#coding-test-platform)    
-      - [Programmers (49)](#programmers-49)
+      - [Programmers (50)](#programmers-50)
         - [Level3 (1)](#level3-1)
         - [Level2 (20)](#level2-20)
-        - [Level1 (28)](#level1-28)
+        - [Level1 (29)](#level1-29)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -26,7 +26,7 @@
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
         - [Hash (17)](#hash-17)
-        - [String (16)](#string-16)
+        - [String (17)](#string-17)
         - [Array (15)](#array-15)
         - [Stack (15)](#stack-15)
         - [Queue (9)](#queue-9)
@@ -60,7 +60,7 @@
     
 - ## Coding Test Platform
 
-    - ## Programmers (49)
+    - ## Programmers (50)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -150,7 +150,7 @@
              - :pencil2: [Blog](https://philosopherprogrammer.com/54)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/H-Index)
 
-      - ## Level1 (28)
+      - ## Level1 (29)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -222,6 +222,11 @@
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/92)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0)
+        - #### 신규 아이디 추천
+             - :gem: Javascript
+             - :bulb: Kakao 기출
+             - :pencil2: [Blog](https://philosopherprogrammer.com/99)
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C)
         - #### 실패율
              - :gem: Javascript
              - :bulb: Kakao 기출
@@ -569,7 +574,7 @@
         - [베스트셀러](#베스트셀러)
         - [전화번호 목록](#전화번호-목록)
 
-      - ## String (16)
+      - ## String (17)
         - [문자열 압축](#문자열-압축)
         - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
         - [가운데 글자 가져오기](#가운데-글자-가져오기)
@@ -586,6 +591,7 @@
         - [단어 뒤집기 2](#단어-뒤집기-2)
         - [다트 게임](#다트-게임)
         - [방금그곡](#방금그곡)
+        - [신규 아이디 추천](#신규-아이디-추천)
 
       - ## Array (15)
         - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
