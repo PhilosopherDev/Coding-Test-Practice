@@ -72,7 +72,7 @@ const graph = {
     "#": [9, 0]
 };
 
-function BFS(graph, startNode, findingNode) {
+function BFS(graph, startNode, targetNode) {
     const visited = []; 
     let needVisit = [], answer = Infinity; 
     needVisit.push({distance: 0, node: startNode}); 
@@ -85,7 +85,7 @@ function BFS(graph, startNode, findingNode) {
             });
             needVisit = [...needVisit, ...newNeedVisit];
         }
-        if (node === findingNode) {
+        if (node === targetNode) {
             answer = distance;
             break;
         }
