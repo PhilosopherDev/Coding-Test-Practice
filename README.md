@@ -1,9 +1,9 @@
-# Coding Test Practice (122)
+# Coding Test Practice (123)
  - # Overview
     - [Coding Test Platform](#coding-test-platform)    
-      - [Programmers (50)](#programmers-50)
+      - [Programmers (51)](#programmers-51)
         - [Level3 (1)](#level3-1)
-        - [Level2 (20)](#level2-20)
+        - [Level2 (21)](#level2-21)
         - [Level1 (29)](#level1-29)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
@@ -38,7 +38,7 @@
         - [Deque (1)](#deque-1)
         - [Heap (1)](#heap-1)
       - [Algorithm](#algorithm)
-        - [Implementation (28)](#implementation-28)
+        - [Implementation (29)](#implementation-29)
         - [Sorting (14)](#sorting-14)
         - [Math (11)](#math-11)
         - [Bruteforce (10)](#bruteforce-10)
@@ -60,14 +60,14 @@
     
 - ## Coding Test Platform
 
-    - ## Programmers (50)
+    - ## Programmers (51)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
              - :pencil2: [Blog](https://philosopherprogrammer.com/51)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)
 
-      - ## Level2 (20)
+      - ## Level2 (21)
         - #### 124 나라의 숫자
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/39)
@@ -84,6 +84,11 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/15)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)
+        - #### 뉴스 클러스터링
+             - :gem: Javascript
+             - :bulb: Kakao 기출
+             - :pencil2: [Blog](https://philosopherprogrammer.com/100)
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%89%B4%EC%8A%A4%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81)
         - #### 다리를 지나는 트럭
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/50)
@@ -672,7 +677,7 @@
         - [더 맵게](#더-맵게)
         
     - ## Algorithm
-      - ## Implementation (28)
+      - ## Implementation (29)
         - [124 나라의 숫자](#124-나라의-숫자)
         - [로또의 최고 순위와 최저 순위](#로또의-최고-순위와-최저-순위)
         - [없는 숫자 더하기](#없는-숫자-더하기)
@@ -701,6 +706,7 @@
         - [신고 결과 받기](#신고-결과-받기)
         - [방금그곡](#방금그곡)
         - [문자열을 정수로 바꾸기](#문자열을-정수로-바꾸기)
+        - [뉴스 클러스터링](#뉴스-클러스터링)
 
       - ## Sorting (14)
         - [가장 큰 수](#가장-큰-수)
