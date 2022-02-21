@@ -1,9 +1,9 @@
-# Coding Test Practice (123)
+# Coding Test Practice (124)
  - # Overview
     - [Coding Test Platform](#coding-test-platform)    
-      - [Programmers (51)](#programmers-51)
+      - [Programmers (52)](#programmers-52)
         - [Level3 (1)](#level3-1)
-        - [Level2 (21)](#level2-21)
+        - [Level2 (22)](#level2-22)
         - [Level1 (29)](#level1-29)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
@@ -38,15 +38,15 @@
         - [Deque (1)](#deque-1)
         - [Heap (1)](#heap-1)
       - [Algorithm](#algorithm)
-        - [Implementation (29)](#implementation-29)
+        - [Implementation (30)](#implementation-30)
         - [Sorting (14)](#sorting-14)
         - [Math (11)](#math-11)
         - [Bruteforce (10)](#bruteforce-10)
         - [BFS (6)](#bfs-6)
         - [Greedy (6)](#greedy-6)
         - [DFS (5)](#dfs-5)
+        - [Recursion (5)](#recursion-5)
         - [Two pointers (5)](#two-pointers-5)
-        - [Recursion (4)](#recursion-4)
         - [Dynamic programming (4)](#dynamic-programming-4)
         - [Binary search (3)](#binary-search-3)
         - [Counting (3)](#counting-3)
@@ -60,14 +60,14 @@
     
 - ## Coding Test Platform
 
-    - ## Programmers (51)
+    - ## Programmers (52)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
              - :pencil2: [Blog](https://philosopherprogrammer.com/51)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)
 
-      - ## Level2 (21)
+      - ## Level2 (22)
         - #### 124 나라의 숫자
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/39)
@@ -76,6 +76,11 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/53)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98)
+        - #### 괄호 변환
+             - :gem: Javascript
+             - :bulb: Kakao 기출
+             - :pencil2: [Blog](https://philosopherprogrammer.com/101)
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98)
         - #### 구명보트
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/70)
@@ -677,7 +682,7 @@
         - [더 맵게](#더-맵게)
         
     - ## Algorithm
-      - ## Implementation (29)
+      - ## Implementation (30)
         - [124 나라의 숫자](#124-나라의-숫자)
         - [로또의 최고 순위와 최저 순위](#로또의-최고-순위와-최저-순위)
         - [없는 숫자 더하기](#없는-숫자-더하기)
@@ -707,6 +712,7 @@
         - [방금그곡](#방금그곡)
         - [문자열을 정수로 바꾸기](#문자열을-정수로-바꾸기)
         - [뉴스 클러스터링](#뉴스-클러스터링)
+        - [괄호 변환](#괄호-변환)
 
       - ## Sorting (14)
         - [가장 큰 수](#가장-큰-수)
@@ -772,18 +778,19 @@
         - [연결 요소의 개수](#연결-요소의-개수)
         - [이진수 출력](#이진수-출력)
 
+      - ## Recursion (5)
+        - [Maximum Subarray](#Maximum-Subarray)
+        - [Add Two Numbers](#Add-Two-Numbers)
+        - [재귀 함수](#재귀-함수)
+        - [이진수 출력](#이진수-출력)
+        - [괄호 변환](#괄호-변환)
+
       - ## Two pointers (5)
         - [Merge Sorted Array](#Merge-Sorted-Array)
         - [Linked List Cycle](#Linked-List-Cycle)
         - [Happy Number](#Happy-Number)
         - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
         - [Container with Most Water](#Container-with-Most-Water)
-
-      - ## Recursion (4)
-        - [Maximum Subarray](#Maximum-Subarray)
-        - [Add Two Numbers](#Add-Two-Numbers)
-        - [재귀 함수](#재귀-함수)
-        - [이진수 출력](#이진수-출력)
 
       - ## Dynamic programming (4)
         - [Climbing Stairs](#Climbing-Stairs)
