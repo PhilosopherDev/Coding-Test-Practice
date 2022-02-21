@@ -61,7 +61,7 @@ function getFirstBalancedIdx(p) { // 1-2
     return idx;
 }
 
-function modify_u(u) { // 1-4
+function modify_u(u) { // 1-5
     return u.slice(1, u.length - 1).split("").map((item) => item === "(" ? ")" : "(").join("");
 }
 
