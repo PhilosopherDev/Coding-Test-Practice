@@ -21,11 +21,12 @@ function solution(p) {
 
 function recursiveBracketModifier(p) { // 1
     if (isProper(p)) return p; // 1-1
-
-    const u = p.slice(0, getFirstBalancedIdx(p)); // 1-2
-    const v = p.slice(getFirstBalancedIdx(p)); // 1-3
     
-    return isProper(u) ? u + recursiveBracketModifier(v) : `(${recursiveBracketModifier(v)})${modify_u(u)}`; // 1-4
+    const idx = getFirstBalancedIdx(p); // 1-2
+    const u = p.slice(0, idx); // 1-3
+    const v = p.slice(idx); // 1-4
+    
+    return isProper(u) ? u + recursiveBracketModifier(v) : `(${recursiveBracketModifier(v)})${modify_u(u)}`; // 1-5
 }
 
 function isProper(p) { // 1-1
@@ -43,7 +44,7 @@ function isProper(p) { // 1-1
     return proper < 0 ? false : true;
 }
 
-function getFirstBalancedIdx(p) { // 1-2, 1-3
+function getFirstBalancedIdx(p) { // 1-2
     if (p === "") return ""; 
 
     const pArr = p.split("").reverse();
