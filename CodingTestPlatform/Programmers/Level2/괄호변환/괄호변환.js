@@ -15,7 +15,7 @@
  */
 
 function solution(p) {
-    return recursiveBracketChecker(p);
+    return recursiveBracketModifier(p);
 }
 
 function isProper(p) {
@@ -54,13 +54,13 @@ function modify_u(u) {
     return u.slice(1, u.length - 1).split("").map((item) => item === "(" ? ")" : "(").join("");
 }
 
-function recursiveBracketChecker(p) {
+function recursiveBracketModifier(p) {
     if (isProper(p)) return p; 
 
     const u = p.slice(0, getFirstBalancedIdx(p));
     const v = p.slice(getFirstBalancedIdx(p));
     
-    return isProper(u) ? u + recursiveBracketChecker(v) : `(${recursiveBracketChecker(v)})${modify_u(u)}`;
+    return isProper(u) ? u + recursiveBracketModifier(v) : `(${recursiveBracketModifier(v)})${modify_u(u)}`;
 }
 
 module.exports = solution;
