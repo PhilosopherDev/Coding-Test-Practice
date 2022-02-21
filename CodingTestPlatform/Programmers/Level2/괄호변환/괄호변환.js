@@ -1,6 +1,7 @@
 /**
  * 괄호변환.js
  * https://programmers.co.kr/learn/courses/30/lessons/60058?language=javascript
+ * https://philosopherprogrammer.com/101
  
     1. 입력이 빈 문자열인 경우, 빈 문자열을 반환합니다. 
     2. 문자열 w를 두 "균형잡힌 괄호 문자열" u, v로 분리합니다. 단, u는 "균형잡힌 괄호 문자열"로 더 이상 분리할 수 없어야 하며, v는 빈 문자열이 될 수 있습니다. 
@@ -15,10 +16,19 @@
  */
 
 function solution(p) {
-    return recursiveBracketModifier(p);
+    return recursiveBracketModifier(p); // 1
 }
 
-function isProper(p) {
+function recursiveBracketModifier(p) { // 1
+    if (isProper(p)) return p; // 1-1
+
+    const u = p.slice(0, getFirstBalancedIdx(p)); // 1-2
+    const v = p.slice(getFirstBalancedIdx(p)); // 1-3
+    
+    return isProper(u) ? u + recursiveBracketModifier(v) : `(${recursiveBracketModifier(v)})${modify_u(u)}`; // 1-4
+}
+
+function isProper(p) { // 1-1
     if (p === "") return true; 
 
     const pArr = p.split("").reverse();
@@ -33,7 +43,7 @@ function isProper(p) {
     return proper < 0 ? false : true;
 }
 
-function getFirstBalancedIdx(p) {
+function getFirstBalancedIdx(p) { // 1-2, 1-3
     if (p === "") return ""; 
 
     const pArr = p.split("").reverse();
@@ -50,17 +60,8 @@ function getFirstBalancedIdx(p) {
     return idx;
 }
 
-function modify_u(u) {
+function modify_u(u) { // 1-4
     return u.slice(1, u.length - 1).split("").map((item) => item === "(" ? ")" : "(").join("");
-}
-
-function recursiveBracketModifier(p) {
-    if (isProper(p)) return p; 
-
-    const u = p.slice(0, getFirstBalancedIdx(p));
-    const v = p.slice(getFirstBalancedIdx(p));
-    
-    return isProper(u) ? u + recursiveBracketModifier(v) : `(${recursiveBracketModifier(v)})${modify_u(u)}`;
 }
 
 module.exports = solution;
