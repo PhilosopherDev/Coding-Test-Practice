@@ -14,7 +14,7 @@ function solution(cacheSize, cities) {
         .map((city) => city.toLowerCase()) // 3
         .forEach((city) => { 
             const cityIdx = cache.indexOf(city);
-            
+
             if (cityIdx > -1) {
                 answer += HIT; // 4
                 cache.splice(cityIdx, 1); // 5
@@ -26,7 +26,7 @@ function solution(cacheSize, cities) {
             cache.push(city); // 8
         });
 
-    return answer;
+    return answer; // 9
 }
 
 module.exports = solution;
