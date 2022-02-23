@@ -1,9 +1,9 @@
-# Coding Test Practice (124)
+# Coding Test Practice (125)
  - # Overview
     - [Coding Test Platform](#coding-test-platform)    
-      - [Programmers (52)](#programmers-52)
+      - [Programmers (53)](#programmers-53)
         - [Level3 (1)](#level3-1)
-        - [Level2 (22)](#level2-22)
+        - [Level2 (23)](#level2-23)
         - [Level1 (29)](#level1-29)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
@@ -29,7 +29,7 @@
         - [String (17)](#string-17)
         - [Array (15)](#array-15)
         - [Stack (15)](#stack-15)
-        - [Queue (9)](#queue-9)
+        - [Queue (10)](#queue-10)
         - [Tree (5)](#tree-5)
         - [Linked list (4)](#linked-list-4)
         - [Priority queue (3)](#priority-queue-3)
@@ -60,14 +60,14 @@
     
 - ## Coding Test Platform
 
-    - ## Programmers (52)
+    - ## Programmers (53)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
              - :pencil2: [Blog](https://philosopherprogrammer.com/51)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)
 
-      - ## Level2 (22)
+      - ## Level2 (23)
         - #### 124 나라의 숫자
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/39)
@@ -143,6 +143,11 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/46)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%B9%B4%ED%8E%AB)
+        - #### 캐시
+             - :gem: Javascript
+             - :bulb: Kakao 기출
+             - :pencil2: [Blog](https://philosopherprogrammer.com/102)
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%BA%90%EC%8B%9C)
         - #### 큰 수 만들기
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/69)
@@ -637,7 +642,7 @@
         - [제로](#제로)
         - [크레인 인형뽑기 게임](#크레인-인형뽑기-게임)
 
-      - ## Queue (9)
+      - ## Queue (10)
         - [기능개발](#기능개발)
         - [프린터](#프린터)
         - [다리를 지나는 트럭](#다리를-지나는-트럭)
@@ -647,6 +652,7 @@
         - [큐](#큐)
         - [요세푸스 문제 0](#요세푸스-문제-0)
         - [주식가격](#주식가격)
+        - [캐시](#캐시)
 
       - ## Tree (5)
         - [Binary Tree Inorder Traversal](#Binary-Tree-Inorder-Traversal)
