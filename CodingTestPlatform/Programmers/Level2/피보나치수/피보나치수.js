@@ -1,8 +1,8 @@
 /**
  * 피보나치수.js
  * https://programmers.co.kr/learn/courses/30/lessons/12945?language=javascript
- * 참조 - https://programmers.co.kr/questions/11969
- * (A + B) % C = ((A % C) + (B % C)) % C
+ * [모듈러 연산의 성질] 참조 - https://programmers.co.kr/questions/11969 : (A + B) % C = ((A % C) + (B % C)) % C
+ * [재귀 호출 깊이 한도] 참조 - https://jireh.tistory.com/14
  */
 
 /** 재귀 깊이 초과로 실패 */
