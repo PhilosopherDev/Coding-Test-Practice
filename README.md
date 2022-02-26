@@ -67,234 +67,399 @@
              - :pencil2: [Blog](https://philosopherprogrammer.com/51)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)
 
+
+             **[⬆ Back to Top](#overview)**
+
       - ## Level2 (24)
         - #### 124 나라의 숫자
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/39)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/124%EB%82%98%EB%9D%BC%EC%9D%98%EC%88%AB%EC%9E%90)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 가장 큰 수
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/53)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 괄호 변환
              - :gem: Javascript
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/101)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 구명보트
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/70)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 기능개발
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/15)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 뉴스 클러스터링
              - :gem: Javascript
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/100)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%89%B4%EC%8A%A4%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 다리를 지나는 트럭
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/50)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 더 맵게
              - :gem: Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%8D%94%EB%A7%B5%EA%B2%8C)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 메뉴 리뉴얼
              - :gem: Javascript
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/95)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 문자열 압축
              - :gem: Javascript
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/40)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 방금그곡
              - :gem: Javascript
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.tistory.com/96)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 소수 찾기
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/48)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 오픈채팅방
              - :gem: Javascript
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/41)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 위장
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/86)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%9C%84%EC%9E%A5)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 전화번호 목록
              - :gem: Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 주식가격
              - :gem: Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 짝지어 제거하기
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/37)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%A7%9D%EC%A7%80%EC%96%B4%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 카펫
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/46)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%B9%B4%ED%8E%AB)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 캐시
              - :gem: Javascript
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/102)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%BA%90%EC%8B%9C)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 큰 수 만들기
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/69)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 타겟 넘버
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/38)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 프린터
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/49)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%ED%94%84%EB%A6%B0%ED%84%B0)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 피보나치 수
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/103)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### H-Index
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/54)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/H-Index)
+
+
+             **[⬆ Back to Top](#overview)**
 
       - ## Level1 (30)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/2016%EB%85%84)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 가운데 글자 가져오기
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/74)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EA%B0%80%EC%9A%B4%EB%8D%B0%EA%B8%80%EC%9E%90%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 같은 숫자는 싫어
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/77)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EA%B0%99%EC%9D%80%EC%88%AB%EC%9E%90%EB%8A%94%EC%8B%AB%EC%96%B4)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 나누어 떨어지는 숫자 배열
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/78)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%82%98%EB%88%84%EC%96%B4%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%EC%88%AB%EC%9E%90%EB%B0%B0%EC%97%B4)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 나머지가 1이 되는 수 찾기
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/75)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%801%EC%9D%B4%EB%90%98%EB%8A%94%EC%88%98%EC%B0%BE%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 다트 게임
              - :gem: Javascript
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/93)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 두 개 뽑아서 더하기
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/59)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%91%90%EA%B0%9C%EB%BD%91%EC%95%84%EC%84%9C%EB%8D%94%ED%95%98%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 두 정수 사이의 합
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/76)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%91%90%EC%A0%95%EC%88%98%EC%82%AC%EC%9D%B4%EC%9D%98%ED%95%A9)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 로또의 최고 순위와 최저 순위
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/44)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%A1%9C%EB%98%90%EC%9D%98%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 모의고사
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/47)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 문자열 내림차순으로 배치하기
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/68)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 문자열을 정수로 바꾸기
              - :gem: Javascript
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%EC%A0%95%EC%88%98%EB%A1%9C%EB%B0%94%EA%BE%B8%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 부족한 금액 계산하기
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/43)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%B6%80%EC%A1%B1%ED%95%9C%EA%B8%88%EC%95%A1%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 비밀 지도
              - :gem: Javascript
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/94)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 서울에서 김서방 찾기
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/73)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 숫자 문자열과 영단어
              - :gem: Javascript
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/45)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 신고 결과 받기
              - :gem: Javascript
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/92)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 신규 아이디 추천
              - :gem: Javascript
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/99)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 실패율
              - :gem: Javascript
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/55)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 약수의 개수와 덧셈
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/79)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%95%BD%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98%EC%99%80%EB%8D%A7%EC%85%88)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 없는 숫자 더하기
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/52)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 완주하지 못한 선수
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/7)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 음양 더하기
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/8)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%9D%8C%EC%96%91%EB%8D%94%ED%95%98%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 이상한 문자 만들기
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/104)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%9D%B4%EC%83%81%ED%95%9C%EB%AC%B8%EC%9E%90%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 체육복
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 최소 직사각형
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/80)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 크레인 인형뽑기 게임
              - :gem: Javascript
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.tistory.com/97)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 키패드 누르기
              - :gem: Javascript
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/98)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 폰켓몬
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/9)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### K번째수
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/K%EB%B2%88%EC%A7%B8%EC%88%98)
+
+
+             **[⬆ Back to Top](#overview)**
 
     - ## BOJ (39)
       - ## Gold4 (1)
@@ -302,137 +467,254 @@
              - :gem: Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/3_Gold/4/17298)
 
+
+             **[⬆ Back to Top](#overview)**
+
       - ## Silver1 (3)
         - #### 미로 탐색
              - :gem: Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/1/2178)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 절대값 힙
              - :gem: Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/1/11286)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 최소 힙
              - :gem: Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/1/1927)
+
+
+             **[⬆ Back to Top](#overview)**
 
       - ## Silver2 (3)
         - #### 연결 요소의 개수
              - :gem: Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/2/11724)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 최대 힙
              - :gem: Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/2/11279)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 회의실 배정
              - :gem: Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/2/1931)
+
+
+             **[⬆ Back to Top](#overview)**
 
       - ## Silver3 (6)
         - #### 구간 합 구하기 4
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/11659)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 단어 뒤집기 2
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/17413)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 사탕 게임
              - :gem: Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/3085)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 수리공 항승
              - :gem: Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/1449)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 스택 수열
              - :gem: Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/1874)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 에디터
              - :gem: Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/1406)
+
+
+             **[⬆ Back to Top](#overview)**
 
       - ## Silver4 (9)
         - #### 괄호
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/9012)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 덱
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/10866)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 베스트셀러
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/1302)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 수 찾기
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/90)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/1920)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 스택
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/10828)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 요세푸스 문제 0
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/11866)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 제로
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/89)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/10773)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 카드2
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/2164)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 큐
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/10845)
+
+
+             **[⬆ Back to Top](#overview)**
 
       - ## Silver5 (3)
         - #### 셀프 넘버
              - :gem: Javascript
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/5/4673)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 요세푸스 문제
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/5/1158)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 회사에 있는 사람
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/5/7785)
+
+
+             **[⬆ Back to Top](#overview)**
 
       - ## Bronze1 (1)
         - #### 단어 뒤집기
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/1/9093)
 
+
+             **[⬆ Back to Top](#overview)**
+
       - ## Bronze2 (7)
         - #### 문자열 반복
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/2675)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 백설 공주와 일곱 난쟁이
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/3040)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 빠른 A+B
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/15552)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 알파벳 개수
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/10808)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 알파벳 찾기
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/10809)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 유레카 이론
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/10448)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 일곱 난쟁이
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/2/2309)
+
+
+             **[⬆ Back to Top](#overview)**
 
       - ## Bronze5 (6)
         - #### 오늘 날짜
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/5/10699)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### A-B
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/5/1001)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### A+B
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/5/1000)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Hello World
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/5/2557)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### R2
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/5/3046)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### We love kriii
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/1_Bronze/5/10718)
+
+
+             **[⬆ Back to Top](#overview)**
     
     - ## Leetcode (31)
       - ## Medium (7)
@@ -440,128 +722,221 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/18)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/2)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Binary Tree Level Order Traversal
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/26)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/102)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Binary Tree Level Order Traversal II
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/27)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/107)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Container with Most Water
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/21)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/11)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Maximum Length of Repeated Subarray
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/35)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/718)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Reverse Integer
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/19)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/7)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Valid Sudoku
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/85)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/36)
+
+
+             **[⬆ Back to Top](#overview)**
 
       - ## Easy (24)
         - #### Best Time to Buy and Sell Stock
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/72)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/121)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Binary Tree Inorder Traversal
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/24)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/94)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Binary Tree Postorder Traversal
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/25)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/145)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Binary Tree Preorder Traversal
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/23)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/144)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Climbing Stairs
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/30)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/70)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Contains Duplicate
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/56)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/217)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### First Unique Character in a String
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/82)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/387)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Happy Number
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/34)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/202)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Intersection of Two Arrays II
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/71)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/350)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Linked List Cycle
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/87)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/141)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Longest Common Prefix
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/22)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/14)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Majority Element
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/29)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/169)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Maximum Subarray
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/57)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/53)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Merge Sorted Array
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/58)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/88)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Merge Two Sorted Lists
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/28)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/21)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Min Stack
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/16)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/155)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Palindrome Number
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/20)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/9)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Pascals Triangle
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/36)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/118)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Ransom Note
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/83)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/383)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Reshape the Matrix
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/81)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/566)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Single Number
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/32)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/136)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Two Sum
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/17)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/1)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Valid Anagram
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/84)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/242)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Valid Parentheses
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/14)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/20)
+
+
+             **[⬆ Back to Top](#overview)**
     
 - ## Education Platform
 
@@ -570,9 +945,15 @@
         - #### 이진수 출력
              - :gem: Javascript
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/EducationPlatform/Inflearn/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/8_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_DFS/%EC%9D%B4%EC%A7%84%EC%88%98%EC%B6%9C%EB%A0%A5)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### 재귀 함수
              - :gem: Javascript
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/EducationPlatform/Inflearn/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/8_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_DFS/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98)
+
+
+             **[⬆ Back to Top](#overview)**
     
 
  - ## Related Topic
@@ -598,6 +979,9 @@
         - [신규 아이디 추천](#신규-아이디-추천)
         - [이상한 문자 만들기](#이상한-문자-만들기)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Hash (17)
         - [위장](#위장)
         - [오픈채팅방](#오픈채팅방)
@@ -617,6 +1001,9 @@
         - [베스트셀러](#베스트셀러)
         - [전화번호 목록](#전화번호-목록)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Array (16)
         - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
         - [음양 더하기](#음양-더하기)
@@ -635,6 +1022,9 @@
         - [Maximum Length of Repeated Subarray](#Maximum-Length-of-Repeated-Subarray)
         - [피보나치 수](#피보나치-수)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Stack (15)
         - [기능개발](#기능개발)
         - [짝지어 제거하기](#짝지어-제거하기)
@@ -652,6 +1042,9 @@
         - [제로](#제로)
         - [크레인 인형뽑기 게임](#크레인-인형뽑기-게임)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Queue (10)
         - [기능개발](#기능개발)
         - [프린터](#프린터)
@@ -664,6 +1057,9 @@
         - [주식가격](#주식가격)
         - [캐시](#캐시)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Tree (5)
         - [Binary Tree Inorder Traversal](#Binary-Tree-Inorder-Traversal)
         - [Binary Tree Preorder Traversal](#Binary-Tree-Preorder-Traversal)
@@ -671,31 +1067,52 @@
         - [Binary Tree Level Order Traversal](#Binary-Tree-Level-Order-Traversal)
         - [Binary Tree Level Order Traversal II](#Binary-Tree-Level-Order-Traversal-II)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Linked list (4)
         - [Maximum Subarray](#Maximum-Subarray)
         - [Linked List Cycle](#Linked-List-Cycle)
         - [Add Two Numbers](#Add-Two-Numbers)
         - [에디터](#에디터)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Priority queue (3)
         - [최대 힙](#최대-힙)
         - [최소 힙](#최소-힙)
         - [절대값 힙](#절대값-힙)
+
+
+         **[⬆ Back to Top](#overview)**
 
       - ## Graph (3)
         - [연결 요소의 개수](#연결-요소의-개수)
         - [미로 탐색](#미로-탐색)
         - [키패드 누르기](#키패드-누르기)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Binary tree (2)
         - [Binary Tree Level Order Traversal](#Binary-Tree-Level-Order-Traversal)
         - [Binary Tree Level Order Traversal II](#Binary-Tree-Level-Order-Traversal-II)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Deque (1)
         - [덱](#덱)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Heap (1)
         - [더 맵게](#더-맵게)
+
+
+         **[⬆ Back to Top](#overview)**
         
     - ## Algorithm
       - ## Implementation (30)
@@ -730,6 +1147,9 @@
         - [뉴스 클러스터링](#뉴스-클러스터링)
         - [괄호 변환](#괄호-변환)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Sorting (14)
         - [가장 큰 수](#가장-큰-수)
         - [H-Index](#H-Index)
@@ -746,6 +1166,9 @@
         - [수리공 항승](#수리공-항승)
         - [회의실 배정](#회의실-배정)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Math (12)
         - [Palindrome Number](#Palindrome-Number)
         - [Climbing Stairs](#Climbing-Stairs)
@@ -760,6 +1183,9 @@
         - [셀프 넘버](#셀프-넘버)
         - [피보나치 수](#피보나치-수)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Bruteforce (10)
         - [소수 찾기](#소수-찾기)
         - [카펫](#카펫)
@@ -772,6 +1198,9 @@
         - [셀프 넘버](#셀프-넘버)
         - [메뉴 리뉴얼](#메뉴-리뉴얼)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## BFS (6)
         - [타겟 넘버](#타겟-넘버)
         - [Binary Tree Level Order Traversal](#Binary-Tree-Level-Order-Traversal)
@@ -779,6 +1208,9 @@
         - [연결 요소의 개수](#연결-요소의-개수)
         - [미로 탐색](#미로-탐색)
         - [키패드 누르기](#키패드-누르기)
+
+
+         **[⬆ Back to Top](#overview)**
 
       - ## Greedy (6)
         - [큰 수 만들기](#큰-수-만들기)
@@ -788,12 +1220,18 @@
         - [수리공 항승](#수리공-항승)
         - [회의실 배정](#회의실-배정)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## DFS (5)
         - [Binary Tree Inorder Traversal](#Binary-Tree-Inorder-Traversal)
         - [Binary Tree Preorder Traversal](#Binary-Tree-Preorder-Traversal)
         - [Binary Tree Postorder Traversal](#Binary-Tree-Postorder-Traversal)
         - [연결 요소의 개수](#연결-요소의-개수)
         - [이진수 출력](#이진수-출력)
+
+
+         **[⬆ Back to Top](#overview)**
 
       - ## Recursion (5)
         - [Maximum Subarray](#Maximum-Subarray)
@@ -802,6 +1240,9 @@
         - [이진수 출력](#이진수-출력)
         - [괄호 변환](#괄호-변환)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Two pointers (5)
         - [Merge Sorted Array](#Merge-Sorted-Array)
         - [Linked List Cycle](#Linked-List-Cycle)
@@ -809,42 +1250,75 @@
         - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
         - [Container with Most Water](#Container-with-Most-Water)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Dynamic programming (4)
         - [Climbing Stairs](#Climbing-Stairs)
         - [Pascals Triangle](#Pascals-Triangle)
         - [Best Time to Buy and Sell Stock](#Best-Time-to-Buy-and-Sell-Stock)
         - [Maximum Length of Repeated Subarray](#Maximum-Length-of-Repeated-Subarray)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Binary search (3)
         - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
         - [Maximum Length of Repeated Subarray](#Maximum-Length-of-Repeated-Subarray)
         - [수 찾기](#수-찾기)
+
+
+         **[⬆ Back to Top](#overview)**
 
       - ## Counting (3)
         - [Majority Element](#Majority-Element)
         - [Ransom Note](#Ransom-Note)
         - [First Unique Character in a String](#First-Unique-Character-in-a-String)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Bit manipulation (2)
         - [Single Number](#Single-Number)
         - [비밀 지도](#비밀-지도)
+
+
+         **[⬆ Back to Top](#overview)**
 
       - ## Matrix (2)
         - [Reshape the Matrix](#Reshape-the-Matrix)
         - [Valid Sudoku](#Valid-Sudoku)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Memoization (1)
         - [Climbing Stairs](#Climbing-Stairs)
+
+
+         **[⬆ Back to Top](#overview)**
 
       - ## Design (1)
         - [Min Stack](#Min-Stack)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Divide and conquer (1)
         - [Majority Element](#Majority-Element)
+
+
+         **[⬆ Back to Top](#overview)**
 
       - ## Simulation (1)
         - [Reshape the Matrix](#Reshape-the-Matrix)
 
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Cumulative sum (1)
         - [구간 합 구하기 4](#구간-합-구하기-4)
+
+
+         **[⬆ Back to Top](#overview)**
     
