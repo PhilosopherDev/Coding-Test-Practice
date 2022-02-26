@@ -960,144 +960,144 @@
 
     - ## Data Structure
       - ## String (18)
-        - [문자열 압축](#문자열-압축)
-        - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
         - [가운데 글자 가져오기](#가운데-글자-가져오기)
-        - [Longest Common Prefix](#Longest-Common-Prefix)
-        - [Valid Parentheses](#Valid-Parentheses)
-        - [Valid Anagram](#Valid-Anagram)
-        - [Ransom Note](#Ransom-Note)
-        - [First Unique Character in a String](#First-Unique-Character-in-a-String)
+        - [괄호](#괄호)
+        - [다트 게임](#다트-게임)
+        - [단어 뒤집기 2](#단어-뒤집기-2)
         - [문자열 반복](#문자열-반복)
+        - [문자열 압축](#문자열-압축)
+        - [방금그곡](#방금그곡)
+        - [베스트셀러](#베스트셀러)
+        - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
+        - [신규 아이디 추천](#신규-아이디-추천)
         - [알파벳 개수](#알파벳-개수)
         - [알파벳 찾기](#알파벳-찾기)
-        - [베스트셀러](#베스트셀러)
-        - [괄호](#괄호)
-        - [단어 뒤집기 2](#단어-뒤집기-2)
-        - [다트 게임](#다트-게임)
-        - [방금그곡](#방금그곡)
-        - [신규 아이디 추천](#신규-아이디-추천)
         - [이상한 문자 만들기](#이상한-문자-만들기)
+        - [First Unique Character in a String](#First-Unique-Character-in-a-String)
+        - [Longest Common Prefix](#Longest-Common-Prefix)
+        - [Ransom Note](#Ransom-Note)
+        - [Valid Anagram](#Valid-Anagram)
+        - [Valid Parentheses](#Valid-Parentheses)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Hash (17)
-        - [위장](#위장)
+        - [베스트 앨범](#베스트-앨범)
+        - [베스트셀러](#베스트셀러)
         - [오픈채팅방](#오픈채팅방)
         - [완주하지 못한 선수](#완주하지-못한-선수)
-        - [베스트 앨범](#베스트-앨범)
-        - [Two Sum](#Two-Sum)
+        - [위장](#위장)
+        - [전화번호 목록](#전화번호-목록)
+        - [회사에 있는 사람](#회사에-있는-사람)
+        - [Contains Duplicate](#Contains-Duplicate)
+        - [First Unique Character in a String](#First-Unique-Character-in-a-String)
+        - [Happy Number](#Happy-Number)
+        - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
         - [Linked List Cycle](#Linked-List-Cycle)
         - [Majority Element](#Majority-Element)
-        - [Happy Number](#Happy-Number)
-        - [Contains Duplicate](#Contains-Duplicate)
-        - [Valid Anagram](#Valid-Anagram)
-        - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
         - [Ransom Note](#Ransom-Note)
-        - [First Unique Character in a String](#First-Unique-Character-in-a-String)
+        - [Two Sum](#Two-Sum)
+        - [Valid Anagram](#Valid-Anagram)
         - [Valid Sudoku](#Valid-Sudoku)
-        - [회사에 있는 사람](#회사에-있는-사람)
-        - [베스트셀러](#베스트셀러)
-        - [전화번호 목록](#전화번호-목록)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Array (16)
+        - [나누어 떨어지는 숫자 배열](#나누어-떨어지는-숫자-배열)
         - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
         - [음양 더하기](#음양-더하기)
-        - [나누어 떨어지는 숫자 배열](#나누어-떨어지는-숫자-배열)
-        - [Two Sum](#Two-Sum)
-        - [Merge Sorted Array](#Merge-Sorted-Array)
-        - [Pascals Triangle](#Pascals-Triangle)
+        - [피보나치 수](#피보나치-수)
         - [Best Time to Buy and Sell Stock](#Best-Time-to-Buy-and-Sell-Stock)
-        - [Single Number](#Single-Number)
-        - [Majority Element](#Majority-Element)
+        - [Container with Most Water](#Container-with-Most-Water)
         - [Contains Duplicate](#Contains-Duplicate)
         - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
-        - [Reshape the Matrix](#Reshape-the-Matrix)
-        - [Container with Most Water](#Container-with-Most-Water)
-        - [Valid Sudoku](#Valid-Sudoku)
+        - [Majority Element](#Majority-Element)
         - [Maximum Length of Repeated Subarray](#Maximum-Length-of-Repeated-Subarray)
-        - [피보나치 수](#피보나치-수)
+        - [Merge Sorted Array](#Merge-Sorted-Array)
+        - [Pascals Triangle](#Pascals-Triangle)
+        - [Reshape the Matrix](#Reshape-the-Matrix)
+        - [Single Number](#Single-Number)
+        - [Two Sum](#Two-Sum)
+        - [Valid Sudoku](#Valid-Sudoku)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Stack (15)
-        - [기능개발](#기능개발)
-        - [짝지어 제거하기](#짝지어-제거하기)
-        - [Valid Parentheses](#Valid-Parentheses)
-        - [Binary Tree Inorder Traversal](#Binary-Tree-Inorder-Traversal)
-        - [Binary Tree Preorder Traversal](#Binary-Tree-Preorder-Traversal)
-        - [Binary Tree Postorder Traversal](#Binary-Tree-Postorder-Traversal)
-        - [Min Stack](#Min-Stack)
         - [괄호](#괄호)
+        - [기능개발](#기능개발)
+        - [단어 뒤집기 2](#단어-뒤집기-2)
+        - [스택 수열](#스택-수열)
         - [스택](#스택)
         - [에디터](#에디터)
-        - [스택 수열](#스택-수열)
-        - [단어 뒤집기 2](#단어-뒤집기-2)
         - [오큰수](#오큰수)
         - [제로](#제로)
+        - [짝지어 제거하기](#짝지어-제거하기)
         - [크레인 인형뽑기 게임](#크레인-인형뽑기-게임)
+        - [Binary Tree Inorder Traversal](#Binary-Tree-Inorder-Traversal)
+        - [Binary Tree Postorder Traversal](#Binary-Tree-Postorder-Traversal)
+        - [Binary Tree Preorder Traversal](#Binary-Tree-Preorder-Traversal)
+        - [Min Stack](#Min-Stack)
+        - [Valid Parentheses](#Valid-Parentheses)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Queue (10)
         - [기능개발](#기능개발)
-        - [프린터](#프린터)
         - [다리를 지나는 트럭](#다리를-지나는-트럭)
-        - [First Unique Character in a String](#First-Unique-Character-in-a-String)
-        - [요세푸스 문제](#요세푸스-문제)
-        - [카드2](#카드2)
-        - [큐](#큐)
         - [요세푸스 문제 0](#요세푸스-문제-0)
+        - [요세푸스 문제](#요세푸스-문제)
         - [주식가격](#주식가격)
+        - [카드2](#카드2)
         - [캐시](#캐시)
+        - [큐](#큐)
+        - [프린터](#프린터)
+        - [First Unique Character in a String](#First-Unique-Character-in-a-String)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Tree (5)
         - [Binary Tree Inorder Traversal](#Binary-Tree-Inorder-Traversal)
-        - [Binary Tree Preorder Traversal](#Binary-Tree-Preorder-Traversal)
-        - [Binary Tree Postorder Traversal](#Binary-Tree-Postorder-Traversal)
-        - [Binary Tree Level Order Traversal](#Binary-Tree-Level-Order-Traversal)
         - [Binary Tree Level Order Traversal II](#Binary-Tree-Level-Order-Traversal-II)
+        - [Binary Tree Level Order Traversal](#Binary-Tree-Level-Order-Traversal)
+        - [Binary Tree Postorder Traversal](#Binary-Tree-Postorder-Traversal)
+        - [Binary Tree Preorder Traversal](#Binary-Tree-Preorder-Traversal)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Linked list (4)
-        - [Maximum Subarray](#Maximum-Subarray)
-        - [Linked List Cycle](#Linked-List-Cycle)
-        - [Add Two Numbers](#Add-Two-Numbers)
         - [에디터](#에디터)
+        - [Add Two Numbers](#Add-Two-Numbers)
+        - [Linked List Cycle](#Linked-List-Cycle)
+        - [Maximum Subarray](#Maximum-Subarray)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Priority queue (3)
+        - [절대값 힙](#절대값-힙)
         - [최대 힙](#최대-힙)
         - [최소 힙](#최소-힙)
-        - [절대값 힙](#절대값-힙)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Graph (3)
-        - [연결 요소의 개수](#연결-요소의-개수)
         - [미로 탐색](#미로-탐색)
+        - [연결 요소의 개수](#연결-요소의-개수)
         - [키패드 누르기](#키패드-누르기)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Binary tree (2)
-        - [Binary Tree Level Order Traversal](#Binary-Tree-Level-Order-Traversal)
         - [Binary Tree Level Order Traversal II](#Binary-Tree-Level-Order-Traversal-II)
+        - [Binary Tree Level Order Traversal](#Binary-Tree-Level-Order-Traversal)
 
 
          **[⬆ Back to Top](#overview)**
@@ -1117,170 +1117,170 @@
     - ## Algorithm
       - ## Implementation (30)
         - [124 나라의 숫자](#124-나라의-숫자)
-        - [로또의 최고 순위와 최저 순위](#로또의-최고-순위와-최저-순위)
-        - [없는 숫자 더하기](#없는-숫자-더하기)
-        - [실패율](#실패율)
-        - [약수의 개수와 덧셈](#약수의-개수와-덧셈)
         - [2016년](#2016년)
-        - [나머지가 1이 되는 수 찾기](#나머지가-1이-되는-수-찾기)
-        - [부족한 금액 계산하기](#부족한-금액-계산하기)
         - [같은 숫자는 싫어](#같은-숫자는-싫어)
+        - [괄호 변환](#괄호-변환)
+        - [나머지가 1이 되는 수 찾기](#나머지가-1이-되는-수-찾기)
+        - [뉴스 클러스터링](#뉴스-클러스터링)
+        - [단어 뒤집기 2](#단어-뒤집기-2)
         - [두 정수 사이의 합](#두-정수-사이의-합)
-        - [서울에서 김서방 찾기](#서울에서-김서방-찾기)
-        - [A+B](#A+B)
-        - [A-B](#A-B)
-        - [R2](#R2)
-        - [오늘 날짜](#오늘-날짜)
-        - [We love kriii](#We-love-kriii)
+        - [로또의 최고 순위와 최저 순위](#로또의-최고-순위와-최저-순위)
         - [문자열 반복](#문자열-반복)
+        - [문자열을 정수로 바꾸기](#문자열을-정수로-바꾸기)
+        - [방금그곡](#방금그곡)
+        - [부족한 금액 계산하기](#부족한-금액-계산하기)
+        - [빠른 A+B](#빠른-A+B)
+        - [사탕 게임](#사탕-게임)
+        - [서울에서 김서방 찾기](#서울에서-김서방-찾기)
+        - [셀프 넘버](#셀프-넘버)
+        - [신고 결과 받기](#신고-결과-받기)
+        - [실패율](#실패율)
         - [알파벳 개수](#알파벳-개수)
         - [알파벳 찾기](#알파벳-찾기)
-        - [빠른 A+B](#빠른-A+B)
+        - [약수의 개수와 덧셈](#약수의-개수와-덧셈)
+        - [없는 숫자 더하기](#없는-숫자-더하기)
+        - [오늘 날짜](#오늘-날짜)
         - [요세푸스 문제 0](#요세푸스-문제-0)
-        - [사탕 게임](#사탕-게임)
-        - [단어 뒤집기 2](#단어-뒤집기-2)
-        - [셀프 넘버](#셀프-넘버)
         - [제로](#제로)
-        - [신고 결과 받기](#신고-결과-받기)
-        - [방금그곡](#방금그곡)
-        - [문자열을 정수로 바꾸기](#문자열을-정수로-바꾸기)
-        - [뉴스 클러스터링](#뉴스-클러스터링)
-        - [괄호 변환](#괄호-변환)
+        - [A-B](#A-B)
+        - [A+B](#A+B)
+        - [R2](#R2)
+        - [We love kriii](#We-love-kriii)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Sorting (14)
         - [가장 큰 수](#가장-큰-수)
-        - [H-Index](#H-Index)
-        - [K번째수](#K번째수)
-        - [최소 직사각형](#최소-직사각형)
         - [문자열 내림차순으로 배치하기](#문자열-내림차순으로-배치하기)
-        - [Merge Sorted Array](#Merge-Sorted-Array)
-        - [Majority Element](#Majority-Element)
-        - [Contains Duplicate](#Contains-Duplicate)
-        - [Valid Anagram](#Valid-Anagram)
-        - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
-        - [일곱 난쟁이](#일곱-난쟁이)
         - [베스트셀러](#베스트셀러)
         - [수리공 항승](#수리공-항승)
+        - [일곱 난쟁이](#일곱-난쟁이)
+        - [최소 직사각형](#최소-직사각형)
         - [회의실 배정](#회의실-배정)
+        - [Contains Duplicate](#Contains-Duplicate)
+        - [H-Index](#H-Index)
+        - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
+        - [K번째수](#K번째수)
+        - [Majority Element](#Majority-Element)
+        - [Merge Sorted Array](#Merge-Sorted-Array)
+        - [Valid Anagram](#Valid-Anagram)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Math (12)
-        - [Palindrome Number](#Palindrome-Number)
-        - [Climbing Stairs](#Climbing-Stairs)
-        - [Happy Number](#Happy-Number)
-        - [Add Two Numbers](#Add-Two-Numbers)
-        - [Reverse Integer](#Reverse-Integer)
-        - [A+B](#A+B)
-        - [A-B](#A-B)
-        - [R2](#R2)
-        - [유레카 이론](#유레카-이론)
         - [빠른 A+B](#빠른-A+B)
         - [셀프 넘버](#셀프-넘버)
+        - [유레카 이론](#유레카-이론)
         - [피보나치 수](#피보나치-수)
+        - [A-B](#A-B)
+        - [A+B](#A+B)
+        - [Add Two Numbers](#Add-Two-Numbers)
+        - [Climbing Stairs](#Climbing-Stairs)
+        - [Happy Number](#Happy-Number)
+        - [Palindrome Number](#Palindrome-Number)
+        - [R2](#R2)
+        - [Reverse Integer](#Reverse-Integer)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Bruteforce (10)
-        - [소수 찾기](#소수-찾기)
-        - [카펫](#카펫)
-        - [모의고사](#모의고사)
         - [두 개 뽑아서 더하기](#두-개-뽑아서-더하기)
-        - [일곱 난쟁이](#일곱-난쟁이)
+        - [메뉴 리뉴얼](#메뉴-리뉴얼)
+        - [모의고사](#모의고사)
         - [백설 공주와 일곱 난쟁이](#백설-공주와-일곱-난쟁이)
-        - [유레카 이론](#유레카-이론)
         - [사탕 게임](#사탕-게임)
         - [셀프 넘버](#셀프-넘버)
-        - [메뉴 리뉴얼](#메뉴-리뉴얼)
+        - [소수 찾기](#소수-찾기)
+        - [유레카 이론](#유레카-이론)
+        - [일곱 난쟁이](#일곱-난쟁이)
+        - [카펫](#카펫)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## BFS (6)
-        - [타겟 넘버](#타겟-넘버)
-        - [Binary Tree Level Order Traversal](#Binary-Tree-Level-Order-Traversal)
-        - [Binary Tree Level Order Traversal II](#Binary-Tree-Level-Order-Traversal-II)
-        - [연결 요소의 개수](#연결-요소의-개수)
         - [미로 탐색](#미로-탐색)
+        - [연결 요소의 개수](#연결-요소의-개수)
         - [키패드 누르기](#키패드-누르기)
+        - [타겟 넘버](#타겟-넘버)
+        - [Binary Tree Level Order Traversal II](#Binary-Tree-Level-Order-Traversal-II)
+        - [Binary Tree Level Order Traversal](#Binary-Tree-Level-Order-Traversal)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Greedy (6)
-        - [큰 수 만들기](#큰-수-만들기)
         - [구명보트](#구명보트)
-        - [체육복](#체육복)
-        - [Container with Most Water](#Container-with-Most-Water)
         - [수리공 항승](#수리공-항승)
+        - [체육복](#체육복)
+        - [큰 수 만들기](#큰-수-만들기)
         - [회의실 배정](#회의실-배정)
+        - [Container with Most Water](#Container-with-Most-Water)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## DFS (5)
-        - [Binary Tree Inorder Traversal](#Binary-Tree-Inorder-Traversal)
-        - [Binary Tree Preorder Traversal](#Binary-Tree-Preorder-Traversal)
-        - [Binary Tree Postorder Traversal](#Binary-Tree-Postorder-Traversal)
         - [연결 요소의 개수](#연결-요소의-개수)
         - [이진수 출력](#이진수-출력)
+        - [Binary Tree Inorder Traversal](#Binary-Tree-Inorder-Traversal)
+        - [Binary Tree Postorder Traversal](#Binary-Tree-Postorder-Traversal)
+        - [Binary Tree Preorder Traversal](#Binary-Tree-Preorder-Traversal)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Recursion (5)
-        - [Maximum Subarray](#Maximum-Subarray)
-        - [Add Two Numbers](#Add-Two-Numbers)
-        - [재귀 함수](#재귀-함수)
-        - [이진수 출력](#이진수-출력)
         - [괄호 변환](#괄호-변환)
+        - [이진수 출력](#이진수-출력)
+        - [재귀 함수](#재귀-함수)
+        - [Add Two Numbers](#Add-Two-Numbers)
+        - [Maximum Subarray](#Maximum-Subarray)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Two pointers (5)
-        - [Merge Sorted Array](#Merge-Sorted-Array)
-        - [Linked List Cycle](#Linked-List-Cycle)
+        - [Container with Most Water](#Container-with-Most-Water)
         - [Happy Number](#Happy-Number)
         - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
-        - [Container with Most Water](#Container-with-Most-Water)
+        - [Linked List Cycle](#Linked-List-Cycle)
+        - [Merge Sorted Array](#Merge-Sorted-Array)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Dynamic programming (4)
-        - [Climbing Stairs](#Climbing-Stairs)
-        - [Pascals Triangle](#Pascals-Triangle)
         - [Best Time to Buy and Sell Stock](#Best-Time-to-Buy-and-Sell-Stock)
+        - [Climbing Stairs](#Climbing-Stairs)
         - [Maximum Length of Repeated Subarray](#Maximum-Length-of-Repeated-Subarray)
+        - [Pascals Triangle](#Pascals-Triangle)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Binary search (3)
+        - [수 찾기](#수-찾기)
         - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
         - [Maximum Length of Repeated Subarray](#Maximum-Length-of-Repeated-Subarray)
-        - [수 찾기](#수-찾기)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Counting (3)
+        - [First Unique Character in a String](#First-Unique-Character-in-a-String)
         - [Majority Element](#Majority-Element)
         - [Ransom Note](#Ransom-Note)
-        - [First Unique Character in a String](#First-Unique-Character-in-a-String)
 
 
          **[⬆ Back to Top](#overview)**
 
       - ## Bit manipulation (2)
-        - [Single Number](#Single-Number)
         - [비밀 지도](#비밀-지도)
+        - [Single Number](#Single-Number)
 
 
          **[⬆ Back to Top](#overview)**
