@@ -1,10 +1,10 @@
-# Coding Test Practice (125)
+# Coding Test Practice (127)
  - # Overview
     - [Coding Test Platform](#coding-test-platform)    
-      - [Programmers (53)](#programmers-53)
+      - [Programmers (55)](#programmers-55)
         - [Level3 (1)](#level3-1)
-        - [Level2 (23)](#level2-23)
-        - [Level1 (29)](#level1-29)
+        - [Level2 (24)](#level2-24)
+        - [Level1 (30)](#level1-30)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -25,9 +25,9 @@
 
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
+        - [String (18)](#string-18)
         - [Hash (17)](#hash-17)
-        - [String (17)](#string-17)
-        - [Array (15)](#array-15)
+        - [Array (16)](#array-16)
         - [Stack (15)](#stack-15)
         - [Queue (10)](#queue-10)
         - [Tree (5)](#tree-5)
@@ -40,7 +40,7 @@
       - [Algorithm](#algorithm)
         - [Implementation (30)](#implementation-30)
         - [Sorting (14)](#sorting-14)
-        - [Math (11)](#math-11)
+        - [Math (12)](#math-12)
         - [Bruteforce (10)](#bruteforce-10)
         - [BFS (6)](#bfs-6)
         - [Greedy (6)](#greedy-6)
@@ -60,14 +60,14 @@
     
 - ## Coding Test Platform
 
-    - ## Programmers (53)
+    - ## Programmers (55)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
              - :pencil2: [Blog](https://philosopherprogrammer.com/51)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)
 
-      - ## Level2 (23)
+      - ## Level2 (24)
         - #### 124 나라의 숫자
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/39)
@@ -160,12 +160,16 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/49)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%ED%94%84%EB%A6%B0%ED%84%B0)
+        - #### 피보나치 수
+             - :gem: Javascript
+             - :pencil2: [Blog](https://philosopherprogrammer.com/103)
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98)
         - #### H-Index
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/54)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/H-Index)
 
-      - ## Level1 (29)
+      - ## Level1 (30)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -263,6 +267,10 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/8)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%9D%8C%EC%96%91%EB%8D%94%ED%95%98%EA%B8%B0)
+        - #### 이상한 문자 만들기
+             - :gem: Javascript
+             - :pencil2: [Blog](https://philosopherprogrammer.com/104)
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%9D%B4%EC%83%81%ED%95%9C%EB%AC%B8%EC%9E%90%EB%A7%8C%EB%93%A4%EA%B8%B0)
         - #### 체육복
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
@@ -570,6 +578,26 @@
  - ## Related Topic
 
     - ## Data Structure
+      - ## String (18)
+        - [문자열 압축](#문자열-압축)
+        - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
+        - [가운데 글자 가져오기](#가운데-글자-가져오기)
+        - [Longest Common Prefix](#Longest-Common-Prefix)
+        - [Valid Parentheses](#Valid-Parentheses)
+        - [Valid Anagram](#Valid-Anagram)
+        - [Ransom Note](#Ransom-Note)
+        - [First Unique Character in a String](#First-Unique-Character-in-a-String)
+        - [문자열 반복](#문자열-반복)
+        - [알파벳 개수](#알파벳-개수)
+        - [알파벳 찾기](#알파벳-찾기)
+        - [베스트셀러](#베스트셀러)
+        - [괄호](#괄호)
+        - [단어 뒤집기 2](#단어-뒤집기-2)
+        - [다트 게임](#다트-게임)
+        - [방금그곡](#방금그곡)
+        - [신규 아이디 추천](#신규-아이디-추천)
+        - [이상한 문자 만들기](#이상한-문자-만들기)
+
       - ## Hash (17)
         - [위장](#위장)
         - [오픈채팅방](#오픈채팅방)
@@ -589,26 +617,7 @@
         - [베스트셀러](#베스트셀러)
         - [전화번호 목록](#전화번호-목록)
 
-      - ## String (17)
-        - [문자열 압축](#문자열-압축)
-        - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
-        - [가운데 글자 가져오기](#가운데-글자-가져오기)
-        - [Longest Common Prefix](#Longest-Common-Prefix)
-        - [Valid Parentheses](#Valid-Parentheses)
-        - [Valid Anagram](#Valid-Anagram)
-        - [Ransom Note](#Ransom-Note)
-        - [First Unique Character in a String](#First-Unique-Character-in-a-String)
-        - [문자열 반복](#문자열-반복)
-        - [알파벳 개수](#알파벳-개수)
-        - [알파벳 찾기](#알파벳-찾기)
-        - [베스트셀러](#베스트셀러)
-        - [괄호](#괄호)
-        - [단어 뒤집기 2](#단어-뒤집기-2)
-        - [다트 게임](#다트-게임)
-        - [방금그곡](#방금그곡)
-        - [신규 아이디 추천](#신규-아이디-추천)
-
-      - ## Array (15)
+      - ## Array (16)
         - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
         - [음양 더하기](#음양-더하기)
         - [나누어 떨어지는 숫자 배열](#나누어-떨어지는-숫자-배열)
@@ -624,6 +633,7 @@
         - [Container with Most Water](#Container-with-Most-Water)
         - [Valid Sudoku](#Valid-Sudoku)
         - [Maximum Length of Repeated Subarray](#Maximum-Length-of-Repeated-Subarray)
+        - [피보나치 수](#피보나치-수)
 
       - ## Stack (15)
         - [기능개발](#기능개발)
@@ -736,7 +746,7 @@
         - [수리공 항승](#수리공-항승)
         - [회의실 배정](#회의실-배정)
 
-      - ## Math (11)
+      - ## Math (12)
         - [Palindrome Number](#Palindrome-Number)
         - [Climbing Stairs](#Climbing-Stairs)
         - [Happy Number](#Happy-Number)
@@ -748,6 +758,7 @@
         - [유레카 이론](#유레카-이론)
         - [빠른 A+B](#빠른-A+B)
         - [셀프 넘버](#셀프-넘버)
+        - [피보나치 수](#피보나치-수)
 
       - ## Bruteforce (10)
         - [소수 찾기](#소수-찾기)
