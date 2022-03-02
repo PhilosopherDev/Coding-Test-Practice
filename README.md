@@ -1,10 +1,10 @@
-# Coding Test Practice (129)
+# Coding Test Practice (130)
  - # Overview
     - [Coding Test Platform](#coding-test-platform)    
-      - [Programmers (57)](#programmers-57)
+      - [Programmers (58)](#programmers-58)
         - [Level3 (1)](#level3-1)
         - [Level2 (24)](#level2-24)
-        - [Level1 (32)](#level1-32)
+        - [Level1 (33)](#level1-33)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -60,7 +60,7 @@
     
 - ## Coding Test Platform
 
-    - ## Programmers (57)
+    - ## Programmers (58)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -244,7 +244,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (32)
+      - ## Level1 (33)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -320,6 +320,12 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/68)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 문자열내 p와 y의 개수
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4p%EC%99%80y%EC%9D%98%EA%B0%9C%EC%88%98)
 
 
              **[⬆ Back to Top](#overview)**
