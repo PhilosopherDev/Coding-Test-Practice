@@ -1,10 +1,10 @@
-# Coding Test Practice (128)
+# Coding Test Practice (129)
  - # Overview
     - [Coding Test Platform](#coding-test-platform)    
-      - [Programmers (56)](#programmers-56)
+      - [Programmers (57)](#programmers-57)
         - [Level3 (1)](#level3-1)
         - [Level2 (24)](#level2-24)
-        - [Level1 (31)](#level1-31)
+        - [Level1 (32)](#level1-32)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -38,7 +38,7 @@
         - [Deque (1)](#deque-1)
         - [Heap (1)](#heap-1)
       - [Algorithm](#algorithm)
-        - [Implementation (31)](#implementation-31)
+        - [Implementation (32)](#implementation-32)
         - [Sorting (14)](#sorting-14)
         - [Math (13)](#math-13)
         - [Bruteforce (10)](#bruteforce-10)
@@ -60,7 +60,7 @@
     
 - ## Coding Test Platform
 
-    - ## Programmers (56)
+    - ## Programmers (57)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -244,7 +244,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (31)
+      - ## Level1 (32)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -415,6 +415,12 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/104)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%9D%B4%EC%83%81%ED%95%9C%EB%AC%B8%EC%9E%90%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 자릿수 더하기
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%9E%90%EB%A6%BF%EC%88%98%EB%8D%94%ED%95%98%EA%B8%B0)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1122,7 +1128,7 @@
          **[⬆ Back to Top](#overview)**
         
     - ## Algorithm
-      - ## Implementation (31)
+      - ## Implementation (32)
         - [124 나라의 숫자](#124-나라의-숫자)
         - [2016년](#2016년)
         - [같은 숫자는 싫어](#같은-숫자는-싫어)
@@ -1148,6 +1154,7 @@
         - [없는 숫자 더하기](#없는-숫자-더하기)
         - [오늘 날짜](#오늘-날짜)
         - [요세푸스 문제 0](#요세푸스-문제-0)
+        - [자릿수 더하기](#자릿수-더하기)
         - [제로](#제로)
         - [콜라츠 추측](#콜라츠-추측)
         - [A-B](#A-B)
