@@ -1,6 +1,6 @@
 # Coding Test Practice (130)
  - # Overview
-    - [Coding Test Platform](#coding-test-platform)    
+    - [Coding Test Platform (128)](#coding-test-platform-128)    
       - [Programmers (58)](#programmers-58)
         - [Level3 (1)](#level3-1)
         - [Level2 (24)](#level2-24)
@@ -19,7 +19,7 @@
         - [Medium (7)](#medium-7)
         - [Easy (24)](#easy-24)
 
-    - [Education Platform](#education-platform)
+    - [Education Platform (2)](#education-platform-2)
       - [Inflearn (2)](#inflearn-2)
         - [Javascript algorithm problem solving (2)](#javascript-algorithm-problem-solving-2)
 
@@ -58,7 +58,7 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform
+- ## Coding Test Platform (128)
 
     - ## Programmers (58)
       - ## Level3 (1)
@@ -957,7 +957,7 @@
 
              **[⬆ Back to Top](#overview)**
     
-- ## Education Platform
+- ## Education Platform (2)
 
     - ## Inflearn (2)
       - ## Javascript algorithm problem solving (2)
