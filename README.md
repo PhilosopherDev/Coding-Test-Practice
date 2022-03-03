@@ -1,10 +1,10 @@
-# Coding Test Practice (129)
+# Coding Test Practice (130)
  - # Overview
-    - [Coding Test Platform](#coding-test-platform)    
-      - [Programmers (57)](#programmers-57)
+    - [Coding Test Platform (128)](#coding-test-platform-128)    
+      - [Programmers (58)](#programmers-58)
         - [Level3 (1)](#level3-1)
         - [Level2 (24)](#level2-24)
-        - [Level1 (32)](#level1-32)
+        - [Level1 (33)](#level1-33)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -19,13 +19,13 @@
         - [Medium (7)](#medium-7)
         - [Easy (24)](#easy-24)
 
-    - [Education Platform](#education-platform)
+    - [Education Platform (2)](#education-platform-2)
       - [Inflearn (2)](#inflearn-2)
         - [Javascript algorithm problem solving (2)](#javascript-algorithm-problem-solving-2)
 
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
-        - [String (18)](#string-18)
+        - [String (19)](#string-19)
         - [Hash (17)](#hash-17)
         - [Array (16)](#array-16)
         - [Stack (15)](#stack-15)
@@ -38,7 +38,7 @@
         - [Deque (1)](#deque-1)
         - [Heap (1)](#heap-1)
       - [Algorithm](#algorithm)
-        - [Implementation (32)](#implementation-32)
+        - [Implementation (33)](#implementation-33)
         - [Sorting (14)](#sorting-14)
         - [Math (13)](#math-13)
         - [Bruteforce (10)](#bruteforce-10)
@@ -58,9 +58,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform
+- ## Coding Test Platform (128)
 
-    - ## Programmers (57)
+    - ## Programmers (58)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -244,7 +244,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (32)
+      - ## Level1 (33)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -320,6 +320,12 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/68)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 문자열내 p와 y의 개수
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4p%EC%99%80y%EC%9D%98%EA%B0%9C%EC%88%98)
 
 
              **[⬆ Back to Top](#overview)**
@@ -951,7 +957,7 @@
 
              **[⬆ Back to Top](#overview)**
     
-- ## Education Platform
+- ## Education Platform (2)
 
     - ## Inflearn (2)
       - ## Javascript algorithm problem solving (2)
@@ -972,13 +978,14 @@
  - ## Related Topic
 
     - ## Data Structure
-      - ## String (18)
+      - ## String (19)
         - [가운데 글자 가져오기](#가운데-글자-가져오기)
         - [괄호](#괄호)
         - [다트 게임](#다트-게임)
         - [단어 뒤집기 2](#단어-뒤집기-2)
         - [문자열 반복](#문자열-반복)
         - [문자열 압축](#문자열-압축)
+        - [문자열내 p와 y의 개수](#문자열내-p와-y의-개수)
         - [방금그곡](#방금그곡)
         - [베스트셀러](#베스트셀러)
         - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
@@ -1128,7 +1135,7 @@
          **[⬆ Back to Top](#overview)**
         
     - ## Algorithm
-      - ## Implementation (32)
+      - ## Implementation (33)
         - [124 나라의 숫자](#124-나라의-숫자)
         - [2016년](#2016년)
         - [같은 숫자는 싫어](#같은-숫자는-싫어)
@@ -1139,6 +1146,7 @@
         - [두 정수 사이의 합](#두-정수-사이의-합)
         - [로또의 최고 순위와 최저 순위](#로또의-최고-순위와-최저-순위)
         - [문자열 반복](#문자열-반복)
+        - [문자열내 p와 y의 개수](#문자열내-p와-y의-개수)
         - [문자열을 정수로 바꾸기](#문자열을-정수로-바꾸기)
         - [방금그곡](#방금그곡)
         - [부족한 금액 계산하기](#부족한-금액-계산하기)
