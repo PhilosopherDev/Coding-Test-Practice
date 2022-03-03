@@ -1,9 +1,9 @@
-# Coding Test Practice (130)
+# Coding Test Practice (131)
  - # Overview
-    - [Coding Test Platform (128)](#coding-test-platform-128)    
-      - [Programmers (58)](#programmers-58)
+    - [Coding Test Platform (129)](#coding-test-platform-129)    
+      - [Programmers (59)](#programmers-59)
         - [Level3 (1)](#level3-1)
-        - [Level2 (24)](#level2-24)
+        - [Level2 (25)](#level2-25)
         - [Level1 (33)](#level1-33)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
@@ -41,7 +41,7 @@
         - [Implementation (33)](#implementation-33)
         - [Sorting (14)](#sorting-14)
         - [Math (13)](#math-13)
-        - [Bruteforce (10)](#bruteforce-10)
+        - [Bruteforce (11)](#bruteforce-11)
         - [BFS (6)](#bfs-6)
         - [Greedy (6)](#greedy-6)
         - [DFS (5)](#dfs-5)
@@ -58,9 +58,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (128)
+- ## Coding Test Platform (129)
 
-    - ## Programmers (58)
+    - ## Programmers (59)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -70,7 +70,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level2 (24)
+      - ## Level2 (25)
         - #### 124 나라의 숫자
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/39)
@@ -156,6 +156,13 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/48)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 숫자의 표현
+             - :gem: Javascript
+             - :pencil2: [Blog](https://philosopherprogrammer.com/106)
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%88%AB%EC%9E%90%EC%9D%98%ED%91%9C%ED%98%84)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1210,7 +1217,7 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Bruteforce (10)
+      - ## Bruteforce (11)
         - [두 개 뽑아서 더하기](#두-개-뽑아서-더하기)
         - [메뉴 리뉴얼](#메뉴-리뉴얼)
         - [모의고사](#모의고사)
@@ -1218,6 +1225,7 @@
         - [사탕 게임](#사탕-게임)
         - [셀프 넘버](#셀프-넘버)
         - [소수 찾기](#소수-찾기)
+        - [숫자의 표현](#숫자의-표현)
         - [유레카 이론](#유레카-이론)
         - [일곱 난쟁이](#일곱-난쟁이)
         - [카펫](#카펫)
