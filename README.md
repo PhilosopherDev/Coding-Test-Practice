@@ -20,8 +20,9 @@
         - [Easy (24)](#easy-24)
 
     - [Education Platform (2)](#education-platform-2)
-      - [Inflearn (2)](#inflearn-2)
-        - [Javascript algorithm problem solving (2)](#javascript-algorithm-problem-solving-2)
+      - [Javascript algorithm problem solving (2)](#javascript-algorithm-problem-solving-2)
+        - :mortar_board: [Lecture](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/dashboard)
+        - [Section8 재귀함수와 완전탐색(DFS:깊이우선탐색) (2)](#section8-재귀함수와-완전탐색(dfs:깊이우선탐색)-2)
 
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
@@ -973,8 +974,8 @@
     
 - ## Education Platform (2)
 
-    - ## Inflearn (2)
-      - ## Javascript algorithm problem solving (2)
+    - ## Javascript algorithm problem solving (2)
+      - ## Section8 재귀함수와 완전탐색(DFS:깊이우선탐색) (2)
         - #### 이진수 출력
              - :gem: Javascript
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/EducationPlatform/Inflearn/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/8_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_DFS/%EC%9D%B4%EC%A7%84%EC%88%98%EC%B6%9C%EB%A0%A5)
