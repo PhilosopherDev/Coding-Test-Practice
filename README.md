@@ -1,9 +1,9 @@
-# Coding Test Practice (131)
+# Coding Test Practice (132)
  - # Overview
-    - [Coding Test Platform (129)](#coding-test-platform-129)    
-      - [Programmers (59)](#programmers-59)
+    - [Coding Test Platform (130)](#coding-test-platform-130)    
+      - [Programmers (60)](#programmers-60)
         - [Level3 (1)](#level3-1)
-        - [Level2 (25)](#level2-25)
+        - [Level2 (26)](#level2-26)
         - [Level1 (33)](#level1-33)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
@@ -20,14 +20,15 @@
         - [Easy (24)](#easy-24)
 
     - [Education Platform (2)](#education-platform-2)
-      - [Inflearn (2)](#inflearn-2)
-        - [Javascript algorithm problem solving (2)](#javascript-algorithm-problem-solving-2)
+      - [Javascript algorithm problem solving (2)](#javascript-algorithm-problem-solving-2)
+        - :mortar_board: [Lecture](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/dashboard)
+        - [JAPS Section8 (2)](#japs-section8-2)
 
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
         - [String (19)](#string-19)
+        - [Array (17)](#array-17)
         - [Hash (17)](#hash-17)
-        - [Array (16)](#array-16)
         - [Stack (15)](#stack-15)
         - [Queue (10)](#queue-10)
         - [Tree (5)](#tree-5)
@@ -58,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (129)
+- ## Coding Test Platform (130)
 
-    - ## Programmers (59)
+    - ## Programmers (60)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -70,7 +71,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level2 (25)
+      - ## Level2 (26)
         - #### 124 나라의 숫자
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/39)
@@ -163,6 +164,13 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/106)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%88%AB%EC%9E%90%EC%9D%98%ED%91%9C%ED%98%84)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 영어 끝말잇기
+             - :gem: Javascript
+             - :pencil2: [Blog](https://philosopherprogrammer.com/107)
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%98%81%EC%96%B4%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0)
 
 
              **[⬆ Back to Top](#overview)**
@@ -966,8 +974,8 @@
     
 - ## Education Platform (2)
 
-    - ## Inflearn (2)
-      - ## Javascript algorithm problem solving (2)
+    - ## Javascript algorithm problem solving (2)
+      - ## JAPS Section8 (2)
         - #### 이진수 출력
              - :gem: Javascript
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/EducationPlatform/Inflearn/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/8_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_DFS/%EC%9D%B4%EC%A7%84%EC%88%98%EC%B6%9C%EB%A0%A5)
@@ -1009,6 +1017,28 @@
 
          **[⬆ Back to Top](#overview)**
 
+      - ## Array (17)
+        - [나누어 떨어지는 숫자 배열](#나누어-떨어지는-숫자-배열)
+        - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
+        - [영어 끝말잇기](#영어-끝말잇기)
+        - [음양 더하기](#음양-더하기)
+        - [피보나치 수](#피보나치-수)
+        - [Best Time to Buy and Sell Stock](#Best-Time-to-Buy-and-Sell-Stock)
+        - [Container with Most Water](#Container-with-Most-Water)
+        - [Contains Duplicate](#Contains-Duplicate)
+        - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
+        - [Majority Element](#Majority-Element)
+        - [Maximum Length of Repeated Subarray](#Maximum-Length-of-Repeated-Subarray)
+        - [Merge Sorted Array](#Merge-Sorted-Array)
+        - [Pascals Triangle](#Pascals-Triangle)
+        - [Reshape the Matrix](#Reshape-the-Matrix)
+        - [Single Number](#Single-Number)
+        - [Two Sum](#Two-Sum)
+        - [Valid Sudoku](#Valid-Sudoku)
+
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Hash (17)
         - [베스트 앨범](#베스트-앨범)
         - [베스트셀러](#베스트셀러)
@@ -1026,27 +1056,6 @@
         - [Ransom Note](#Ransom-Note)
         - [Two Sum](#Two-Sum)
         - [Valid Anagram](#Valid-Anagram)
-        - [Valid Sudoku](#Valid-Sudoku)
-
-
-         **[⬆ Back to Top](#overview)**
-
-      - ## Array (16)
-        - [나누어 떨어지는 숫자 배열](#나누어-떨어지는-숫자-배열)
-        - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
-        - [음양 더하기](#음양-더하기)
-        - [피보나치 수](#피보나치-수)
-        - [Best Time to Buy and Sell Stock](#Best-Time-to-Buy-and-Sell-Stock)
-        - [Container with Most Water](#Container-with-Most-Water)
-        - [Contains Duplicate](#Contains-Duplicate)
-        - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
-        - [Majority Element](#Majority-Element)
-        - [Maximum Length of Repeated Subarray](#Maximum-Length-of-Repeated-Subarray)
-        - [Merge Sorted Array](#Merge-Sorted-Array)
-        - [Pascals Triangle](#Pascals-Triangle)
-        - [Reshape the Matrix](#Reshape-the-Matrix)
-        - [Single Number](#Single-Number)
-        - [Two Sum](#Two-Sum)
         - [Valid Sudoku](#Valid-Sudoku)
 
 
