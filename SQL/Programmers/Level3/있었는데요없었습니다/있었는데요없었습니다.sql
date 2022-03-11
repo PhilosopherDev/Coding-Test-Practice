@@ -1,0 +1,14 @@
+/*
+    있었는데요없었습니다.sql
+    https://programmers.co.kr/learn/courses/30/lessons/59043?language=mysql
+*/
+
+-- 코드를 입력하세요
+SELECT 
+    ANIMAL_OUTS.ANIMAL_ID, ANIMAL_OUTS.NAME 
+FROM
+    ANIMAL_INS INNER JOIN ANIMAL_OUTS
+ON 
+    ANIMAL_INS.ANIMAL_ID = ANIMAL_OUTS.ANIMAL_ID AND ANIMAL_INS.DATETIME > ANIMAL_OUTS.DATETIME
+ORDER BY 
+    ANIMAL_INS.DATETIME
