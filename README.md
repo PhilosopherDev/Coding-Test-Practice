@@ -1,10 +1,10 @@
-# Coding Test Practice (133)
+# Coding Test Practice (134)
  - # Overview
-    - [Coding Test Platform (131)](#coding-test-platform-131)    
-      - [Programmers (61)](#programmers-61)
+    - [Coding Test Platform (132)](#coding-test-platform-132)    
+      - [Programmers (62)](#programmers-62)
         - [Level3 (1)](#level3-1)
         - [Level2 (26)](#level2-26)
-        - [Level1 (34)](#level1-34)
+        - [Level1 (35)](#level1-35)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -26,7 +26,7 @@
 
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
-        - [String (20)](#string-20)
+        - [String (21)](#string-21)
         - [Array (17)](#array-17)
         - [Hash (17)](#hash-17)
         - [Stack (15)](#stack-15)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (131)
+- ## Coding Test Platform (132)
 
-    - ## Programmers (61)
+    - ## Programmers (62)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -259,7 +259,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (34)
+      - ## Level1 (35)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -485,6 +485,12 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/9)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 하샤드 수
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%95%98%EC%83%A4%EB%93%9C%EC%88%98)
 
 
              **[⬆ Back to Top](#overview)**
@@ -999,7 +1005,7 @@
  - ## Related Topic
 
     - ## Data Structure
-      - ## String (20)
+      - ## String (21)
         - [가운데 글자 가져오기](#가운데-글자-가져오기)
         - [괄호](#괄호)
         - [다트 게임](#다트-게임)
@@ -1014,6 +1020,7 @@
         - [알파벳 개수](#알파벳-개수)
         - [알파벳 찾기](#알파벳-찾기)
         - [이상한 문자 만들기](#이상한-문자-만들기)
+        - [하샤드 수](#하샤드-수)
         - [핸드폰 번호 가리기](#핸드폰-번호-가리기)
         - [First Unique Character in a String](#First-Unique-Character-in-a-String)
         - [Longest Common Prefix](#Longest-Common-Prefix)
