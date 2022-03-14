@@ -1,10 +1,10 @@
-# Coding Test Practice (136)
+# Coding Test Practice (137)
  - # Overview
-    - [Coding Test Platform (134)](#coding-test-platform-134)    
-      - [Programmers (64)](#programmers-64)
+    - [Coding Test Platform (135)](#coding-test-platform-135)    
+      - [Programmers (65)](#programmers-65)
         - [Level3 (1)](#level3-1)
         - [Level2 (26)](#level2-26)
-        - [Level1 (37)](#level1-37)
+        - [Level1 (38)](#level1-38)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -41,7 +41,7 @@
       - [Algorithm](#algorithm)
         - [Implementation (34)](#implementation-34)
         - [Sorting (14)](#sorting-14)
-        - [Math (13)](#math-13)
+        - [Math (14)](#math-14)
         - [Bruteforce (11)](#bruteforce-11)
         - [BFS (6)](#bfs-6)
         - [Greedy (6)](#greedy-6)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (134)
+- ## Coding Test Platform (135)
 
-    - ## Programmers (64)
+    - ## Programmers (65)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -259,7 +259,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (37)
+      - ## Level1 (38)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -490,6 +490,12 @@
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/98)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 평균 구하기
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%8F%89%EA%B7%A0%EA%B5%AC%ED%95%98%EA%B8%B0)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1236,11 +1242,12 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Math (13)
+      - ## Math (14)
         - [빠른 A+B](#빠른-A+B)
         - [셀프 넘버](#셀프-넘버)
         - [유레카 이론](#유레카-이론)
         - [콜라츠 추측](#콜라츠-추측)
+        - [평균 구하기](#평균-구하기)
         - [피보나치 수](#피보나치-수)
         - [A-B](#A-B)
         - [A+B](#A+B)
