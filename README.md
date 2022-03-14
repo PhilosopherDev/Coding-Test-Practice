@@ -1,10 +1,10 @@
-# Coding Test Practice (135)
+# Coding Test Practice (136)
  - # Overview
-    - [Coding Test Platform (133)](#coding-test-platform-133)    
-      - [Programmers (63)](#programmers-63)
+    - [Coding Test Platform (134)](#coding-test-platform-134)    
+      - [Programmers (64)](#programmers-64)
         - [Level3 (1)](#level3-1)
         - [Level2 (26)](#level2-26)
-        - [Level1 (36)](#level1-36)
+        - [Level1 (37)](#level1-37)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -27,7 +27,7 @@
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
         - [String (21)](#string-21)
-        - [Array (17)](#array-17)
+        - [Array (18)](#array-18)
         - [Hash (17)](#hash-17)
         - [Stack (15)](#stack-15)
         - [Queue (10)](#queue-10)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (133)
+- ## Coding Test Platform (134)
 
-    - ## Programmers (63)
+    - ## Programmers (64)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -259,7 +259,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (36)
+      - ## Level1 (37)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -442,6 +442,12 @@
         - #### 자릿수 더하기
              - :gem: Javascript
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%9E%90%EB%A6%BF%EC%88%98%EB%8D%94%ED%95%98%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 제일 작은 수 제거하기
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%A0%9C%EC%9D%BC%EC%9E%91%EC%9D%80%EC%88%98%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1037,11 +1043,12 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Array (17)
+      - ## Array (18)
         - [나누어 떨어지는 숫자 배열](#나누어-떨어지는-숫자-배열)
         - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
         - [영어 끝말잇기](#영어-끝말잇기)
         - [음양 더하기](#음양-더하기)
+        - [제일 작은 수 제거하기](#제일-작은-수-제거하기)
         - [피보나치 수](#피보나치-수)
         - [Best Time to Buy and Sell Stock](#Best-Time-to-Buy-and-Sell-Stock)
         - [Container with Most Water](#Container-with-Most-Water)
