@@ -1,9 +1,9 @@
-# Coding Test Practice (138)
+# Coding Test Practice (139)
  - # Overview
-    - [Coding Test Platform (136)](#coding-test-platform-136)    
-      - [Programmers (66)](#programmers-66)
+    - [Coding Test Platform (137)](#coding-test-platform-137)    
+      - [Programmers (67)](#programmers-67)
         - [Level3 (1)](#level3-1)
-        - [Level2 (26)](#level2-26)
+        - [Level2 (27)](#level2-27)
         - [Level1 (39)](#level1-39)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
@@ -39,7 +39,7 @@
         - [Deque (1)](#deque-1)
         - [Heap (1)](#heap-1)
       - [Algorithm](#algorithm)
-        - [Implementation (34)](#implementation-34)
+        - [Implementation (35)](#implementation-35)
         - [Sorting (15)](#sorting-15)
         - [Math (14)](#math-14)
         - [Bruteforce (11)](#bruteforce-11)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (136)
+- ## Coding Test Platform (137)
 
-    - ## Programmers (66)
+    - ## Programmers (67)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -71,7 +71,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level2 (26)
+      - ## Level2 (27)
         - #### 124 나라의 숫자
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/39)
@@ -205,6 +205,12 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/37)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%A7%9D%EC%A7%80%EC%96%B4%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 최댓값과 최솟값
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%EC%B5%9C%EC%86%9F%EA%B0%92)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1190,7 +1196,7 @@
          **[⬆ Back to Top](#overview)**
         
     - ## Algorithm
-      - ## Implementation (34)
+      - ## Implementation (35)
         - [124 나라의 숫자](#124-나라의-숫자)
         - [2016년](#2016년)
         - [같은 숫자는 싫어](#같은-숫자는-싫어)
@@ -1220,6 +1226,7 @@
         - [자릿수 더하기](#자릿수-더하기)
         - [제로](#제로)
         - [짝수와 홀수](#짝수와-홀수)
+        - [최댓값과 최솟값](#최댓값과-최솟값)
         - [콜라츠 추측](#콜라츠-추측)
         - [A-B](#A-B)
         - [A+B](#A+B)
