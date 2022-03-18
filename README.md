@@ -1,9 +1,9 @@
-# Coding Test Practice (139)
+# Coding Test Practice (140)
  - # Overview
-    - [Coding Test Platform (137)](#coding-test-platform-137)    
-      - [Programmers (67)](#programmers-67)
+    - [Coding Test Platform (138)](#coding-test-platform-138)    
+      - [Programmers (68)](#programmers-68)
         - [Level3 (1)](#level3-1)
-        - [Level2 (27)](#level2-27)
+        - [Level2 (28)](#level2-28)
         - [Level1 (39)](#level1-39)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
@@ -29,7 +29,7 @@
         - [String (21)](#string-21)
         - [Array (18)](#array-18)
         - [Hash (17)](#hash-17)
-        - [Stack (15)](#stack-15)
+        - [Stack (16)](#stack-16)
         - [Queue (10)](#queue-10)
         - [Tree (5)](#tree-5)
         - [Linked list (4)](#linked-list-4)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (137)
+- ## Coding Test Platform (138)
 
-    - ## Programmers (67)
+    - ## Programmers (68)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -71,7 +71,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level2 (27)
+      - ## Level2 (28)
         - #### 124 나라의 숫자
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/39)
@@ -179,6 +179,12 @@
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/41)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 올바른 괄호
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1106,7 +1112,7 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Stack (15)
+      - ## Stack (16)
         - [괄호](#괄호)
         - [기능개발](#기능개발)
         - [단어 뒤집기 2](#단어-뒤집기-2)
@@ -1114,6 +1120,7 @@
         - [스택](#스택)
         - [에디터](#에디터)
         - [오큰수](#오큰수)
+        - [올바른 괄호](#올바른-괄호)
         - [제로](#제로)
         - [짝지어 제거하기](#짝지어-제거하기)
         - [크레인 인형뽑기 게임](#크레인-인형뽑기-게임)
