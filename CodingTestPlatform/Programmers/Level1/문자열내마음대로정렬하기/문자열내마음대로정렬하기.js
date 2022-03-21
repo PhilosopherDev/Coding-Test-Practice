@@ -4,9 +4,7 @@
  */
 
 function solution(strings, n) {
-    strings.sort((a, b) => a[n].localeCompare(b[n]) !== 0 ? a[n].localeCompare(b[n]) : a.localeCompare(b));
-
-    return strings;
+    return strings.sort((a, b) => a[n].localeCompare(b[n]) !== 0 ? a[n].localeCompare(b[n]) : a.localeCompare(b));
 }
 
 module.exports = solution;
