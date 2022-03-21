@@ -1,10 +1,10 @@
-# Coding Test Practice (143)
+# Coding Test Practice (144)
  - # Overview
-    - [Coding Test Platform (141)](#coding-test-platform-141)    
-      - [Programmers (71)](#programmers-71)
+    - [Coding Test Platform (142)](#coding-test-platform-142)    
+      - [Programmers (72)](#programmers-72)
         - [Level3 (1)](#level3-1)
         - [Level2 (31)](#level2-31)
-        - [Level1 (39)](#level1-39)
+        - [Level1 (40)](#level1-40)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -40,7 +40,7 @@
         - [Heap (1)](#heap-1)
       - [Algorithm](#algorithm)
         - [Implementation (36)](#implementation-36)
-        - [Sorting (15)](#sorting-15)
+        - [Sorting (16)](#sorting-16)
         - [Math (15)](#math-15)
         - [Bruteforce (11)](#bruteforce-11)
         - [BFS (6)](#bfs-6)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (141)
+- ## Coding Test Platform (142)
 
-    - ## Programmers (71)
+    - ## Programmers (72)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -289,7 +289,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (39)
+      - ## Level1 (40)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -358,6 +358,12 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/47)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 문자열 내 마음대로 정렬하기
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1265,8 +1271,9 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Sorting (15)
+      - ## Sorting (16)
         - [가장 큰 수](#가장-큰-수)
+        - [문자열 내 마음대로 정렬하기](#문자열-내-마음대로-정렬하기)
         - [문자열 내림차순으로 배치하기](#문자열-내림차순으로-배치하기)
         - [베스트셀러](#베스트셀러)
         - [수리공 항승](#수리공-항승)
