@@ -1,9 +1,9 @@
-# Coding Test Practice (142)
+# Coding Test Practice (143)
  - # Overview
-    - [Coding Test Platform (140)](#coding-test-platform-140)    
-      - [Programmers (70)](#programmers-70)
+    - [Coding Test Platform (141)](#coding-test-platform-141)    
+      - [Programmers (71)](#programmers-71)
         - [Level3 (1)](#level3-1)
-        - [Level2 (30)](#level2-30)
+        - [Level2 (31)](#level2-31)
         - [Level1 (39)](#level1-39)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
@@ -26,7 +26,7 @@
 
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
-        - [String (22)](#string-22)
+        - [String (23)](#string-23)
         - [Array (19)](#array-19)
         - [Hash (17)](#hash-17)
         - [Stack (16)](#stack-16)
@@ -41,7 +41,7 @@
       - [Algorithm](#algorithm)
         - [Implementation (36)](#implementation-36)
         - [Sorting (15)](#sorting-15)
-        - [Math (14)](#math-14)
+        - [Math (15)](#math-15)
         - [Bruteforce (11)](#bruteforce-11)
         - [BFS (6)](#bfs-6)
         - [Greedy (6)](#greedy-6)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (140)
+- ## Coding Test Platform (141)
 
-    - ## Programmers (70)
+    - ## Programmers (71)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -71,7 +71,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level2 (30)
+      - ## Level2 (31)
         - #### 124 나라의 숫자
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/39)
@@ -120,6 +120,12 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/50)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 다음 큰 숫자
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%8B%A4%EC%9D%8C%ED%81%B0%EC%88%AB%EC%9E%90)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1053,9 +1059,10 @@
  - ## Related Topic
 
     - ## Data Structure
-      - ## String (22)
+      - ## String (23)
         - [가운데 글자 가져오기](#가운데-글자-가져오기)
         - [괄호](#괄호)
+        - [다음 큰 숫자](#다음-큰-숫자)
         - [다트 게임](#다트-게임)
         - [단어 뒤집기 2](#단어-뒤집기-2)
         - [문자열 반복](#문자열-반복)
@@ -1278,7 +1285,8 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Math (14)
+      - ## Math (15)
+        - [다음 큰 숫자](#다음-큰-숫자)
         - [빠른 A+B](#빠른-A+B)
         - [셀프 넘버](#셀프-넘버)
         - [유레카 이론](#유레카-이론)
