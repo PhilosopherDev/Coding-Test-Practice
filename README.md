@@ -1,10 +1,10 @@
-# Coding Test Practice (147)
+# Coding Test Practice (148)
  - # Overview
-    - [Coding Test Platform (145)](#coding-test-platform-145)    
-      - [Programmers (75)](#programmers-75)
+    - [Coding Test Platform (146)](#coding-test-platform-146)    
+      - [Programmers (76)](#programmers-76)
         - [Level3 (1)](#level3-1)
         - [Level2 (31)](#level2-31)
-        - [Level1 (43)](#level1-43)
+        - [Level1 (44)](#level1-44)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -26,7 +26,7 @@
 
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
-        - [String (25)](#string-25)
+        - [String (26)](#string-26)
         - [Array (19)](#array-19)
         - [Hash (17)](#hash-17)
         - [Stack (16)](#stack-16)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (145)
+- ## Coding Test Platform (146)
 
-    - ## Programmers (75)
+    - ## Programmers (76)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -289,7 +289,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (43)
+      - ## Level1 (44)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -371,6 +371,12 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/68)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 문자열 다루기 기본
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%8B%A4%EB%A3%A8%EA%B8%B0%EA%B8%B0%EB%B3%B8)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1083,12 +1089,13 @@
  - ## Related Topic
 
     - ## Data Structure
-      - ## String (25)
+      - ## String (26)
         - [가운데 글자 가져오기](#가운데-글자-가져오기)
         - [괄호](#괄호)
         - [다음 큰 숫자](#다음-큰-숫자)
         - [다트 게임](#다트-게임)
         - [단어 뒤집기 2](#단어-뒤집기-2)
+        - [문자열 다루기 기본](#문자열-다루기-기본)
         - [문자열 반복](#문자열-반복)
         - [문자열 압축](#문자열-압축)
         - [문자열내 p와 y의 개수](#문자열내-p와-y의-개수)
