@@ -1,10 +1,10 @@
-# Coding Test Practice (148)
+# Coding Test Practice (149)
  - # Overview
-    - [Coding Test Platform (146)](#coding-test-platform-146)    
-      - [Programmers (76)](#programmers-76)
+    - [Coding Test Platform (147)](#coding-test-platform-147)    
+      - [Programmers (77)](#programmers-77)
         - [Level3 (1)](#level3-1)
         - [Level2 (31)](#level2-31)
-        - [Level1 (44)](#level1-44)
+        - [Level1 (45)](#level1-45)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -26,7 +26,7 @@
 
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
-        - [String (26)](#string-26)
+        - [String (27)](#string-27)
         - [Array (19)](#array-19)
         - [Hash (17)](#hash-17)
         - [Stack (16)](#stack-16)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (146)
+- ## Coding Test Platform (147)
 
-    - ## Programmers (76)
+    - ## Programmers (77)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -289,7 +289,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (44)
+      - ## Level1 (45)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -419,6 +419,12 @@
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/45)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 시저 암호
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1089,7 +1095,7 @@
  - ## Related Topic
 
     - ## Data Structure
-      - ## String (26)
+      - ## String (27)
         - [가운데 글자 가져오기](#가운데-글자-가져오기)
         - [괄호](#괄호)
         - [다음 큰 숫자](#다음-큰-숫자)
@@ -1102,6 +1108,7 @@
         - [방금그곡](#방금그곡)
         - [베스트셀러](#베스트셀러)
         - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
+        - [시저 암호](#시저-암호)
         - [신규 아이디 추천](#신규-아이디-추천)
         - [알파벳 개수](#알파벳-개수)
         - [알파벳 찾기](#알파벳-찾기)
