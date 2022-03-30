@@ -1,9 +1,9 @@
-# Coding Test Practice (150)
+# Coding Test Practice (151)
  - # Overview
-    - [Coding Test Platform (148)](#coding-test-platform-148)    
-      - [Programmers (78)](#programmers-78)
+    - [Coding Test Platform (149)](#coding-test-platform-149)    
+      - [Programmers (79)](#programmers-79)
         - [Level3 (1)](#level3-1)
-        - [Level2 (32)](#level2-32)
+        - [Level2 (33)](#level2-33)
         - [Level1 (45)](#level1-45)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
@@ -27,7 +27,7 @@
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
         - [String (27)](#string-27)
-        - [Array (19)](#array-19)
+        - [Array (20)](#array-20)
         - [Hash (17)](#hash-17)
         - [Stack (16)](#stack-16)
         - [Queue (10)](#queue-10)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (148)
+- ## Coding Test Platform (149)
 
-    - ## Programmers (78)
+    - ## Programmers (79)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -71,7 +71,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level2 (32)
+      - ## Level2 (33)
         - #### 124 나라의 숫자
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/39)
@@ -156,6 +156,12 @@
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.tistory.com/96)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 삼각 달팽이
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%82%BC%EA%B0%81%EB%8B%AC%ED%8C%BD%EC%9D%B4)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1133,8 +1139,9 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Array (19)
+      - ## Array (20)
         - [나누어 떨어지는 숫자 배열](#나누어-떨어지는-숫자-배열)
+        - [삼각 달팽이](#삼각-달팽이)
         - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
         - [스킬트리](#스킬트리)
         - [영어 끝말잇기](#영어-끝말잇기)
