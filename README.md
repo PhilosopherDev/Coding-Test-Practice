@@ -1,9 +1,9 @@
-# Coding Test Practice (149)
+# Coding Test Practice (150)
  - # Overview
-    - [Coding Test Platform (147)](#coding-test-platform-147)    
-      - [Programmers (77)](#programmers-77)
+    - [Coding Test Platform (148)](#coding-test-platform-148)    
+      - [Programmers (78)](#programmers-78)
         - [Level3 (1)](#level3-1)
-        - [Level2 (31)](#level2-31)
+        - [Level2 (32)](#level2-32)
         - [Level1 (45)](#level1-45)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
@@ -40,8 +40,8 @@
         - [Heap (1)](#heap-1)
       - [Algorithm](#algorithm)
         - [Implementation (36)](#implementation-36)
+        - [Math (17)](#math-17)
         - [Sorting (16)](#sorting-16)
-        - [Math (16)](#math-16)
         - [Bruteforce (11)](#bruteforce-11)
         - [BFS (6)](#bfs-6)
         - [Greedy (6)](#greedy-6)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (147)
+- ## Coding Test Platform (148)
 
-    - ## Programmers (77)
+    - ## Programmers (78)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -71,7 +71,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level2 (31)
+      - ## Level2 (32)
         - #### 124 나라의 숫자
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/39)
@@ -285,6 +285,12 @@
         - #### JadenCase 문자열 만들기
              - :gem: Javascript
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/JadenCase%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### N개의 최소공배수
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/N%EA%B0%9C%EC%9D%98%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1305,6 +1311,28 @@
 
          **[⬆ Back to Top](#overview)**
 
+      - ## Math (17)
+        - [다음 큰 숫자](#다음-큰-숫자)
+        - [빠른 A+B](#빠른-A+B)
+        - [셀프 넘버](#셀프-넘버)
+        - [약수의 합](#약수의-합)
+        - [유레카 이론](#유레카-이론)
+        - [콜라츠 추측](#콜라츠-추측)
+        - [평균 구하기](#평균-구하기)
+        - [피보나치 수](#피보나치-수)
+        - [A-B](#A-B)
+        - [A+B](#A+B)
+        - [Add Two Numbers](#Add-Two-Numbers)
+        - [Climbing Stairs](#Climbing-Stairs)
+        - [Happy Number](#Happy-Number)
+        - [N개의 최소공배수](#N개의-최소공배수)
+        - [Palindrome Number](#Palindrome-Number)
+        - [R2](#R2)
+        - [Reverse Integer](#Reverse-Integer)
+
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Sorting (16)
         - [가장 큰 수](#가장-큰-수)
         - [문자열 내 마음대로 정렬하기](#문자열-내-마음대로-정렬하기)
@@ -1322,27 +1350,6 @@
         - [Majority Element](#Majority-Element)
         - [Merge Sorted Array](#Merge-Sorted-Array)
         - [Valid Anagram](#Valid-Anagram)
-
-
-         **[⬆ Back to Top](#overview)**
-
-      - ## Math (16)
-        - [다음 큰 숫자](#다음-큰-숫자)
-        - [빠른 A+B](#빠른-A+B)
-        - [셀프 넘버](#셀프-넘버)
-        - [약수의 합](#약수의-합)
-        - [유레카 이론](#유레카-이론)
-        - [콜라츠 추측](#콜라츠-추측)
-        - [평균 구하기](#평균-구하기)
-        - [피보나치 수](#피보나치-수)
-        - [A-B](#A-B)
-        - [A+B](#A+B)
-        - [Add Two Numbers](#Add-Two-Numbers)
-        - [Climbing Stairs](#Climbing-Stairs)
-        - [Happy Number](#Happy-Number)
-        - [Palindrome Number](#Palindrome-Number)
-        - [R2](#R2)
-        - [Reverse Integer](#Reverse-Integer)
 
 
          **[⬆ Back to Top](#overview)**
