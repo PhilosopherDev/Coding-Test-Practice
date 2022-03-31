@@ -1,10 +1,10 @@
-# Coding Test Practice (151)
+# Coding Test Practice (152)
  - # Overview
-    - [Coding Test Platform (149)](#coding-test-platform-149)    
-      - [Programmers (79)](#programmers-79)
+    - [Coding Test Platform (150)](#coding-test-platform-150)    
+      - [Programmers (80)](#programmers-80)
         - [Level3 (1)](#level3-1)
         - [Level2 (33)](#level2-33)
-        - [Level1 (45)](#level1-45)
+        - [Level1 (46)](#level1-46)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -26,7 +26,7 @@
 
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
-        - [String (27)](#string-27)
+        - [String (28)](#string-28)
         - [Array (20)](#array-20)
         - [Hash (17)](#hash-17)
         - [Stack (16)](#stack-16)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (149)
+- ## Coding Test Platform (150)
 
-    - ## Programmers (79)
+    - ## Programmers (80)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -301,7 +301,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (45)
+      - ## Level1 (46)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -423,6 +423,12 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/73)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 수박수박수박수박수박수?
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1107,7 +1113,7 @@
  - ## Related Topic
 
     - ## Data Structure
-      - ## String (27)
+      - ## String (28)
         - [가운데 글자 가져오기](#가운데-글자-가져오기)
         - [괄호](#괄호)
         - [다음 큰 숫자](#다음-큰-숫자)
@@ -1119,6 +1125,7 @@
         - [문자열내 p와 y의 개수](#문자열내-p와-y의-개수)
         - [방금그곡](#방금그곡)
         - [베스트셀러](#베스트셀러)
+        - [수박수박수박수박수박수?](#수박수박수박수박수박수?)
         - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
         - [시저 암호](#시저-암호)
         - [신규 아이디 추천](#신규-아이디-추천)
