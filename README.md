@@ -1,10 +1,10 @@
-# Coding Test Practice (152)
+# Coding Test Practice (153)
  - # Overview
-    - [Coding Test Platform (150)](#coding-test-platform-150)    
-      - [Programmers (80)](#programmers-80)
+    - [Coding Test Platform (151)](#coding-test-platform-151)    
+      - [Programmers (81)](#programmers-81)
         - [Level3 (1)](#level3-1)
         - [Level2 (33)](#level2-33)
-        - [Level1 (46)](#level1-46)
+        - [Level1 (47)](#level1-47)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -27,7 +27,7 @@
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
         - [String (28)](#string-28)
-        - [Array (20)](#array-20)
+        - [Array (21)](#array-21)
         - [Hash (17)](#hash-17)
         - [Stack (16)](#stack-16)
         - [Queue (10)](#queue-10)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (150)
+- ## Coding Test Platform (151)
 
-    - ## Programmers (80)
+    - ## Programmers (81)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -301,7 +301,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (46)
+      - ## Level1 (47)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -611,6 +611,12 @@
         - #### K번째수
              - :gem: Javascript, Python
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/K%EB%B2%88%EC%A7%B8%EC%88%98)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### x만큼 간격이 있는 n개의 숫자
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/x%EB%A7%8C%ED%81%BC%EA%B0%84%EA%B2%A9%EC%9D%B4%EC%9E%88%EB%8A%94n%EA%B0%9C%EC%9D%98%EC%88%AB%EC%9E%90)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1146,7 +1152,7 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Array (20)
+      - ## Array (21)
         - [나누어 떨어지는 숫자 배열](#나누어-떨어지는-숫자-배열)
         - [삼각 달팽이](#삼각-달팽이)
         - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
@@ -1167,6 +1173,7 @@
         - [Single Number](#Single-Number)
         - [Two Sum](#Two-Sum)
         - [Valid Sudoku](#Valid-Sudoku)
+        - [x만큼 간격이 있는 n개의 숫자](#x만큼-간격이-있는-n개의-숫자)
 
 
          **[⬆ Back to Top](#overview)**
