@@ -1,9 +1,9 @@
-# Coding Test Practice (153)
+# Coding Test Practice (154)
  - # Overview
-    - [Coding Test Platform (151)](#coding-test-platform-151)    
-      - [Programmers (81)](#programmers-81)
+    - [Coding Test Platform (152)](#coding-test-platform-152)    
+      - [Programmers (82)](#programmers-82)
         - [Level3 (1)](#level3-1)
-        - [Level2 (33)](#level2-33)
+        - [Level2 (34)](#level2-34)
         - [Level1 (47)](#level1-47)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
@@ -26,7 +26,7 @@
 
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
-        - [String (28)](#string-28)
+        - [String (29)](#string-29)
         - [Array (21)](#array-21)
         - [Hash (17)](#hash-17)
         - [Stack (16)](#stack-16)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (151)
+- ## Coding Test Platform (152)
 
-    - ## Programmers (81)
+    - ## Programmers (82)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -71,7 +71,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level2 (33)
+      - ## Level2 (34)
         - #### 124 나라의 숫자
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/39)
@@ -210,6 +210,12 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/86)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%9C%84%EC%9E%A5)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 이진 변환 반복하기
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%9D%B4%EC%A7%84%EB%B3%80%ED%99%98%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1119,7 +1125,7 @@
  - ## Related Topic
 
     - ## Data Structure
-      - ## String (28)
+      - ## String (29)
         - [가운데 글자 가져오기](#가운데-글자-가져오기)
         - [괄호](#괄호)
         - [다음 큰 숫자](#다음-큰-숫자)
@@ -1138,6 +1144,7 @@
         - [알파벳 개수](#알파벳-개수)
         - [알파벳 찾기](#알파벳-찾기)
         - [이상한 문자 만들기](#이상한-문자-만들기)
+        - [이진 변환 반복하기](#이진-변환-반복하기)
         - [자연수 뒤집어 배열로 만들기](#자연수-뒤집어-배열로-만들기)
         - [정수 내림차순으로 배치하기](#정수-내림차순으로-배치하기)
         - [하샤드 수](#하샤드-수)
