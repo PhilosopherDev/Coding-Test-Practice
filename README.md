@@ -1,9 +1,9 @@
-# Coding Test Practice (154)
+# Coding Test Practice (155)
  - # Overview
-    - [Coding Test Platform (152)](#coding-test-platform-152)    
-      - [Programmers (82)](#programmers-82)
+    - [Coding Test Platform (153)](#coding-test-platform-153)    
+      - [Programmers (83)](#programmers-83)
         - [Level3 (1)](#level3-1)
-        - [Level2 (34)](#level2-34)
+        - [Level2 (35)](#level2-35)
         - [Level1 (47)](#level1-47)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
@@ -40,7 +40,7 @@
         - [Heap (1)](#heap-1)
       - [Algorithm](#algorithm)
         - [Implementation (36)](#implementation-36)
-        - [Math (17)](#math-17)
+        - [Math (18)](#math-18)
         - [Sorting (16)](#sorting-16)
         - [Bruteforce (11)](#bruteforce-11)
         - [BFS (6)](#bfs-6)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (152)
+- ## Coding Test Platform (153)
 
-    - ## Programmers (82)
+    - ## Programmers (83)
       - ## Level3 (1)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -71,7 +71,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level2 (34)
+      - ## Level2 (35)
         - #### 124 나라의 숫자
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/39)
@@ -297,6 +297,12 @@
         - #### JadenCase 문자열 만들기
              - :gem: Javascript
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/JadenCase%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### n^2 배열 자르기
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/n%EC%A0%9C%EA%B3%B1%EB%B0%B0%EC%97%B4%EC%9E%90%EB%A5%B4%EA%B8%B0)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1339,7 +1345,7 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Math (17)
+      - ## Math (18)
         - [다음 큰 숫자](#다음-큰-숫자)
         - [빠른 A+B](#빠른-A+B)
         - [셀프 넘버](#셀프-넘버)
@@ -1353,6 +1359,7 @@
         - [Add Two Numbers](#Add-Two-Numbers)
         - [Climbing Stairs](#Climbing-Stairs)
         - [Happy Number](#Happy-Number)
+        - [n^2 배열 자르기](#n^2-배열-자르기)
         - [N개의 최소공배수](#N개의-최소공배수)
         - [Palindrome Number](#Palindrome-Number)
         - [R2](#R2)
