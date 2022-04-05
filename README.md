@@ -1,10 +1,10 @@
-# Coding Test Practice (156)
+# Coding Test Practice (157)
  - # Overview
-    - [Coding Test Platform (154)](#coding-test-platform-154)    
-      - [Programmers (84)](#programmers-84)
+    - [Coding Test Platform (155)](#coding-test-platform-155)    
+      - [Programmers (85)](#programmers-85)
         - [Level3 (2)](#level3-2)
         - [Level2 (35)](#level2-35)
-        - [Level1 (47)](#level1-47)
+        - [Level1 (48)](#level1-48)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -27,7 +27,7 @@
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
         - [String (29)](#string-29)
-        - [Array (21)](#array-21)
+        - [Array (22)](#array-22)
         - [Hash (17)](#hash-17)
         - [Stack (16)](#stack-16)
         - [Queue (10)](#queue-10)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (154)
+- ## Coding Test Platform (155)
 
-    - ## Programmers (84)
+    - ## Programmers (85)
       - ## Level3 (2)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -319,7 +319,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (47)
+      - ## Level1 (48)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -623,6 +623,12 @@
         - #### 핸드폰 번호 가리기
              - :gem: Javascript
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%95%B8%EB%93%9C%ED%8F%B0%EB%B2%88%ED%98%B8%EA%B0%80%EB%A6%AC%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 행렬의 덧셈
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%96%89%EB%A0%AC%EC%9D%98%EB%8D%A7%EC%85%88)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1171,7 +1177,7 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Array (21)
+      - ## Array (22)
         - [나누어 떨어지는 숫자 배열](#나누어-떨어지는-숫자-배열)
         - [삼각 달팽이](#삼각-달팽이)
         - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
@@ -1180,6 +1186,7 @@
         - [음양 더하기](#음양-더하기)
         - [제일 작은 수 제거하기](#제일-작은-수-제거하기)
         - [피보나치 수](#피보나치-수)
+        - [행렬의 덧셈](#행렬의-덧셈)
         - [Best Time to Buy and Sell Stock](#Best-Time-to-Buy-and-Sell-Stock)
         - [Container with Most Water](#Container-with-Most-Water)
         - [Contains Duplicate](#Contains-Duplicate)
