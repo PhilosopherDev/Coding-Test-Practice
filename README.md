@@ -1,8 +1,8 @@
-# Coding Test Practice (155)
+# Coding Test Practice (156)
  - # Overview
-    - [Coding Test Platform (153)](#coding-test-platform-153)    
-      - [Programmers (83)](#programmers-83)
-        - [Level3 (1)](#level3-1)
+    - [Coding Test Platform (154)](#coding-test-platform-154)    
+      - [Programmers (84)](#programmers-84)
+        - [Level3 (2)](#level3-2)
         - [Level2 (35)](#level2-35)
         - [Level1 (47)](#level1-47)
       - [BOJ (39)](#boj-39)
@@ -40,8 +40,8 @@
         - [Heap (1)](#heap-1)
       - [Algorithm](#algorithm)
         - [Implementation (36)](#implementation-36)
-        - [Math (18)](#math-18)
-        - [Sorting (16)](#sorting-16)
+        - [Math (19)](#math-19)
+        - [Sorting (17)](#sorting-17)
         - [Bruteforce (11)](#bruteforce-11)
         - [BFS (6)](#bfs-6)
         - [Greedy (6)](#greedy-6)
@@ -59,14 +59,20 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (153)
+- ## Coding Test Platform (154)
 
-    - ## Programmers (83)
-      - ## Level3 (1)
+    - ## Programmers (84)
+      - ## Level3 (2)
         - #### 베스트 앨범
              - :gem: Javascript, Python
              - :pencil2: [Blog](https://philosopherprogrammer.com/51)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 야근 지수
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level3/%EC%95%BC%EA%B7%BC%EC%A7%80%EC%88%98)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1345,10 +1351,11 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Math (18)
+      - ## Math (19)
         - [다음 큰 숫자](#다음-큰-숫자)
         - [빠른 A+B](#빠른-A+B)
         - [셀프 넘버](#셀프-넘버)
+        - [야근 지수](#야근-지수)
         - [약수의 합](#약수의-합)
         - [유레카 이론](#유레카-이론)
         - [콜라츠 추측](#콜라츠-추측)
@@ -1368,12 +1375,13 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Sorting (16)
+      - ## Sorting (17)
         - [가장 큰 수](#가장-큰-수)
         - [문자열 내 마음대로 정렬하기](#문자열-내-마음대로-정렬하기)
         - [문자열 내림차순으로 배치하기](#문자열-내림차순으로-배치하기)
         - [베스트셀러](#베스트셀러)
         - [수리공 항승](#수리공-항승)
+        - [야근 지수](#야근-지수)
         - [일곱 난쟁이](#일곱-난쟁이)
         - [최소 직사각형](#최소-직사각형)
         - [최솟값 만들기](#최솟값-만들기)
