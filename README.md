@@ -1,10 +1,10 @@
-# Coding Test Practice (157)
+# Coding Test Practice (158)
  - # Overview
-    - [Coding Test Platform (155)](#coding-test-platform-155)    
-      - [Programmers (85)](#programmers-85)
+    - [Coding Test Platform (156)](#coding-test-platform-156)    
+      - [Programmers (86)](#programmers-86)
         - [Level3 (2)](#level3-2)
         - [Level2 (35)](#level2-35)
-        - [Level1 (48)](#level1-48)
+        - [Level1 (49)](#level1-49)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -40,7 +40,7 @@
         - [Heap (1)](#heap-1)
       - [Algorithm](#algorithm)
         - [Implementation (36)](#implementation-36)
-        - [Math (19)](#math-19)
+        - [Math (20)](#math-20)
         - [Sorting (17)](#sorting-17)
         - [Bruteforce (11)](#bruteforce-11)
         - [BFS (6)](#bfs-6)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (155)
+- ## Coding Test Platform (156)
 
-    - ## Programmers (85)
+    - ## Programmers (86)
       - ## Level3 (2)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -319,7 +319,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (48)
+      - ## Level1 (49)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -544,6 +544,12 @@
         - #### 정수 내림차순으로 배치하기
              - :gem: Javascript
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%A0%95%EC%88%98%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 정수 제곱근 판별
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%A0%95%EC%88%98%EC%A0%9C%EA%B3%B1%EA%B7%BC%ED%8C%90%EB%B3%84)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1358,13 +1364,14 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Math (19)
+      - ## Math (20)
         - [다음 큰 숫자](#다음-큰-숫자)
         - [빠른 A+B](#빠른-A+B)
         - [셀프 넘버](#셀프-넘버)
         - [야근 지수](#야근-지수)
         - [약수의 합](#약수의-합)
         - [유레카 이론](#유레카-이론)
+        - [정수 제곱근 판별](#정수-제곱근-판별)
         - [콜라츠 추측](#콜라츠-추측)
         - [평균 구하기](#평균-구하기)
         - [피보나치 수](#피보나치-수)
