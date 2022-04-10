@@ -1,10 +1,10 @@
-# Coding Test Practice (159)
+# Coding Test Practice (160)
  - # Overview
-    - [Coding Test Platform (157)](#coding-test-platform-157)    
-      - [Programmers (87)](#programmers-87)
+    - [Coding Test Platform (158)](#coding-test-platform-158)    
+      - [Programmers (88)](#programmers-88)
         - [Level3 (2)](#level3-2)
         - [Level2 (35)](#level2-35)
-        - [Level1 (50)](#level1-50)
+        - [Level1 (51)](#level1-51)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -40,7 +40,7 @@
         - [Heap (1)](#heap-1)
       - [Algorithm](#algorithm)
         - [Implementation (36)](#implementation-36)
-        - [Math (21)](#math-21)
+        - [Math (22)](#math-22)
         - [Sorting (17)](#sorting-17)
         - [Bruteforce (11)](#bruteforce-11)
         - [BFS (6)](#bfs-6)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (157)
+- ## Coding Test Platform (158)
 
-    - ## Programmers (87)
+    - ## Programmers (88)
       - ## Level3 (2)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -319,7 +319,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (50)
+      - ## Level1 (51)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -352,6 +352,12 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/75)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%801%EC%9D%B4%EB%90%98%EB%8A%94%EC%88%98%EC%B0%BE%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 내적
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%82%B4%EC%A0%81)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1370,7 +1376,8 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Math (21)
+      - ## Math (22)
+        - [내적](#내적)
         - [다음 큰 숫자](#다음-큰-숫자)
         - [빠른 A+B](#빠른-A+B)
         - [셀프 넘버](#셀프-넘버)
