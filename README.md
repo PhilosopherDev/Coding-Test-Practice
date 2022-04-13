@@ -1,10 +1,10 @@
-# Coding Test Practice (161)
+# Coding Test Practice (162)
  - # Overview
-    - [Coding Test Platform (159)](#coding-test-platform-159)    
-      - [Programmers (89)](#programmers-89)
+    - [Coding Test Platform (160)](#coding-test-platform-160)    
+      - [Programmers (90)](#programmers-90)
         - [Level3 (2)](#level3-2)
         - [Level2 (35)](#level2-35)
-        - [Level1 (52)](#level1-52)
+        - [Level1 (53)](#level1-53)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -40,7 +40,7 @@
         - [Heap (1)](#heap-1)
       - [Algorithm](#algorithm)
         - [Implementation (36)](#implementation-36)
-        - [Math (22)](#math-22)
+        - [Math (23)](#math-23)
         - [Sorting (17)](#sorting-17)
         - [Bruteforce (11)](#bruteforce-11)
         - [BFS (6)](#bfs-6)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (159)
+- ## Coding Test Platform (160)
 
-    - ## Programmers (89)
+    - ## Programmers (90)
       - ## Level3 (2)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -319,11 +319,17 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (52)
+      - ## Level1 (53)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/2016%EB%85%84)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 3진법 뒤집기
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/3%EC%A7%84%EB%B2%95%EB%92%A4%EC%A7%91%EA%B8%B0)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1383,7 +1389,8 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Math (22)
+      - ## Math (23)
+        - [3진법 뒤집기](#3진법-뒤집기)
         - [내적](#내적)
         - [다음 큰 숫자](#다음-큰-숫자)
         - [빠른 A+B](#빠른-A+B)
