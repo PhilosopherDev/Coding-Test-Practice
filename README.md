@@ -1,10 +1,10 @@
-# Coding Test Practice (160)
+# Coding Test Practice (161)
  - # Overview
-    - [Coding Test Platform (158)](#coding-test-platform-158)    
-      - [Programmers (88)](#programmers-88)
+    - [Coding Test Platform (159)](#coding-test-platform-159)    
+      - [Programmers (89)](#programmers-89)
         - [Level3 (2)](#level3-2)
         - [Level2 (35)](#level2-35)
-        - [Level1 (51)](#level1-51)
+        - [Level1 (52)](#level1-52)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -26,7 +26,7 @@
 
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
-        - [String (29)](#string-29)
+        - [String (30)](#string-30)
         - [Array (22)](#array-22)
         - [Hash (17)](#hash-17)
         - [Stack (16)](#stack-16)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (158)
+- ## Coding Test Platform (159)
 
-    - ## Programmers (88)
+    - ## Programmers (89)
       - ## Level3 (2)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -319,7 +319,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (51)
+      - ## Level1 (52)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -562,6 +562,12 @@
         - #### 제일 작은 수 제거하기
              - :gem: Javascript
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%A0%9C%EC%9D%BC%EC%9E%91%EC%9D%80%EC%88%98%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 직사각형 별찍기
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EB%B3%84%EC%B0%8D%EA%B8%B0)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1161,7 +1167,7 @@
  - ## Related Topic
 
     - ## Data Structure
-      - ## String (29)
+      - ## String (30)
         - [가운데 글자 가져오기](#가운데-글자-가져오기)
         - [괄호](#괄호)
         - [다음 큰 숫자](#다음-큰-숫자)
@@ -1183,6 +1189,7 @@
         - [이진 변환 반복하기](#이진-변환-반복하기)
         - [자연수 뒤집어 배열로 만들기](#자연수-뒤집어-배열로-만들기)
         - [정수 내림차순으로 배치하기](#정수-내림차순으로-배치하기)
+        - [직사각형 별찍기](#직사각형-별찍기)
         - [하샤드 수](#하샤드-수)
         - [핸드폰 번호 가리기](#핸드폰-번호-가리기)
         - [First Unique Character in a String](#First-Unique-Character-in-a-String)
