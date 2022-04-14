@@ -1,10 +1,10 @@
-# Coding Test Practice (162)
+# Coding Test Practice (163)
  - # Overview
-    - [Coding Test Platform (160)](#coding-test-platform-160)    
-      - [Programmers (90)](#programmers-90)
+    - [Coding Test Platform (161)](#coding-test-platform-161)    
+      - [Programmers (91)](#programmers-91)
         - [Level3 (2)](#level3-2)
         - [Level2 (35)](#level2-35)
-        - [Level1 (53)](#level1-53)
+        - [Level1 (54)](#level1-54)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -27,7 +27,7 @@
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
         - [String (30)](#string-30)
-        - [Array (22)](#array-22)
+        - [Array (23)](#array-23)
         - [Hash (17)](#hash-17)
         - [Stack (16)](#stack-16)
         - [Queue (10)](#queue-10)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (160)
+- ## Coding Test Platform (161)
 
-    - ## Programmers (90)
+    - ## Programmers (91)
       - ## Level3 (2)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -319,7 +319,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (53)
+      - ## Level1 (54)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -517,6 +517,12 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/52)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 예산
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%98%88%EC%82%B0)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1208,12 +1214,13 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Array (22)
+      - ## Array (23)
         - [나누어 떨어지는 숫자 배열](#나누어-떨어지는-숫자-배열)
         - [삼각 달팽이](#삼각-달팽이)
         - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
         - [스킬트리](#스킬트리)
         - [영어 끝말잇기](#영어-끝말잇기)
+        - [예산](#예산)
         - [음양 더하기](#음양-더하기)
         - [제일 작은 수 제거하기](#제일-작은-수-제거하기)
         - [피보나치 수](#피보나치-수)
