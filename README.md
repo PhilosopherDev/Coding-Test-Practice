@@ -1,9 +1,9 @@
-# Coding Test Practice (163)
+# Coding Test Practice (164)
  - # Overview
-    - [Coding Test Platform (161)](#coding-test-platform-161)    
-      - [Programmers (91)](#programmers-91)
+    - [Coding Test Platform (162)](#coding-test-platform-162)    
+      - [Programmers (92)](#programmers-92)
         - [Level3 (2)](#level3-2)
-        - [Level2 (35)](#level2-35)
+        - [Level2 (36)](#level2-36)
         - [Level1 (54)](#level1-54)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
@@ -28,8 +28,8 @@
       - [Data Structure](#data-structure)
         - [String (30)](#string-30)
         - [Array (23)](#array-23)
+        - [Stack (17)](#stack-17)
         - [Hash (17)](#hash-17)
-        - [Stack (16)](#stack-16)
         - [Queue (10)](#queue-10)
         - [Tree (5)](#tree-5)
         - [Linked list (4)](#linked-list-4)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (161)
+- ## Coding Test Platform (162)
 
-    - ## Programmers (91)
+    - ## Programmers (92)
       - ## Level3 (2)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -77,7 +77,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level2 (35)
+      - ## Level2 (36)
         - #### 124 나라의 숫자
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/39)
@@ -97,6 +97,12 @@
              - :bulb: Kakao 기출
              - :pencil2: [Blog](https://philosopherprogrammer.com/101)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 괄호 회전하기
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EA%B4%84%ED%98%B8%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1242,6 +1248,28 @@
 
          **[⬆ Back to Top](#overview)**
 
+      - ## Stack (17)
+        - [괄호 회전하기](#괄호-회전하기)
+        - [괄호](#괄호)
+        - [기능개발](#기능개발)
+        - [단어 뒤집기 2](#단어-뒤집기-2)
+        - [스택 수열](#스택-수열)
+        - [스택](#스택)
+        - [에디터](#에디터)
+        - [오큰수](#오큰수)
+        - [올바른 괄호](#올바른-괄호)
+        - [제로](#제로)
+        - [짝지어 제거하기](#짝지어-제거하기)
+        - [크레인 인형뽑기 게임](#크레인-인형뽑기-게임)
+        - [Binary Tree Inorder Traversal](#Binary-Tree-Inorder-Traversal)
+        - [Binary Tree Postorder Traversal](#Binary-Tree-Postorder-Traversal)
+        - [Binary Tree Preorder Traversal](#Binary-Tree-Preorder-Traversal)
+        - [Min Stack](#Min-Stack)
+        - [Valid Parentheses](#Valid-Parentheses)
+
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Hash (17)
         - [베스트 앨범](#베스트-앨범)
         - [베스트셀러](#베스트셀러)
@@ -1260,27 +1288,6 @@
         - [Two Sum](#Two-Sum)
         - [Valid Anagram](#Valid-Anagram)
         - [Valid Sudoku](#Valid-Sudoku)
-
-
-         **[⬆ Back to Top](#overview)**
-
-      - ## Stack (16)
-        - [괄호](#괄호)
-        - [기능개발](#기능개발)
-        - [단어 뒤집기 2](#단어-뒤집기-2)
-        - [스택 수열](#스택-수열)
-        - [스택](#스택)
-        - [에디터](#에디터)
-        - [오큰수](#오큰수)
-        - [올바른 괄호](#올바른-괄호)
-        - [제로](#제로)
-        - [짝지어 제거하기](#짝지어-제거하기)
-        - [크레인 인형뽑기 게임](#크레인-인형뽑기-게임)
-        - [Binary Tree Inorder Traversal](#Binary-Tree-Inorder-Traversal)
-        - [Binary Tree Postorder Traversal](#Binary-Tree-Postorder-Traversal)
-        - [Binary Tree Preorder Traversal](#Binary-Tree-Preorder-Traversal)
-        - [Min Stack](#Min-Stack)
-        - [Valid Parentheses](#Valid-Parentheses)
 
 
          **[⬆ Back to Top](#overview)**
