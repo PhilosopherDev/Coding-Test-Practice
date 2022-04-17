@@ -1,10 +1,10 @@
-# Coding Test Practice (165)
+# Coding Test Practice (166)
  - # Overview
-    - [Coding Test Platform (163)](#coding-test-platform-163)    
-      - [Programmers (93)](#programmers-93)
+    - [Coding Test Platform (164)](#coding-test-platform-164)    
+      - [Programmers (94)](#programmers-94)
         - [Level3 (2)](#level3-2)
         - [Level2 (37)](#level2-37)
-        - [Level1 (54)](#level1-54)
+        - [Level1 (55)](#level1-55)
       - [BOJ (39)](#boj-39)
         - [Gold4 (1)](#gold4-1)
         - [Silver1 (3)](#silver1-3)
@@ -40,7 +40,7 @@
         - [Heap (1)](#heap-1)
       - [Algorithm](#algorithm)
         - [Implementation (36)](#implementation-36)
-        - [Math (24)](#math-24)
+        - [Math (25)](#math-25)
         - [Sorting (17)](#sorting-17)
         - [Bruteforce (11)](#bruteforce-11)
         - [BFS (6)](#bfs-6)
@@ -59,9 +59,9 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (163)
+- ## Coding Test Platform (164)
 
-    - ## Programmers (93)
+    - ## Programmers (94)
       - ## Level3 (2)
         - #### 베스트 앨범
              - :gem: Javascript, Python
@@ -331,7 +331,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Level1 (54)
+      - ## Level1 (55)
         - #### 2016년
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/67)
@@ -465,6 +465,12 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/73)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### 소수 만들기
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1409,12 +1415,13 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Math (24)
+      - ## Math (25)
         - [3진법 뒤집기](#3진법-뒤집기)
         - [내적](#내적)
         - [다음 큰 숫자](#다음-큰-숫자)
         - [빠른 A+B](#빠른-A+B)
         - [셀프 넘버](#셀프-넘버)
+        - [소수 만들기](#소수-만들기)
         - [야근 지수](#야근-지수)
         - [약수의 합](#약수의-합)
         - [유레카 이론](#유레카-이론)
