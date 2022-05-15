@@ -1,0 +1,18 @@
+/**
+ * Easy
+ * 28. Implement strStr()
+ * https://leetcode.com/problems/implement-strstr/
+ */
+
+/**
+ * @param {string} haystack
+ * @param {string} needle
+ * @return {number}
+ */
+var strStr = function(haystack, needle) {
+    if (needle === '') return 0;
+
+    return haystack.indexOf(needle);
+};
+
+module.exports = strStr;
