@@ -1,6 +1,6 @@
-# Coding Test Practice (168)
+# Coding Test Practice (169)
  - # Overview
-    - [Coding Test Platform (166)](#coding-test-platform-166)    
+    - [Coding Test Platform (167)](#coding-test-platform-167)    
       - [Programmers (94)](#programmers-94)
         - [Level3 (2)](#level3-2)
         - [Level2 (37)](#level2-37)
@@ -15,9 +15,9 @@
         - [Bronze1 (1)](#bronze1-1)
         - [Bronze2 (7)](#bronze2-7)
         - [Bronze5 (6)](#bronze5-6)
-      - [Leetcode (33)](#leetcode-33)
+      - [Leetcode (34)](#leetcode-34)
         - [Medium (7)](#medium-7)
-        - [Easy (26)](#easy-26)
+        - [Easy (27)](#easy-27)
 
     - [Education Platform (2)](#education-platform-2)
       - [Javascript algorithm problem solving (2)](#javascript-algorithm-problem-solving-2)
@@ -26,7 +26,7 @@
 
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
-        - [String (30)](#string-30)
+        - [String (31)](#string-31)
         - [Array (25)](#array-25)
         - [Stack (17)](#stack-17)
         - [Hash (17)](#hash-17)
@@ -59,7 +59,7 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (166)
+- ## Coding Test Platform (167)
 
     - ## Programmers (94)
       - ## Level3 (2)
@@ -954,7 +954,7 @@
 
              **[⬆ Back to Top](#overview)**
     
-    - ## Leetcode (33)
+    - ## Leetcode (34)
       - ## Medium (7)
         - #### Add Two Numbers
              - :gem: Javascript
@@ -1006,7 +1006,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Easy (26)
+      - ## Easy (27)
         - #### Best Time to Buy and Sell Stock
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/72)
@@ -1060,6 +1060,12 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/34)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/202)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### Implement strStr()
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/28)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1209,7 +1215,7 @@
  - ## Related Topic
 
     - ## Data Structure
-      - ## String (30)
+      - ## String (31)
         - [가운데 글자 가져오기](#가운데-글자-가져오기)
         - [괄호](#괄호)
         - [다음 큰 숫자](#다음-큰-숫자)
@@ -1235,6 +1241,7 @@
         - [하샤드 수](#하샤드-수)
         - [핸드폰 번호 가리기](#핸드폰-번호-가리기)
         - [First Unique Character in a String](#First-Unique-Character-in-a-String)
+        - [Implement strStr()](#Implement-strStr())
         - [JadenCase 문자열 만들기](#JadenCase-문자열-만들기)
         - [Longest Common Prefix](#Longest-Common-Prefix)
         - [Ransom Note](#Ransom-Note)
