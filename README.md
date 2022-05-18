@@ -1,6 +1,6 @@
-# Coding Test Practice (170)
+# Coding Test Practice (171)
  - # Overview
-    - [Coding Test Platform (168)](#coding-test-platform-168)    
+    - [Coding Test Platform (169)](#coding-test-platform-169)    
       - [Programmers (94)](#programmers-94)
         - [Level3 (2)](#level3-2)
         - [Level2 (37)](#level2-37)
@@ -15,9 +15,9 @@
         - [Bronze1 (1)](#bronze1-1)
         - [Bronze2 (7)](#bronze2-7)
         - [Bronze5 (6)](#bronze5-6)
-      - [Leetcode (35)](#leetcode-35)
+      - [Leetcode (36)](#leetcode-36)
         - [Medium (7)](#medium-7)
-        - [Easy (28)](#easy-28)
+        - [Easy (29)](#easy-29)
 
     - [Education Platform (2)](#education-platform-2)
       - [Javascript algorithm problem solving (2)](#javascript-algorithm-problem-solving-2)
@@ -27,7 +27,7 @@
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
         - [String (31)](#string-31)
-        - [Array (26)](#array-26)
+        - [Array (27)](#array-27)
         - [Stack (17)](#stack-17)
         - [Hash (17)](#hash-17)
         - [Queue (10)](#queue-10)
@@ -59,7 +59,7 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (168)
+- ## Coding Test Platform (169)
 
     - ## Programmers (94)
       - ## Level3 (2)
@@ -954,7 +954,7 @@
 
              **[⬆ Back to Top](#overview)**
     
-    - ## Leetcode (35)
+    - ## Leetcode (36)
       - ## Medium (7)
         - #### Add Two Numbers
              - :gem: Javascript
@@ -1006,7 +1006,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Easy (28)
+      - ## Easy (29)
         - #### Best Time to Buy and Sell Stock
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/72)
@@ -1073,6 +1073,12 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/71)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/350)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### Length of Last Word
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/58)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1257,7 +1263,7 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Array (26)
+      - ## Array (27)
         - [나누어 떨어지는 숫자 배열](#나누어-떨어지는-숫자-배열)
         - [삼각 달팽이](#삼각-달팽이)
         - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
@@ -1272,6 +1278,7 @@
         - [Container with Most Water](#Container-with-Most-Water)
         - [Contains Duplicate](#Contains-Duplicate)
         - [Intersection of Two Arrays II](#Intersection-of-Two-Arrays-II)
+        - [Length of Last Word](#Length-of-Last-Word)
         - [Majority Element](#Majority-Element)
         - [Maximum Length of Repeated Subarray](#Maximum-Length-of-Repeated-Subarray)
         - [Merge Sorted Array](#Merge-Sorted-Array)
