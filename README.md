@@ -1,6 +1,6 @@
-# Coding Test Practice (172)
+# Coding Test Practice (173)
  - # Overview
-    - [Coding Test Platform (170)](#coding-test-platform-170)    
+    - [Coding Test Platform (171)](#coding-test-platform-171)    
       - [Programmers (94)](#programmers-94)
         - [Level3 (2)](#level3-2)
         - [Level2 (37)](#level2-37)
@@ -15,9 +15,9 @@
         - [Bronze1 (1)](#bronze1-1)
         - [Bronze2 (7)](#bronze2-7)
         - [Bronze5 (6)](#bronze5-6)
-      - [Leetcode (37)](#leetcode-37)
+      - [Leetcode (38)](#leetcode-38)
         - [Medium (7)](#medium-7)
-        - [Easy (30)](#easy-30)
+        - [Easy (31)](#easy-31)
 
     - [Education Platform (2)](#education-platform-2)
       - [Javascript algorithm problem solving (2)](#javascript-algorithm-problem-solving-2)
@@ -39,7 +39,7 @@
         - [Deque (1)](#deque-1)
         - [Heap (1)](#heap-1)
       - [Algorithm](#algorithm)
-        - [Implementation (36)](#implementation-36)
+        - [Implementation (37)](#implementation-37)
         - [Math (25)](#math-25)
         - [Sorting (17)](#sorting-17)
         - [Bruteforce (11)](#bruteforce-11)
@@ -59,7 +59,7 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (170)
+- ## Coding Test Platform (171)
 
     - ## Programmers (94)
       - ## Level3 (2)
@@ -954,7 +954,7 @@
 
              **[⬆ Back to Top](#overview)**
     
-    - ## Leetcode (37)
+    - ## Leetcode (38)
       - ## Medium (7)
         - #### Add Two Numbers
              - :gem: Javascript
@@ -1006,7 +1006,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Easy (30)
+      - ## Easy (31)
         - #### Best Time to Buy and Sell Stock
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/72)
@@ -1187,6 +1187,12 @@
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/32)
              - :computer: [Code](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/136)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### Sqrt(x)
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/69)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1416,7 +1422,7 @@
          **[⬆ Back to Top](#overview)**
         
     - ## Algorithm
-      - ## Implementation (36)
+      - ## Implementation (37)
         - [124 나라의 숫자](#124-나라의-숫자)
         - [2016년](#2016년)
         - [같은 숫자는 싫어](#같은-숫자는-싫어)
@@ -1452,6 +1458,7 @@
         - [A-B](#A-B)
         - [A+B](#A+B)
         - [R2](#R2)
+        - [Sqrt(x)](#Sqrt(x))
         - [We love kriii](#We-love-kriii)
 
 
