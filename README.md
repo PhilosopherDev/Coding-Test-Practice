@@ -1,6 +1,6 @@
-# Coding Test Practice (171)
+# Coding Test Practice (172)
  - # Overview
-    - [Coding Test Platform (169)](#coding-test-platform-169)    
+    - [Coding Test Platform (170)](#coding-test-platform-170)    
       - [Programmers (94)](#programmers-94)
         - [Level3 (2)](#level3-2)
         - [Level2 (37)](#level2-37)
@@ -15,9 +15,9 @@
         - [Bronze1 (1)](#bronze1-1)
         - [Bronze2 (7)](#bronze2-7)
         - [Bronze5 (6)](#bronze5-6)
-      - [Leetcode (36)](#leetcode-36)
+      - [Leetcode (37)](#leetcode-37)
         - [Medium (7)](#medium-7)
-        - [Easy (29)](#easy-29)
+        - [Easy (30)](#easy-30)
 
     - [Education Platform (2)](#education-platform-2)
       - [Javascript algorithm problem solving (2)](#javascript-algorithm-problem-solving-2)
@@ -27,7 +27,7 @@
     - [Related Topic](#related-topic)
       - [Data Structure](#data-structure)
         - [String (31)](#string-31)
-        - [Array (27)](#array-27)
+        - [Array (28)](#array-28)
         - [Stack (17)](#stack-17)
         - [Hash (17)](#hash-17)
         - [Queue (10)](#queue-10)
@@ -59,7 +59,7 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (169)
+- ## Coding Test Platform (170)
 
     - ## Programmers (94)
       - ## Level3 (2)
@@ -954,7 +954,7 @@
 
              **[⬆ Back to Top](#overview)**
     
-    - ## Leetcode (36)
+    - ## Leetcode (37)
       - ## Medium (7)
         - #### Add Two Numbers
              - :gem: Javascript
@@ -1006,7 +1006,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Easy (29)
+      - ## Easy (30)
         - #### Best Time to Buy and Sell Stock
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/72)
@@ -1145,6 +1145,12 @@
 
 
              **[⬆ Back to Top](#overview)**
+        - #### Plus One
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/66)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Ransom Note
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/83)
@@ -1263,7 +1269,7 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Array (27)
+      - ## Array (28)
         - [나누어 떨어지는 숫자 배열](#나누어-떨어지는-숫자-배열)
         - [삼각 달팽이](#삼각-달팽이)
         - [숫자 문자열과 영단어](#숫자-문자열과-영단어)
@@ -1283,6 +1289,7 @@
         - [Maximum Length of Repeated Subarray](#Maximum-Length-of-Repeated-Subarray)
         - [Merge Sorted Array](#Merge-Sorted-Array)
         - [Pascals Triangle](#Pascals-Triangle)
+        - [Plus One](#Plus-One)
         - [Remove Duplicates from Sorted Array](#Remove-Duplicates-from-Sorted-Array)
         - [Remove Element](#Remove-Element)
         - [Reshape the Matrix](#Reshape-the-Matrix)
