@@ -1,6 +1,6 @@
-# Coding Test Practice (173)
+# Coding Test Practice (174)
  - # Overview
-    - [Coding Test Platform (171)](#coding-test-platform-171)    
+    - [Coding Test Platform (172)](#coding-test-platform-172)    
       - [Programmers (94)](#programmers-94)
         - [Level3 (2)](#level3-2)
         - [Level2 (37)](#level2-37)
@@ -15,9 +15,9 @@
         - [Bronze1 (1)](#bronze1-1)
         - [Bronze2 (7)](#bronze2-7)
         - [Bronze5 (6)](#bronze5-6)
-      - [Leetcode (38)](#leetcode-38)
+      - [Leetcode (39)](#leetcode-39)
         - [Medium (7)](#medium-7)
-        - [Easy (31)](#easy-31)
+        - [Easy (32)](#easy-32)
 
     - [Education Platform (2)](#education-platform-2)
       - [Javascript algorithm problem solving (2)](#javascript-algorithm-problem-solving-2)
@@ -40,7 +40,7 @@
         - [Heap (1)](#heap-1)
       - [Algorithm](#algorithm)
         - [Implementation (37)](#implementation-37)
-        - [Math (25)](#math-25)
+        - [Math (26)](#math-26)
         - [Sorting (17)](#sorting-17)
         - [Bruteforce (11)](#bruteforce-11)
         - [BFS (6)](#bfs-6)
@@ -59,7 +59,7 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (171)
+- ## Coding Test Platform (172)
 
     - ## Programmers (94)
       - ## Level3 (2)
@@ -954,7 +954,7 @@
 
              **[⬆ Back to Top](#overview)**
     
-    - ## Leetcode (38)
+    - ## Leetcode (39)
       - ## Medium (7)
         - #### Add Two Numbers
              - :gem: Javascript
@@ -1006,7 +1006,13 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Easy (31)
+      - ## Easy (32)
+        - #### Add Binary
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/67)
+
+
+             **[⬆ Back to Top](#overview)**
         - #### Best Time to Buy and Sell Stock
              - :gem: Javascript
              - :pencil2: [Blog](https://philosopherprogrammer.com/72)
@@ -1464,7 +1470,7 @@
 
          **[⬆ Back to Top](#overview)**
 
-      - ## Math (25)
+      - ## Math (26)
         - [3진법 뒤집기](#3진법-뒤집기)
         - [내적](#내적)
         - [다음 큰 숫자](#다음-큰-숫자)
@@ -1482,6 +1488,7 @@
         - [행렬의 곱셈](#행렬의-곱셈)
         - [A-B](#A-B)
         - [A+B](#A+B)
+        - [Add Binary](#Add-Binary)
         - [Add Two Numbers](#Add-Two-Numbers)
         - [Climbing Stairs](#Climbing-Stairs)
         - [Happy Number](#Happy-Number)
