@@ -1,6 +1,6 @@
-# Coding Test Practice (174)
+# Coding Test Practice (175)
  - # Overview
-    - [Coding Test Platform (172)](#coding-test-platform-172)    
+    - [Coding Test Platform (173)](#coding-test-platform-173)    
       - [Programmers (94)](#programmers-94)
         - [Level3 (2)](#level3-2)
         - [Level2 (37)](#level2-37)
@@ -15,9 +15,9 @@
         - [Bronze1 (1)](#bronze1-1)
         - [Bronze2 (7)](#bronze2-7)
         - [Bronze5 (6)](#bronze5-6)
-      - [Leetcode (39)](#leetcode-39)
+      - [Leetcode (40)](#leetcode-40)
         - [Medium (7)](#medium-7)
-        - [Easy (32)](#easy-32)
+        - [Easy (33)](#easy-33)
 
     - [Education Platform (2)](#education-platform-2)
       - [Javascript algorithm problem solving (2)](#javascript-algorithm-problem-solving-2)
@@ -31,8 +31,8 @@
         - [Stack (17)](#stack-17)
         - [Hash (17)](#hash-17)
         - [Queue (10)](#queue-10)
+        - [Linked list (5)](#linked-list-5)
         - [Tree (5)](#tree-5)
-        - [Linked list (4)](#linked-list-4)
         - [Priority queue (3)](#priority-queue-3)
         - [Graph (3)](#graph-3)
         - [Binary tree (2)](#binary-tree-2)
@@ -59,7 +59,7 @@
         - [Simulation (1)](#simulation-1)
         - [Cumulative sum (1)](#cumulative-sum-1)
     
-- ## Coding Test Platform (172)
+- ## Coding Test Platform (173)
 
     - ## Programmers (94)
       - ## Level3 (2)
@@ -954,7 +954,7 @@
 
              **[⬆ Back to Top](#overview)**
     
-    - ## Leetcode (39)
+    - ## Leetcode (40)
       - ## Medium (7)
         - #### Add Two Numbers
              - :gem: Javascript
@@ -1006,7 +1006,7 @@
 
              **[⬆ Back to Top](#overview)**
 
-      - ## Easy (32)
+      - ## Easy (33)
         - #### Add Binary
              - :gem: Javascript
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/67)
@@ -1167,6 +1167,12 @@
         - #### Remove Duplicates from Sorted Array
              - :gem: Javascript
              - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/26)
+
+
+             **[⬆ Back to Top](#overview)**
+        - #### Remove Duplicates from Sorted List
+             - :gem: Javascript
+             - :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/83)
 
 
              **[⬆ Back to Top](#overview)**
@@ -1373,21 +1379,22 @@
 
          **[⬆ Back to Top](#overview)**
 
+      - ## Linked list (5)
+        - [에디터](#에디터)
+        - [Add Two Numbers](#Add-Two-Numbers)
+        - [Linked List Cycle](#Linked-List-Cycle)
+        - [Maximum Subarray](#Maximum-Subarray)
+        - [Remove Duplicates from Sorted List](#Remove-Duplicates-from-Sorted-List)
+
+
+         **[⬆ Back to Top](#overview)**
+
       - ## Tree (5)
         - [Binary Tree Inorder Traversal](#Binary-Tree-Inorder-Traversal)
         - [Binary Tree Level Order Traversal II](#Binary-Tree-Level-Order-Traversal-II)
         - [Binary Tree Level Order Traversal](#Binary-Tree-Level-Order-Traversal)
         - [Binary Tree Postorder Traversal](#Binary-Tree-Postorder-Traversal)
         - [Binary Tree Preorder Traversal](#Binary-Tree-Preorder-Traversal)
-
-
-         **[⬆ Back to Top](#overview)**
-
-      - ## Linked list (4)
-        - [에디터](#에디터)
-        - [Add Two Numbers](#Add-Two-Numbers)
-        - [Linked List Cycle](#Linked-List-Cycle)
-        - [Maximum Subarray](#Maximum-Subarray)
 
 
          **[⬆ Back to Top](#overview)**
